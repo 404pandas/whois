@@ -1,11 +1,11 @@
 # Who Is
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-FF0000.svg?style=plastic&logo=loom)](https://opensource.org/licenses/MIT)
-[![Contributors](https://img.shields.io/github/contributors/404pandas/Who-Is-FFA500.svg?style=plastic&logo=githubactions)](https://github.com/404pandas/Who-Is/graphs/contributors)
-[![Forks](https://img.shields.io/github/forks/404pandas/Who-Is-FFFF00.svg?style=plastic&logo=git)](https://github.com/404pandas/Who-Is/network/members)
-[![Stargazers](https://img.shields.io/github/stars/404pandas/Who-Is-00FF00.svg?style=plastic&logo=nebula)](https://github.com/404pandas/Who-Is/stargazers)
-[![Issues](https://img.shields.io/github/issues/404pandas/Who-Is-0000FF.svg?style=plastic&logo=1001tracklists)](https://github.com/404pandas/Who-Is/issues)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-404pandas-4B0082.svg?style=plastic&logo=codementor)](https://linkedin.com/in/404pandas)
+[![Contributors](https://img.shields.io/github/contributors/404pandas/whois-FF7F00.svg?style=plastic&logo=githubactions)](https://github.com/404pandas/whois/graphs/contributors)
+[![Forks](https://img.shields.io/github/forks/404pandas/whois-FFFF00.svg?style=plastic&logo=git)](https://github.com/404pandas/whois/network/members)
+[![Stargazers](https://img.shields.io/github/stars/404pandas/whois-00FF00.svg?style=plastic&logo=nebula)](https://github.com/404pandas/whois/stargazers)
+[![Issues](https://img.shields.io/github/issues/404pandas/whois-0000FF.svg?style=plastic&logo=1001tracklists)](https://github.com/404pandas/whois/issues)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-404pandas-8B00FF.svg?style=plastic&logo=codementor)](https://linkedin.com/in/404pandas)
 
 ## Table of Contents
 
