@@ -1,0 +1,380 @@
+[
+  {
+    "personalityTrait": "Nice",
+    "description": "Kind, considerate, and friendly towards others.",
+    "numberQuestionsRelevant": 0,
+    "partner": null
+  },
+  {
+    "personalityTrait": "Competitive",
+    "description": "Eager to win or be the best; enjoys challenges and competition.",
+    "numberQuestionsRelevant": 0,
+    "partner": null
+  },
+  {
+    "personalityTrait": "Addictive",
+    "description": "Engages intensely in activities or interests, often to the point of obsession.",
+    "numberQuestionsRelevant": 0,
+    "partner": null
+  },
+  {
+    "personalityTrait": "Loving",
+    "description": "Affectionate, caring, and emotionally supportive.",
+    "numberQuestionsRelevant": 0,
+    "partner": null
+  },
+  {
+    "personalityTrait": "Passionate",
+    "description": "Enthusiastic and deeply invested in interests or activities.",
+    "numberQuestionsRelevant": 0,
+    "partner": null
+  },
+  {
+    "personalityTrait": "Adventurous",
+    "description": "Willing to take risks and try new experiences.",
+    "numberQuestionsRelevant": 0,
+    "partner": null
+  },
+  {
+    "personalityTrait": "Curious",
+    "description": "Eager to learn and explore new ideas, shows interest in various topics.",
+    "numberQuestionsRelevant": 0,
+    "partner": null
+  },
+  {
+    "personalityTrait": "Laid-back",
+    "description": "Relaxed and easygoing, not easily stressed or upset.",
+    "numberQuestionsRelevant": 0,
+    "partner": null
+  },
+  {
+    "personalityTrait": "Analytical",
+    "description": "Enjoys thinking critically and solving problems; often seeks to understand deeper meanings.",
+    "numberQuestionsRelevant": 0,
+    "partner": null
+  },
+  {
+    "personalityTrait": "Empathetic",
+    "description": "Able to understand and share the feelings of others; sensitive to emotions.",
+    "numberQuestionsRelevant": 0,
+    "partner": null
+  },
+  {
+    "personalityTrait": "Creative",
+    "description": "Imaginative and original; enjoys expressing ideas in unique ways.",
+    "numberQuestionsRelevant": 0,
+    "partner": null
+  },
+  {
+    "personalityTrait": "Sociable",
+    "description": "Enjoys being around others and engaging in social activities.",
+    "numberQuestionsRelevant": 0,
+    "partner": null
+  },
+  {
+    "personalityTrait": "Nostalgic",
+    "description": "Fond of the past; often reminisces about previous experiences.",
+    "numberQuestionsRelevant": 0,
+    "partner": null
+  },
+  {
+    "personalityTrait": "Spontaneous",
+    "description": "Acts on impulse; enjoys making quick decisions without much planning.",
+    "numberQuestionsRelevant": 0,
+    "partner": null
+  },
+  {
+    "personalityTrait": "Supportive",
+    "description": "Encouraging and helpful towards others, especially in their pursuits.",
+    "numberQuestionsRelevant": 0,
+    "partner": null
+  },
+  {
+    "personalityTrait": "Open-minded",
+    "description": "Willing to consider new ideas and perspectives; non-judgmental.",
+    "numberQuestionsRelevant": 0,
+    "partner": null
+  },
+  {
+    "personalityTrait": "Determined",
+    "description": "Persistent and focused on achieving goals, regardless of obstacles.",
+    "numberQuestionsRelevant": 0,
+    "partner": null
+  },
+  {
+    "personalityTrait": "Humorous",
+    "description": "Enjoys making others laugh; has a good sense of humor.",
+    "numberQuestionsRelevant": 0,
+    "partner": null
+  },
+  {
+    "personalityTrait": "Romantic",
+    "description": "Idealistic about love and relationships; enjoys expressing affection.",
+    "numberQuestionsRelevant": 0,
+    "partner": null
+  },
+  {
+    "personalityTrait": "Resourceful",
+    "description": "Able to find quick and clever ways to overcome difficulties.",
+    "numberQuestionsRelevant": 0,
+    "partner": null
+  },
+  {
+    "personalityTrait": "Optimistic",
+    "description": "Generally positive and hopeful about the future.",
+    "numberQuestionsRelevant": 0,
+    "partner": null
+  },
+  {
+    "personalityTrait": "Punctual",
+    "description": "Values time and is often on time for appointments and events.",
+    "numberQuestionsRelevant": 0,
+    "partner": null
+  },
+  {
+    "personalityTrait": "Daring",
+    "description": "Willing to take bold risks; enjoys thrilling experiences.",
+    "numberQuestionsRelevant": 0,
+    "partner": null
+  },
+  {
+    "personalityTrait": "Detail-oriented",
+    "description": "Pays attention to small details; thorough in tasks and activities.",
+    "numberQuestionsRelevant": 0,
+    "partner": null
+  },
+  {
+    "personalityTrait": "Intuitive",
+    "description": "Relies on instincts and gut feelings; often understands things without needing to analyze.",
+    "numberQuestionsRelevant": 0,
+    "partner": null
+  },
+  {
+    "personalityTrait": "Generous",
+    "description": "Willing to give time, resources, or support to others.",
+    "numberQuestionsRelevant": 0,
+    "partner": null
+  },
+  {
+    "personalityTrait": "Independent",
+    "description": "Self-sufficient and prefers to rely on oneself.",
+    "numberQuestionsRelevant": 0,
+    "partner": null
+  },
+  {
+    "personalityTrait": "Loyal",
+    "description": "Faithful and devoted to friends, family, and commitments.",
+    "numberQuestionsRelevant": 0,
+    "partner": null
+  },
+  {
+    "personalityTrait": "Pragmatic",
+    "description": "Practical and focused on results; values realistic solutions.",
+    "numberQuestionsRelevant": 0,
+    "partner": null
+  },
+  {
+    "personalityTrait": "Skeptical",
+    "description": "Questioning and critical; often doubts accepted beliefs or claims.",
+    "numberQuestionsRelevant": 0,
+    "partner": null
+  },
+  {
+    "personalityTrait": "Adventurous",
+    "description": "Willing to take risks and try new experiences.",
+    "numberQuestionsRelevant": 0,
+    "partner": null
+  },
+  {
+    "personalityTrait": "Meticulous",
+    "description": "Very careful and precise; pays great attention to detail.",
+    "numberQuestionsRelevant": 0,
+    "partner": null
+  },
+  {
+    "personalityTrait": "Charismatic",
+    "description": "Charming and able to attract, influence, and inspire others.",
+    "numberQuestionsRelevant": 0,
+    "partner": null
+  },
+  {
+    "personalityTrait": "Resilient",
+    "description": "Able to recover quickly from difficulties; tough and adaptable.",
+    "numberQuestionsRelevant": 0,
+    "partner": null
+  },
+  {
+    "personalityTrait": "Cautious",
+    "description": "Careful to avoid potential problems or dangers; thinks before acting.",
+    "numberQuestionsRelevant": 0,
+    "partner": null
+  },
+  {
+    "personalityTrait": "Visionary",
+    "description": "Able to think about or plan the future with imagination or wisdom.",
+    "numberQuestionsRelevant": 0,
+    "partner": null
+  },
+  {
+    "personalityTrait": "Assertive",
+    "description": "Confidently self-assured; able to express opinions and needs clearly.",
+    "numberQuestionsRelevant": 0,
+    "partner": null
+  },
+  {
+    "personalityTrait": "Flexible",
+    "description": "Adaptable and open to change; can adjust to new situations easily.",
+    "numberQuestionsRelevant": 0,
+    "partner": null
+  },
+  {
+    "personalityTrait": "Trustworthy",
+    "description": "Reliable and dependable; can be counted on to keep promises.",
+    "numberQuestionsRelevant": 0,
+    "partner": null
+  },
+  {
+    "personalityTrait": "Inquisitive",
+    "description": "Curious and eager for knowledge; asks questions and seeks information.",
+    "numberQuestionsRelevant": 0,
+    "partner": null
+  },
+  {
+    "personalityTrait": "Playful",
+    "description": "Fun-loving and lighthearted; enjoys joking and playful interactions.",
+    "numberQuestionsRelevant": 0,
+    "partner": null
+  },
+  {
+    "personalityTrait": "Philosophical",
+    "description": "Contemplates deep questions about life, existence, and meaning.",
+    "numberQuestionsRelevant": 0,
+    "partner": null
+  },
+  {
+    "personalityTrait": "Caring",
+    "description": "Shows concern and compassion for others; nurturing and supportive.",
+    "numberQuestionsRelevant": 0,
+    "partner": null
+  },
+  {
+    "personalityTrait": "Self-disciplined",
+    "description": "Able to control impulses and stay focused on goals.",
+    "numberQuestionsRelevant": 0,
+    "partner": null
+  },
+  {
+    "personalityTrait": "Tolerant",
+    "description": "Open to different opinions and practices; accepting of diversity.",
+    "numberQuestionsRelevant": 0,
+    "partner": null
+  },
+  {
+    "personalityTrait": "Diligent",
+    "description": "Hardworking and careful in tasks; puts in effort to achieve goals.",
+    "numberQuestionsRelevant": 0,
+    "partner": null
+  },
+  {
+    "personalityTrait": "Sincere",
+    "description": "Genuine and honest in thoughts and actions; straightforward.",
+    "numberQuestionsRelevant": 0,
+    "partner": null
+  },
+  {
+    "personalityTrait": "Patient",
+    "description": "Able to accept or tolerate delays, problems, or suffering without becoming annoyed.",
+    "numberQuestionsRelevant": 0,
+    "partner": null
+  },
+  {
+    "personalityTrait": "Innovative",
+    "description": "Creative and able to come up with new ideas or methods.",
+    "numberQuestionsRelevant": 0,
+    "partner": null
+  },
+  {
+    "personalityTrait": "Prudent",
+    "description": "Acting with or showing care and thought for the future; cautious.",
+    "numberQuestionsRelevant": 0,
+    "partner": null
+  },
+  {
+    "personalityTrait": "Gregarious",
+    "description": "Fond of company; sociable and outgoing.",
+    "numberQuestionsRelevant": 0,
+    "partner": null
+  },
+  {
+    "personalityTrait": "Altruistic",
+    "description": "Selflessly concerned for the well-being of others; generous.",
+    "numberQuestionsRelevant": 0,
+    "partner": null
+  },
+  {
+    "personalityTrait": "Meticulous",
+    "description": "Showing great attention to detail; very careful and precise.",
+    "numberQuestionsRelevant": 0,
+    "partner": null
+  },
+  {
+    "personalityTrait": "Intellectual",
+    "description": "Engages in critical thinking and values knowledge and learning.",
+    "numberQuestionsRelevant": 0,
+    "partner": null
+  },
+  {
+    "personalityTrait": "Charming",
+    "description": "Pleasant and attractive; able to influence others positively.",
+    "numberQuestionsRelevant": 0,
+    "partner": null
+  },
+  {
+    "personalityTrait": "Witty",
+    "description": "Quick and inventive verbal humor; clever and amusing.",
+    "numberQuestionsRelevant": 0,
+    "partner": null
+  },
+  {
+    "personalityTrait": "Courageous",
+    "description": "Able to confront fear, pain, danger, or adversity.",
+    "numberQuestionsRelevant": 0,
+    "partner": null
+  },
+  {
+    "personalityTrait": "Humble",
+    "description": "Having a modest opinion of one's own importance; not arrogant.",
+    "numberQuestionsRelevant": 0,
+    "partner": null
+  },
+  {
+    "personalityTrait": "Reflective",
+    "description": "Thoughtful and contemplative; often considers past experiences.",
+    "numberQuestionsRelevant": 0,
+    "partner": null
+  },
+  {
+    "personalityTrait": "Assertive",
+    "description": "Confidently self-assured; able to express opinions and needs clearly.",
+    "numberQuestionsRelevant": 0,
+    "partner": null
+  },
+  {
+    "personalityTrait": "Visionary",
+    "description": "Able to think about or plan the future with imagination or wisdom.",
+    "numberQuestionsRelevant": 0,
+    "partner": null
+  },
+  {
+    "personalityTrait": "Skeptical",
+    "description": "Questioning and critical; often doubts accepted beliefs or claims.",
+    "numberQuestionsRelevant": 0,
+    "partner": null
+  },
+  {
+    "personalityTrait": "Pragmatic",
+    "description": "Practical and focused on results; values realistic solutions.",
+    "numberQuestionsRelevant": 0,
+    "partner": null
+  }
+]

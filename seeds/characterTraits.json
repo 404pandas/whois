@@ -1,0 +1,448 @@
+[
+  {
+    "characterTrait": "Honest",
+    "description": "Truthful and sincere in actions and words.",
+    "numberQuestionsRelevant": 0,
+    "partner": null
+  },
+  {
+    "characterTrait": "Loyal",
+    "description": "Devoted to others, especially in friendships or commitments.",
+    "numberQuestionsRelevant": 0,
+    "partner": null
+  },
+  {
+    "characterTrait": "Kind",
+    "description": "Being considerate and caring toward others.",
+    "numberQuestionsRelevant": 0,
+    "partner": null
+  },
+  {
+    "characterTrait": "Brave",
+    "description": "Having courage to face fear or challenges.",
+    "numberQuestionsRelevant": 0,
+    "partner": null
+  },
+  {
+    "characterTrait": "Generous",
+    "description": "Willing to give time, resources, or support to others.",
+    "numberQuestionsRelevant": 0,
+    "partner": null
+  },
+  {
+    "characterTrait": "Patient",
+    "description": "Able to wait without frustration and tolerate delays.",
+    "numberQuestionsRelevant": 0,
+    "partner": null
+  },
+  {
+    "characterTrait": "Respectful",
+    "description": "Showing consideration and esteem for others.",
+    "numberQuestionsRelevant": 0,
+    "partner": null
+  },
+  {
+    "characterTrait": "Compassionate",
+    "description": "Feeling or showing sympathy and concern for others' suffering.",
+    "numberQuestionsRelevant": 0,
+    "partner": null
+  },
+  {
+    "characterTrait": "Hardworking",
+    "description": "Putting in effort and persistence to achieve goals.",
+    "numberQuestionsRelevant": 0,
+    "partner": null
+  },
+  {
+    "characterTrait": "Responsible",
+    "description": "Being accountable for actions and decisions.",
+    "numberQuestionsRelevant": 0,
+    "partner": null
+  },
+  {
+    "characterTrait": "Trustworthy",
+    "description": "Deserving of trust or confidence; reliable.",
+    "numberQuestionsRelevant": 0,
+    "partner": null
+  },
+  {
+    "characterTrait": "Caring",
+    "description": "Showing concern and care for others' well-being.",
+    "numberQuestionsRelevant": 0,
+    "partner": null
+  },
+  {
+    "characterTrait": "Forgiving",
+    "description": "Willing to let go of resentment or anger towards others.",
+    "numberQuestionsRelevant": 0,
+    "partner": null
+  },
+  {
+    "characterTrait": "Ambitious",
+    "description": "Having a strong desire to achieve success and goals.",
+    "numberQuestionsRelevant": 0,
+    "partner": null
+  },
+  {
+    "characterTrait": "Friendly",
+    "description": "Being pleasant, sociable, and easy to talk to.",
+    "numberQuestionsRelevant": 0,
+    "partner": null
+  },
+  {
+    "characterTrait": "Tolerant",
+    "description": "Accepting of differing views or behaviors.",
+    "numberQuestionsRelevant": 0,
+    "partner": null
+  },
+  {
+    "characterTrait": "Wise",
+    "description": "Having experience, knowledge, and good judgment.",
+    "numberQuestionsRelevant": 0,
+    "partner": null
+  },
+  {
+    "characterTrait": "Fair",
+    "description": "Treating all people equally, with no bias or favoritism.",
+    "numberQuestionsRelevant": 0,
+    "partner": null
+  },
+  {
+    "characterTrait": "Self-disciplined",
+    "description": "Able to control one’s behavior and emotions to achieve goals.",
+    "numberQuestionsRelevant": 0,
+    "partner": null
+  },
+  {
+    "characterTrait": "Supportive",
+    "description": "Offering help, encouragement, or emotional backing to others.",
+    "numberQuestionsRelevant": 0,
+    "partner": null
+  },
+  {
+    "characterTrait": "Optimistic",
+    "description": "Having a positive outlook on life and the future.",
+    "numberQuestionsRelevant": 0,
+    "partner": null
+  },
+  {
+    "characterTrait": "Creative",
+    "description": "Able to think outside the box and come up with innovative ideas.",
+    "numberQuestionsRelevant": 0,
+    "partner": null
+  },
+  {
+    "characterTrait": "Honorable",
+    "description": "Having high moral standards and integrity.",
+    "numberQuestionsRelevant": 0,
+    "partner": null
+  },
+  {
+    "characterTrait": "Dependable",
+    "description": "Reliable and able to be counted on in any situation.",
+    "numberQuestionsRelevant": 0,
+    "partner": null
+  },
+  {
+    "characterTrait": "Humble",
+    "description": "Having a modest opinion of oneself; not arrogant.",
+    "numberQuestionsRelevant": 0,
+    "partner": null
+  },
+  {
+    "characterTrait": "Sincere",
+    "description": "Genuine and free from pretense or deceit.",
+    "numberQuestionsRelevant": 0,
+    "partner": null
+  },
+  {
+    "characterTrait": "Authentic",
+    "description": "True to one's own personality, spirit, or character.",
+    "numberQuestionsRelevant": 0,
+    "partner": null
+  },
+  {
+    "characterTrait": "Courageous",
+    "description": "Willing to face fear, danger, or difficulty.",
+    "numberQuestionsRelevant": 0,
+    "partner": null
+  },
+  {
+    "characterTrait": "Understanding",
+    "description": "Being sensitive to and empathetic towards others' feelings or experiences.",
+    "numberQuestionsRelevant": 0,
+    "partner": null
+  },
+  {
+    "characterTrait": "Grateful",
+    "description": "Appreciative of the kindness and generosity of others.",
+    "numberQuestionsRelevant": 0,
+    "partner": null
+  },
+  {
+    "characterTrait": "Modest",
+    "description": "Not boastful or arrogant about achievements or abilities.",
+    "numberQuestionsRelevant": 0,
+    "partner": null
+  },
+  {
+    "characterTrait": "Balanced",
+    "description": "Able to maintain stability in different aspects of life.",
+    "numberQuestionsRelevant": 0,
+    "partner": null
+  },
+  {
+    "characterTrait": "Loyal",
+    "description": "Faithful to commitments and relationships.",
+    "numberQuestionsRelevant": 0,
+    "partner": null
+  },
+  {
+    "characterTrait": "Affectionate",
+    "description": "Showing fondness or love towards others.",
+    "numberQuestionsRelevant": 0,
+    "partner": null
+  },
+  {
+    "characterTrait": "Genuine",
+    "description": "Authentic and honest in emotions or actions.",
+    "numberQuestionsRelevant": 0,
+    "partner": null
+  },
+  {
+    "characterTrait": "Tactful",
+    "description": "Showing sensitivity in dealing with others or difficult situations.",
+    "numberQuestionsRelevant": 0,
+    "partner": null
+  },
+  {
+    "characterTrait": "Resourceful",
+    "description": "Able to find quick and clever ways to solve problems.",
+    "numberQuestionsRelevant": 0,
+    "partner": null
+  },
+  {
+    "characterTrait": "Empathetic",
+    "description": "Able to understand and share the feelings of others.",
+    "numberQuestionsRelevant": 0,
+    "partner": null
+  },
+  {
+    "characterTrait": "Persevering",
+    "description": "Continuing to do something despite difficulties or obstacles.",
+    "numberQuestionsRelevant": 0,
+    "partner": null
+  },
+  {
+    "characterTrait": "Gracious",
+    "description": "Showing kindness and warmth in difficult situations.",
+    "numberQuestionsRelevant": 0,
+    "partner": null
+  },
+  {
+    "characterTrait": "Non-judgmental",
+    "description": "Not forming an opinion about someone based on limited information.",
+    "numberQuestionsRelevant": 0,
+    "partner": null
+  },
+  {
+    "characterTrait": "Modest",
+    "description": "Having a humble attitude toward one's achievements or abilities.",
+    "numberQuestionsRelevant": 0,
+    "partner": null
+  },
+  {
+    "characterTrait": "Observant",
+    "description": "Paying attention to details and being mindful of surroundings.",
+    "numberQuestionsRelevant": 0,
+    "partner": null
+  },
+  {
+    "characterTrait": "Flexible",
+    "description": "Able to adapt easily to new or changing situations.",
+    "numberQuestionsRelevant": 0,
+    "partner": null
+  },
+  {
+    "characterTrait": "Disciplined",
+    "description": "Having the ability to control one's actions and stick to plans.",
+    "numberQuestionsRelevant": 0,
+    "partner": null
+  },
+  {
+    "characterTrait": "Ambitious",
+    "description": "Driven and eager to achieve great things or goals.",
+    "numberQuestionsRelevant": 0,
+    "partner": null
+  },
+  {
+    "characterTrait": "Affectionate",
+    "description": "Displaying warmth, love, or fondness towards others.",
+    "numberQuestionsRelevant": 0,
+    "partner": null
+  },
+  {
+    "characterTrait": "Intelligent",
+    "description": "Having the ability to reason, understand, and learn quickly.",
+    "numberQuestionsRelevant": 0,
+    "partner": null
+  },
+  {
+    "characterTrait": "Visionary",
+    "description": "Having clear ideas about the future and innovative goals.",
+    "numberQuestionsRelevant": 0,
+    "partner": null
+  },
+  {
+    "characterTrait": "Selfless",
+    "description": "Concerned more with the well-being of others than with oneself.",
+    "numberQuestionsRelevant": 0,
+    "partner": null
+  },
+  {
+    "characterTrait": "Gamer",
+    "description": "Someone who enjoys playing video games and often spends time exploring different game worlds or participating in competitive gaming.",
+    "numberQuestionsRelevant": 0,
+    "partner": null
+  },
+  {
+    "characterTrait": "Adventure-seeker",
+    "description": "A person who enjoys seeking out thrilling and exciting experiences, often involving travel, exploration, or physical challenges.",
+    "numberQuestionsRelevant": 0,
+    "partner": null
+  },
+  {
+    "characterTrait": "Tech-wiz",
+    "description": "An individual with a strong aptitude for technology, often skilled in areas like coding, software development, or understanding complex technical systems.",
+    "numberQuestionsRelevant": 0,
+    "partner": null
+  },
+  [
+    {
+      "characterTrait": "Gamer",
+      "description": "Someone who enjoys playing video games and often spends time exploring different game worlds or participating in competitive gaming.",
+      "numberQuestionsRelevant": 0,
+      "partner": null
+    },
+    {
+      "characterTrait": "Adventure-seeker",
+      "description": "A person who enjoys seeking out thrilling and exciting experiences, often involving travel, exploration, or physical challenges.",
+      "numberQuestionsRelevant": 0,
+      "partner": null
+    },
+    {
+      "characterTrait": "Tech-wiz",
+      "description": "An individual with a strong aptitude for technology, often skilled in areas like coding, software development, or understanding complex technical systems.",
+      "numberQuestionsRelevant": 0,
+      "partner": null
+    },
+    {
+      "characterTrait": "Empathetic",
+      "description": "Someone who can easily understand and share the feelings of others, often able to offer comfort or support in difficult times.",
+      "numberQuestionsRelevant": 0,
+      "partner": null
+    },
+    {
+      "characterTrait": "Optimistic",
+      "description": "A person who consistently maintains a hopeful outlook, focusing on positive outcomes even in difficult situations.",
+      "numberQuestionsRelevant": 0,
+      "partner": null
+    },
+    {
+      "characterTrait": "Introvert",
+      "description": "Someone who prefers solitude or small groups and feels drained after social interactions, often recharging through alone time.",
+      "numberQuestionsRelevant": 0,
+      "partner": null
+    },
+    {
+      "characterTrait": "Perfectionist",
+      "description": "An individual who strives for flawlessness, setting high standards and often focusing on fine details.",
+      "numberQuestionsRelevant": 0,
+      "partner": null
+    },
+    {
+      "characterTrait": "Adventurous",
+      "description": "A person who seeks new and thrilling experiences, often stepping out of their comfort zone to explore unfamiliar places or activities.",
+      "numberQuestionsRelevant": 0,
+      "partner": null
+    },
+    {
+      "characterTrait": "Creative",
+      "description": "Someone who has a knack for thinking outside the box and coming up with original ideas or solutions.",
+      "numberQuestionsRelevant": 0,
+      "partner": null
+    },
+    {
+      "characterTrait": "Organized",
+      "description": "A person who enjoys maintaining order, often planning ahead and keeping their environment neat and structured.",
+      "numberQuestionsRelevant": 0,
+      "partner": null
+    },
+    {
+      "characterTrait": "Empathetic Listener",
+      "description": "Someone who listens intently, showing understanding and offering emotional support when others speak.",
+      "numberQuestionsRelevant": 0,
+      "partner": null
+    },
+    {
+      "characterTrait": "Stubborn",
+      "description": "An individual who is resistant to changing their mind or accepting different viewpoints, often holding firm to their beliefs.",
+      "numberQuestionsRelevant": 0,
+      "partner": null
+    },
+    {
+      "characterTrait": "Risk-taker",
+      "description": "A person who is willing to take chances, often seeking out situations that involve some level of danger or uncertainty.",
+      "numberQuestionsRelevant": 0,
+      "partner": null
+    },
+    {
+      "characterTrait": "Patient",
+      "description": "Someone who remains calm and composed, even in situations where waiting is required or frustration could arise.",
+      "numberQuestionsRelevant": 0,
+      "partner": null
+    },
+    {
+      "characterTrait": "Confident",
+      "description": "A person who believes in their own abilities and is self-assured in their decisions and actions.",
+      "numberQuestionsRelevant": 0,
+      "partner": null
+    },
+    {
+      "characterTrait": "Resourceful",
+      "description": "An individual who is able to find quick and clever ways to solve problems or make the most of available resources.",
+      "numberQuestionsRelevant": 0,
+      "partner": null
+    },
+    {
+      "characterTrait": "Support-seeking",
+      "description": "A person who turns to others for help, advice, or emotional support in times of need.",
+      "numberQuestionsRelevant": 0,
+      "partner": null
+    },
+    {
+      "characterTrait": "Decisive",
+      "description": "Someone who makes quick, confident decisions and sticks to them, even under pressure.",
+      "numberQuestionsRelevant": 0,
+      "partner": null
+    },
+    {
+      "characterTrait": "Curious",
+      "description": "A person who is eager to learn, explore, and understand new things, constantly seeking knowledge or new experiences.",
+      "numberQuestionsRelevant": 0,
+      "partner": null
+    },
+    {
+      "characterTrait": "Self-sufficient",
+      "description": "Someone who prefers to rely on themselves and handles tasks independently, without needing much external help.",
+      "numberQuestionsRelevant": 0,
+      "partner": null
+    },
+    {
+      "characterTrait": "Humble",
+      "description": "A person who does not boast or seek attention for their achievements, showing modesty and respect for others.",
+      "numberQuestionsRelevant": 0,
+      "partner": null
+    }
+  ]
+]

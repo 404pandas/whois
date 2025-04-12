@@ -1,0 +1,122 @@
+{
+  "lifestyle": {
+    "characterTrait": "Planner",
+    "description": "An individual who enjoys organizing and scheduling, often carefully planning ahead for events, projects, or trips.",
+    "numberQuestionsRelevant": 4,
+    "partner": null
+  },
+  "personality": {
+    "characterTrait": "Creative",
+    "description": "Someone who has a knack for thinking outside the box and coming up with original ideas or solutions.",
+    "numberQuestionsRelevant": 7,
+    "partner": null
+  },
+  "food": {
+    "characterTrait": "Foodie",
+    "description": "An individual who enjoys exploring different types of food, often trying new cuisines and sharing their culinary experiences.",
+    "numberQuestionsRelevant": 6,
+    "partner": null
+  },
+  "sports": {
+    "characterTrait": "Fitness-enthusiast",
+    "description": "An individual who values physical activity and maintains a focus on physical health, often participating in regular exercise or sports.",
+    "numberQuestionsRelevant": 9,
+    "partner": null
+  },
+  "tv_movies": {
+    "characterTrait": "Cinephile",
+    "description": "A person who has a deep love and knowledge of films, often discussing directors, actors, and cinematic techniques.",
+    "numberQuestionsRelevant": 2,
+    "partner": null
+  },
+  "entertainment": {
+    "characterTrait": "Social Butterfly",
+    "description": "Someone who thrives in social situations and enjoys interacting with others, often seeking out gatherings and parties.",
+    "numberQuestionsRelevant": 6,
+    "partner": null
+  },
+  "romance": {
+    "characterTrait": "Adventurer",
+    "description": "A person who enjoys seeking out thrilling and exciting experiences, often involving travel, exploration, or physical challenges.",
+    "numberQuestionsRelevant": 8,
+    "partner": null
+  },
+  "books": {
+    "characterTrait": "Reader",
+    "description": "Someone who enjoys reading books, often engaging with literature across various genres, from fiction to non-fiction.",
+    "numberQuestionsRelevant": 5,
+    "partner": null
+  },
+  "travel": {
+    "characterTrait": "Traveller",
+    "description": "Someone who enjoys exploring new places and cultures, often seeking out opportunities for travel, whether for leisure or work.",
+    "numberQuestionsRelevant": 7,
+    "partner": null
+  },
+  "fashion": {
+    "characterTrait": "Creative",
+    "description": "Someone who has a knack for thinking outside the box and coming up with original ideas or solutions.",
+    "numberQuestionsRelevant": 7,
+    "partner": null
+  },
+  "music": {
+    "characterTrait": "Musician",
+    "description": "A person who is skilled at creating or performing music, whether through playing an instrument, singing, or composing.",
+    "numberQuestionsRelevant": 3,
+    "partner": null
+  },
+  "technology": {
+    "characterTrait": "Tech-wiz",
+    "description": "An individual with a strong aptitude for technology, often skilled in areas like coding, software development, or understanding complex technical systems.",
+    "numberQuestionsRelevant": 5,
+    "partner": null
+  },
+  "pets_animals": {
+    "characterTrait": "Pet-lover",
+    "description": "Someone who has a strong affection for animals, often keeping pets and engaging in activities that involve animals.",
+    "numberQuestionsRelevant": 2,
+    "partner": null
+  },
+  "health_fitness": {
+    "characterTrait": "Fitness-enthusiast",
+    "description": "An individual who values physical activity and maintains a focus on physical health, often participating in regular exercise or sports.",
+    "numberQuestionsRelevant": 9,
+    "partner": null
+  },
+  "gadgets": {
+    "characterTrait": "Tech-wiz",
+    "description": "An individual with a strong aptitude for technology, often skilled in areas like coding, software development, or understanding complex technical systems.",
+    "numberQuestionsRelevant": 5,
+    "partner": null
+  },
+  "travel_adventure": {
+    "characterTrait": "Adventure-seeker",
+    "description": "A person who enjoys seeking out thrilling and exciting experiences, often involving travel, exploration, or physical challenges.",
+    "numberQuestionsRelevant": 8,
+    "partner": null
+  },
+  "childhood_family": {
+    "characterTrait": "Altruistic",
+    "description": "Someone who is driven by a desire to help others, often prioritizing the well-being of others and contributing to charitable causes.",
+    "numberQuestionsRelevant": 2,
+    "partner": null
+  },
+  "personal_values": {
+    "characterTrait": "Philosopher",
+    "description": "An individual who enjoys thinking deeply about the world, asking profound questions, and contemplating life’s bigger meanings.",
+    "numberQuestionsRelevant": 3,
+    "partner": null
+  },
+  "career_education": {
+    "characterTrait": "Entrepreneur",
+    "description": "An individual who is highly motivated to create and build businesses, often taking risks to innovate and pursue new opportunities.",
+    "numberQuestionsRelevant": 5,
+    "partner": null
+  },
+  "relationships": {
+    "characterTrait": "Social Butterfly",
+    "description": "Someone who thrives in social situations and enjoys interacting with others, often seeking out gatherings and parties.",
+    "numberQuestionsRelevant": 6,
+    "partner": null
+  }
+}
