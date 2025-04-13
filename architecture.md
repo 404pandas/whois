@@ -4,6 +4,26 @@ This document outlines the **Socket.IO Events**, **GraphQL Queries, Mutations**,
 
 ---
 
+## Table of Contents
+- [Socket.IO Events](#socketio-events)
+  - [Connection / Room Management](#connection--room-management)
+  - [Game Flow](#game-flow)
+  - [Sync & Disconnect](#sync-&-disconnect)
+- [GraphQL Schema](#graphql-schema)
+  - [Queries](#queries)
+  - [Mutations](#mutations)
+  - [Subscriptions](#subscriptions)
+- [Notes](#notes)
+- [Additional Socket.IO Events for Room Code System](#additional-socketio-events-for-room-code-system)
+  - [Room Management](#room-management)
+  - [Pre-Game Lobby](#pre-game-lobby)
+  - [In-Game Sync](#in-game-sync)
+  - [Post-Game](#post-game)
+- [Additional GraphQL Operations](#additional-graphql-operations)
+  - [Queries](#queries)
+  - [Mutations](#mutations)
+  - [Subscriptions](#subscriptions)
+
 ## Socket.IO Events
 
 ### Connection / Room Management
@@ -190,3 +210,63 @@ onQuestionFlaggedOrBlocked(userId: ID!): Question
 
 - **exit_to_dashboard**: `{ userId: string }`  
   Cleans up sockets and disconnects the user from the room.
+
+
+## Additional GraphQL Operations
+
+### Queries
+- **getRoomStatus(roomCode: String!)**  
+  Returns current users, readiness, and question progress.
+
+- **getCurrentSession(userId: ID!)**  
+  Recovers session state if user reconnects.
+
+- **getUserStats(userId: ID!)**  
+  Detailed stats like agreement percentage and characteristics.
+
+- **searchQuestions(term: String!)**  
+  Search bar support for question suggestions.
+
+- **getBlockedQuestions(userId: ID!)**  
+  Retrieves user's blocked questions.
+
+### Mutations
+- **submitCustomQuestion(input: QuestionInput!)**  
+  Suggest a new question for review.
+
+- **flagQuestion(questionId: ID!, reason: String)**  
+  Report a question for review.
+
+- **blockQuestion(questionId: ID!, userId: ID!)**  
+  Block question from appearing in sessions.
+
+- **unblockQuestion(questionId: ID!, userId: ID!)**  
+  Unblock a previously blocked question.
+
+- **recordAnswer(input: AnswerInput!)**  
+  Saves answers from a session.
+
+- **endSession(sessionId: ID!)**  
+  Gracefully ends the session and stores data.
+
+- **saveFeedback(input: FeedbackInput!)**  
+  Capture user feedback post-session.
+
+### Subscriptions
+- **onPartnerJoin(roomCode: String!)**  
+  Triggers when second user joins.
+
+- **onPartnerReady(roomCode: String!)**  
+  Fires when one user is marked as ready.
+
+- **onSessionStart(roomCode: String!)**  
+  Signals game start when both users are ready.
+
+- **onNewAnswer(roomCode: String!)**  
+  Live updates when one user answers.
+
+- **onSessionEnd(roomCode: String!)**  
+  Notifies both users when game ends.
+
+- **onRematchRequested(roomCode: String!)**  
+  Emits when a user requests rematch.
