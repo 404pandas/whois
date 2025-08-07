@@ -1,4 +1,4 @@
-import React, { useEffect, useState } from "react";
+import { useEffect, useState } from "react";
 import { StyleSheet, View, TouchableOpacity } from "react-native";
 import {
   Text,
@@ -8,11 +8,14 @@ import {
   IconButton,
 } from "react-native-paper";
 import theme from "@/theme";
+import { router } from "expo-router";
 
 const TOTAL_TIME = 15;
 
 const Gameboard = () => {
   const [timeLeft, setTimeLeft] = useState(TOTAL_TIME);
+  const [playerAPick, setPlayerAPick] = useState<string | null>(null);
+  const [playerBPick, setPlayerBPick] = useState<string | null>(null);
 
   useEffect(() => {
     const interval = setInterval(() => {
@@ -30,6 +33,22 @@ const Gameboard = () => {
 
   const handlePick = (player: "Player A" | "Player B") => {
     console.log(`${player} clicked`);
+    if (timeLeft > 0 || (playerAPick && playerBPick)) {
+      // Show results modal if both players have picked
+      if (
+        (player === "Player A" && !playerAPick && playerBPick) ||
+        (player === "Player B" && !playerBPick && playerAPick)
+      ) {
+        // Navigate to results tab
+        router.push("/(tabs)/results" as any);
+      }
+    }
+
+    if (player === "Player A" && !playerAPick) {
+      setPlayerAPick("picked");
+    } else if (player === "Player B" && !playerBPick) {
+      setPlayerBPick("picked");
+    }
   };
 
   return (
@@ -75,6 +94,27 @@ const Gameboard = () => {
           style={styles.progressBar}
         />
       </View>
+
+      <Surface
+        style={{ padding: 16, backgroundColor: theme.colors.background }}
+      >
+        <Text style={{ color: theme.colors.text, fontSize: 16 }}>
+          Time left: {timeLeft} seconds
+        </Text>
+        <IconButton
+          icon='refresh'
+          size={24}
+          onPress={() => setTimeLeft(TOTAL_TIME)}
+          iconColor={theme.colors.primary}
+        />
+      </Surface>
+      <Surface
+        style={{ padding: 16, backgroundColor: theme.colors.background }}
+      >
+        <Text style={{ color: theme.colors.text, fontSize: 16 }}>
+          Waiting for player(s)...{" "}
+        </Text>
+      </Surface>
     </Surface>
   );
 };

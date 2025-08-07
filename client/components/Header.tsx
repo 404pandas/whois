@@ -1,7 +1,6 @@
-import React from "react";
-import { StyleSheet } from "react-native";
+import { StyleSheet, TouchableOpacity } from "react-native";
 import { Surface, Text, useTheme } from "react-native-paper";
-import { Link } from "expo-router";
+import { router } from "expo-router";
 
 export const Header = () => {
   const theme = useTheme();
@@ -10,11 +9,11 @@ export const Header = () => {
     <Surface
       style={[styles.container, { backgroundColor: theme.colors.background }]}
     >
-      <Link href='/gameboard' asChild>
+      <TouchableOpacity onPress={() => router.push("/(tabs)/gameboard" as any)}>
         <Text style={[styles.link, { color: theme.colors.primary }]}>
           Go to Game
         </Text>
-      </Link>
+      </TouchableOpacity>
     </Surface>
   );
 };
