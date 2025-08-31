@@ -5,32 +5,43 @@ import theme from "../theme";
 import io from "socket.io-client";
 import { useEffect, useState } from "react";
 
-const socket = io("http://localhost:3001"); // replace with your server URL
+const socket = io("http://localhost:3001", {
+  reconnectionAttempts: 3, // try reconnecting 3 times
+  timeout: 5000, // 5 second timeout
+});
 
 const CreateGame = () => {
   const [roomCode, setRoomCode] = useState("");
-  const [messages, setMessages] = useState<string[]>([]);
+  const [error, setError] = useState<string | null>(null);
 
   useEffect(() => {
-    socket.on("player_joined", ({ playerId }) => {
-      setMessages((prev) => [...prev, `Player joined: ${playerId}`]);
+    // listen for errors
+    socket.on("connect_error", (err) => {
+      console.error("Socket connection error:", err.message);
+      setError("Could not connect to the game server. Please try again.");
     });
 
-    socket.on("new_question", ({ question }) => {
-      setMessages((prev) => [...prev, `Question: ${question}`]);
+    socket.on("connect_timeout", () => {
+      console.error("Socket connection timeout");
+      setError("Connection to server timed out. Please check your network.");
     });
 
     return () => {
       socket.off("player_joined");
       socket.off("new_question");
+      socket.off("connect_error");
+      socket.off("connect_timeout");
     };
   }, []);
 
   const createRoom = () => {
-    console.log(`Room created`);
-    socket.emit("create_room", ({ roomCode }) => {
-      setRoomCode(roomCode);
-      setMessages((prev) => [...prev, `Room created: ${roomCode}`]);
+    setError(null); // clear any existing error before creating a room
+    socket.emit("create_room", (data: { roomCode: string }) => {
+      if (data?.roomCode) {
+        setRoomCode(data.roomCode);
+      } else {
+        setError("Failed to create a game room. Please try again.");
+      }
     });
   };
 
@@ -38,8 +49,6 @@ const CreateGame = () => {
     <PaperProvider theme={theme}>
       <View style={styles.container}>
         <Text style={styles.header}>Who Is...?</Text>
-        {/* socket.io form */}
-        {/* on submit navigate to gameboard */}
 
         <Text
           style={styles.button}
@@ -49,7 +58,9 @@ const CreateGame = () => {
         >
           Create Game
         </Text>
+
         {roomCode ? <Text>Your Room Code: {roomCode}</Text> : null}
+        {error ? <Text style={styles.error}>{error}</Text> : null}
       </View>
     </PaperProvider>
   );
@@ -77,5 +88,11 @@ const styles = StyleSheet.create({
     textAlign: "center",
     margin: 20,
     overflow: "hidden",
+  },
+  error: {
+    color: "red",
+    textAlign: "center",
+    marginTop: 20,
+    fontSize: 16,
   },
 });
