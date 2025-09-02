@@ -1,19 +1,36 @@
 import { PaperProvider } from "react-native-paper";
 import { StyleSheet, Text, TouchableOpacity, View } from "react-native";
+import io from "socket.io-client";
 import theme from "../theme";
-import { useCreateRoomMutation } from "./services/roomApi";
 import { useRouter } from "expo-router";
+import { useEffect, useState } from "react";
+
+// Connect to your Socket.IO server
+const socket = io("http://localhost:3001"); // <-- change to your server URL if needed
 
 const CreateGame = () => {
-  const router = useRouter(); // ✅ useRouter instead of useNavigation
-  const [createRoom, { data, isLoading, isError }] = useCreateRoomMutation();
+  const router = useRouter();
+  const [roomCode, setRoomCode] = useState<string | null>(null);
+  const [isLoading, setIsLoading] = useState(false);
+  const [error, setError] = useState<string | null>(null);
 
-  const handleCreateRoom = async () => {
-    try {
-      await createRoom().unwrap();
-    } catch (err) {
-      console.error("Failed to create room:", err);
-    }
+  const handleCreateRoom = () => {
+    setIsLoading(true);
+    setError(null);
+
+    socket.emit("create_room");
+
+    socket.once("room_created", ({ roomCode }) => {
+      setRoomCode(roomCode);
+      setIsLoading(false);
+    });
+
+    // Optional: handle errors if server emits an error
+    socket.once("error", (err) => {
+      setError("Failed to create room");
+      setIsLoading(false);
+      console.error(err);
+    });
   };
 
   return (
@@ -31,14 +48,14 @@ const CreateGame = () => {
           </Text>
         </TouchableOpacity>
 
-        {isError && <Text style={styles.error}>Failed to create room</Text>}
+        {error && <Text style={styles.error}>{error}</Text>}
 
-        {data?.roomCode && (
+        {roomCode && (
           <>
-            <Text>Your Room Code: {data.roomCode}</Text>
+            <Text style={styles.roomCode}>Your Room Code: {roomCode}</Text>
             <TouchableOpacity
               style={styles.button}
-              onPress={() => router.push("/gameboard")} // ✅ fixed
+              onPress={() => router.push("/gameboard")}
             >
               <Text style={{ color: "#fff", textAlign: "center" }}>
                 Go to Gameboard
@@ -78,5 +95,11 @@ const styles = StyleSheet.create({
     textAlign: "center",
     marginTop: 20,
     fontSize: 16,
+  },
+  roomCode: {
+    fontSize: 20,
+    fontWeight: "bold",
+    textAlign: "center",
+    marginVertical: 20,
   },
 });

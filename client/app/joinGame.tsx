@@ -1,47 +1,51 @@
 import { PaperProvider, TextInput, Button } from "react-native-paper";
 import { StyleSheet, Text, View } from "react-native";
 import theme from "../theme";
-import { router } from "expo-router";
+import { useRouter } from "expo-router"; // ✅ correct way
 import io from "socket.io-client";
 import { useEffect, useState } from "react";
 
+// Connect once
 const socket = io("http://localhost:3001", {
   reconnectionAttempts: 3,
   timeout: 5000,
 });
 
 const JoinGame = () => {
+  const router = useRouter(); // ✅ useRouter hook
   const [roomCode, setRoomCode] = useState("");
   const [joined, setJoined] = useState(false);
   const [error, setError] = useState<string | null>(null);
 
   const joinRoom = () => {
     setError(null);
-    if (!roomCode) {
+    if (!roomCode.trim()) {
       setError("Please enter a room code.");
       return;
     }
-    // No callback needed
-    socket.emit("join_room", { roomCode });
+
+    socket.emit("join_room", { roomCode: roomCode.trim() });
   };
 
-  // Listen for server events
   useEffect(() => {
-    socket.on("join_success", () => {
+    const handleSuccess = () => {
       setJoined(true);
       setError(null);
-      router.push("/gameboard"); // Redirect after joining
-    });
+      router.push("/gameboard"); // ✅ navigate after join
+    };
 
-    socket.on("join_error", ({ error }: { error: string }) => {
+    const handleError = ({ error }: { error: string }) => {
       setError(error || "Failed to join the game.");
-    });
+    };
+
+    socket.on("join_success", handleSuccess);
+    socket.on("join_error", handleError);
 
     return () => {
-      socket.off("join_success");
-      socket.off("join_error");
+      socket.off("join_success", handleSuccess);
+      socket.off("join_error", handleError);
     };
-  }, []);
+  }, [router]);
 
   return (
     <PaperProvider theme={theme}>
