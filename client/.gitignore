@@ -4,3 +4,10 @@
 
 expo-env.d.ts
 # @end expo-cli
+# CocoaPods
+ios/Podfile.lock
+client/ios/Podfile.lock
+
+# Node
+package-lock.json
+client/package-lock.json
