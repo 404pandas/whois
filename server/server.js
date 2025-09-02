@@ -15,21 +15,27 @@ const io = new Server(server, {
 io.on("connection", (socket) => {
   console.log("New client connected:", socket.id);
 
-  socket.on("create_room", (callback) => {
+  socket.on("create_room", () => {
     const roomCode = Math.random().toString(36).substring(2, 7).toUpperCase();
     socket.join(roomCode);
     console.log(`Room created: ${roomCode}`);
-    callback({ roomCode });
+    socket.emit("room_created", { roomCode });
   });
 
-  socket.on("join_room", ({ roomCode }, callback) => {
+  socket.on("join_room", ({ roomCode }) => {
     const room = io.sockets.adapter.rooms.get(roomCode);
     if (room) {
       socket.join(roomCode);
+      console.log(`Player ${socket.id} joined room ${roomCode}`); // <-- Added log
+
       io.to(roomCode).emit("player_joined", { playerId: socket.id });
-      callback({ success: true });
+      socket.emit("join_success");
     } else {
-      callback({ success: false, error: "Room not found" });
+      console.log(
+        `Player ${socket.id} tried to join non-existent room ${roomCode}`
+      ); // Optional
+
+      socket.emit("join_error", { error: "Room not found" });
     }
   });
 

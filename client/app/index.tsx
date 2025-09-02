@@ -16,7 +16,7 @@ export default function App() {
         <Text
           style={styles.button}
           onPress={() => {
-            router.push("/gameboard");
+            router.push("/joinGame");
           }}
         >
           Join Game

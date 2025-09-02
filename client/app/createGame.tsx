@@ -1,13 +1,13 @@
 import { PaperProvider } from "react-native-paper";
 import { StyleSheet, Text, View } from "react-native";
 import theme from "../theme";
-
+import { router } from "expo-router";
 import io from "socket.io-client";
 import { useEffect, useState } from "react";
 
 const socket = io("http://localhost:3001", {
-  reconnectionAttempts: 3, // try reconnecting 3 times
-  timeout: 5000, // 5 second timeout
+  reconnectionAttempts: 3,
+  timeout: 5000,
 });
 
 const CreateGame = () => {
@@ -15,7 +15,14 @@ const CreateGame = () => {
   const [error, setError] = useState<string | null>(null);
 
   useEffect(() => {
-    // listen for errors
+    // Listen for room creation event
+    socket.on("room_created", (data: { roomCode: string }) => {
+      console.log("Room created with code:", data.roomCode);
+      setRoomCode(data.roomCode);
+      router.push("/gameboard"); // Redirect after room is created
+    });
+
+    // Listen for connection errors
     socket.on("connect_error", (err) => {
       console.error("Socket connection error:", err.message);
       setError("Could not connect to the game server. Please try again.");
@@ -27,22 +34,15 @@ const CreateGame = () => {
     });
 
     return () => {
-      socket.off("player_joined");
-      socket.off("new_question");
+      socket.off("room_created");
       socket.off("connect_error");
       socket.off("connect_timeout");
     };
   }, []);
 
   const createRoom = () => {
-    setError(null); // clear any existing error before creating a room
-    socket.emit("create_room", (data: { roomCode: string }) => {
-      if (data?.roomCode) {
-        setRoomCode(data.roomCode);
-      } else {
-        setError("Failed to create a game room. Please try again.");
-      }
-    });
+    setError(null); // clear existing errors
+    socket.emit("create_room"); // emit event without callback
   };
 
   return (
@@ -50,12 +50,7 @@ const CreateGame = () => {
       <View style={styles.container}>
         <Text style={styles.header}>Who Is...?</Text>
 
-        <Text
-          style={styles.button}
-          onPress={() => {
-            createRoom();
-          }}
-        >
+        <Text style={styles.button} onPress={createRoom}>
           Create Game
         </Text>
 

@@ -37,6 +37,7 @@ export default function RootLayout() {
         <Stack.Screen name='+not-found' />
         <Stack.Screen name='gameboard' />
         <Stack.Screen name='results' />
+        <Stack.Screen name='joinGame' />
       </Stack>
       <StatusBar style='auto' />
     </ThemeProvider>
