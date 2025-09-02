@@ -134,3 +134,7 @@ dist
 .yarn/build-state.yml
 .yarn/install-state.gz
 .pnp.*
+
+client/.expo/types/router.d.ts
+client/ios/Podfile.lock
+client/package-lock.json

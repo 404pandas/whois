@@ -11,3 +11,7 @@ client/ios/Podfile.lock
 # Node
 package-lock.json
 client/package-lock.json
+client/.expo/types/router.d.ts
+client/ios/Podfile.lock
+client/package-lock.json
+
