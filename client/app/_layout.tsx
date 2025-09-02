@@ -9,6 +9,8 @@ import * as SplashScreen from "expo-splash-screen";
 import { StatusBar } from "expo-status-bar";
 import { useEffect } from "react";
 import "react-native-reanimated";
+import { Provider } from "react-redux";
+import { store } from "./store";
 
 import { useColorScheme } from "@/hooks/useColorScheme";
 
@@ -33,13 +35,16 @@ export default function RootLayout() {
 
   return (
     <ThemeProvider value={colorScheme === "dark" ? DarkTheme : DefaultTheme}>
-      <Stack>
-        <Stack.Screen name='+not-found' />
-        <Stack.Screen name='gameboard' />
-        <Stack.Screen name='results' />
-        <Stack.Screen name='joinGame' />
-      </Stack>
-      <StatusBar style='auto' />
+      <Provider store={store}>
+        <Stack>
+          <Stack.Screen name='+not-found' />
+          <Stack.Screen name='gameboard' />
+          <Stack.Screen name='results' />
+          <Stack.Screen name='joinGame' />
+          <Stack.Screen name='createGame' />
+        </Stack>
+        <StatusBar style='auto' />
+      </Provider>
     </ThemeProvider>
   );
 }

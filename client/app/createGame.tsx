@@ -1,48 +1,19 @@
 import { PaperProvider } from "react-native-paper";
-import { StyleSheet, Text, View } from "react-native";
+import { StyleSheet, Text, TouchableOpacity, View } from "react-native";
 import theme from "../theme";
-import { router } from "expo-router";
-import io from "socket.io-client";
-import { useEffect, useState } from "react";
-
-const socket = io("http://localhost:3001", {
-  reconnectionAttempts: 3,
-  timeout: 5000,
-});
+import { useCreateRoomMutation } from "./services/roomApi";
+import { useRouter } from "expo-router";
 
 const CreateGame = () => {
-  const [roomCode, setRoomCode] = useState("");
-  const [error, setError] = useState<string | null>(null);
+  const router = useRouter(); // ✅ useRouter instead of useNavigation
+  const [createRoom, { data, isLoading, isError }] = useCreateRoomMutation();
 
-  useEffect(() => {
-    // Listen for room creation event
-    socket.on("room_created", (data: { roomCode: string }) => {
-      console.log("Room created with code:", data.roomCode);
-      setRoomCode(data.roomCode);
-      router.push("/gameboard"); // Redirect after room is created
-    });
-
-    // Listen for connection errors
-    socket.on("connect_error", (err) => {
-      console.error("Socket connection error:", err.message);
-      setError("Could not connect to the game server. Please try again.");
-    });
-
-    socket.on("connect_timeout", () => {
-      console.error("Socket connection timeout");
-      setError("Connection to server timed out. Please check your network.");
-    });
-
-    return () => {
-      socket.off("room_created");
-      socket.off("connect_error");
-      socket.off("connect_timeout");
-    };
-  }, []);
-
-  const createRoom = () => {
-    setError(null); // clear existing errors
-    socket.emit("create_room"); // emit event without callback
+  const handleCreateRoom = async () => {
+    try {
+      await createRoom().unwrap();
+    } catch (err) {
+      console.error("Failed to create room:", err);
+    }
   };
 
   return (
@@ -50,12 +21,31 @@ const CreateGame = () => {
       <View style={styles.container}>
         <Text style={styles.header}>Who Is...?</Text>
 
-        <Text style={styles.button} onPress={createRoom}>
-          Create Game
-        </Text>
+        <TouchableOpacity
+          style={styles.button}
+          onPress={handleCreateRoom}
+          disabled={isLoading}
+        >
+          <Text style={{ color: "#fff", textAlign: "center" }}>
+            {isLoading ? "Creating..." : "Create Game"}
+          </Text>
+        </TouchableOpacity>
 
-        {roomCode ? <Text>Your Room Code: {roomCode}</Text> : null}
-        {error ? <Text style={styles.error}>{error}</Text> : null}
+        {isError && <Text style={styles.error}>Failed to create room</Text>}
+
+        {data?.roomCode && (
+          <>
+            <Text>Your Room Code: {data.roomCode}</Text>
+            <TouchableOpacity
+              style={styles.button}
+              onPress={() => router.push("/gameboard")} // ✅ fixed
+            >
+              <Text style={{ color: "#fff", textAlign: "center" }}>
+                Go to Gameboard
+              </Text>
+            </TouchableOpacity>
+          </>
+        )}
       </View>
     </PaperProvider>
   );
@@ -68,6 +58,7 @@ const styles = StyleSheet.create({
     flex: 1,
     backgroundColor: theme.colors.accent,
     justifyContent: "center",
+    padding: 20,
   },
   header: {
     fontSize: 60,
@@ -80,9 +71,7 @@ const styles = StyleSheet.create({
     backgroundColor: theme.colors.primary,
     padding: 16,
     borderRadius: 8,
-    textAlign: "center",
-    margin: 20,
-    overflow: "hidden",
+    marginVertical: 10,
   },
   error: {
     color: "red",
