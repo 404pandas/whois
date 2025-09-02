@@ -138,3 +138,4 @@ dist
 client/.expo/types/router.d.ts
 client/ios/Podfile.lock
 client/package-lock.json
+test
