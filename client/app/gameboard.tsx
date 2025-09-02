@@ -1,18 +1,28 @@
 import { useEffect, useState } from "react";
 import { StyleSheet, View, TouchableOpacity } from "react-native";
-import { Text, ProgressBar, Surface, IconButton } from "react-native-paper";
+import {
+  Text,
+  ProgressBar,
+  Surface,
+  IconButton,
+  Button,
+} from "react-native-paper";
 import theme from "@/theme";
 import { router } from "expo-router";
 import io from "socket.io-client";
+import { useQuestionCycler } from "../components/QuestionCycler";
 
 const TOTAL_TIME = 15;
 const socket = io("http://localhost:3001"); // make sure your socket import is here
 
 const Gameboard = () => {
-  const [timeLeft, setTimeLeft] = useState(TOTAL_TIME);
   const [playerAPick, setPlayerAPick] = useState<string | null>(null);
   const [playerBPick, setPlayerBPick] = useState<string | null>(null);
   const [players, setPlayers] = useState<string[]>([]); // track joined players
+  const { currentQuestion, timeLeft, nextQuestion } = useQuestionCycler(
+    15,
+    (q) => console.log("New question:", q.text)
+  );
 
   useEffect(() => {
     // Timer
@@ -91,15 +101,10 @@ const Gameboard = () => {
         </TouchableOpacity>
       </View>
 
-      <View style={styles.questionSection}>
-        <Text style={styles.questionText}>
-          Who is more likely to cry during a movie?
-        </Text>
-        <ProgressBar
-          progress={timeLeft / TOTAL_TIME}
-          color={theme.colors.accent}
-          style={styles.progressBar}
-        />
+      <View>
+        <Text>{currentQuestion?.text || "Loading question..."}</Text>
+        <ProgressBar progress={timeLeft / 15} />
+        <Button onPress={nextQuestion}>Skip</Button>
       </View>
 
       <Surface
