@@ -16,19 +16,26 @@ export const roomApi = createApi({
         new Promise((resolve) => {
           socket.emit("create_room");
 
-          socket.once("room_created", ({ roomCode }) => {
+          const handleCreated = ({ roomCode }: { roomCode: string }) => {
             dispatch(setRoomCode(roomCode));
             resolve({ data: { roomCode } });
-          });
 
-          socket.once("error", () => {
+            socket.off("room_created", handleCreated); // ✅ cleanup
+          };
+
+          const handleError = () => {
             resolve({
               error: {
                 status: "CUSTOM_ERROR",
                 error: "Failed to create room",
               },
             });
-          });
+
+            socket.off("error", handleError); // ✅ cleanup
+          };
+
+          socket.on("room_created", handleCreated);
+          socket.on("error", handleError);
         }),
     }),
   }),
