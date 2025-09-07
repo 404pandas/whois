@@ -43,6 +43,11 @@ io.on("connection", (socket) => {
     io.to(roomCode).emit("new_question", { question });
   });
 
+  socket.on("leave_room", ({ roomCode }) => {
+    socket.leave(roomCode);
+    console.log(`Left room: ${roomCode}`);
+  });
+
   socket.on("disconnect", () => {
     console.log("Client disconnected:", socket.id);
   });

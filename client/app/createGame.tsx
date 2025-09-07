@@ -3,14 +3,12 @@ import { StyleSheet, Text, TouchableOpacity, View } from "react-native";
 import theme from "../theme";
 import { useRouter } from "expo-router";
 import { useCreateRoomMutation } from "./services/roomApi";
-import { useSelector } from "react-redux";
-import { RootState } from "./store";
+import { useAppSelector } from "./hooks"; // typed useSelector
 
 const CreateGame = () => {
   const router = useRouter();
-
   const [createRoom, { isLoading, error }] = useCreateRoomMutation();
-  const roomCode = useSelector((state: RootState) => state.room.roomCode);
+  const roomCode = useAppSelector((state) => state.room.roomCode);
 
   return (
     <PaperProvider theme={theme}>
