@@ -14,6 +14,10 @@ import { store } from "./store";
 
 import { useColorScheme } from "@/hooks/useColorScheme";
 
+if (__DEV__) {
+  require("../ReactotronConfig");
+}
+
 // Prevent the splash screen from auto-hiding before asset loading is complete.
 SplashScreen.preventAutoHideAsync();
 
