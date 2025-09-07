@@ -3,7 +3,7 @@ import { createSlice, PayloadAction } from "@reduxjs/toolkit";
 
 export interface Question {
   id: number;
-  text: string;
+  question: string;
 }
 
 interface QuestionsState {

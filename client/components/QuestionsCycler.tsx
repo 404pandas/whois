@@ -5,7 +5,7 @@ import type { RootState, AppDispatch } from "../app/store";
 import { setQuestions, Question } from "../app/services/questionsSlice";
 
 export const useQuestionCycler = (
-  totalTime = 15,
+  totalTime = 30,
   onQuestionChange?: (q: Question) => void
 ) => {
   const dispatch = useDispatch<AppDispatch>();
