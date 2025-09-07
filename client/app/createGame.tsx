@@ -1,37 +1,16 @@
 import { PaperProvider } from "react-native-paper";
 import { StyleSheet, Text, TouchableOpacity, View } from "react-native";
-import io from "socket.io-client";
 import theme from "../theme";
 import { useRouter } from "expo-router";
-import { useEffect, useState } from "react";
-
-// Connect to your Socket.IO server
-const socket = io("http://localhost:3001"); // <-- change to your server URL if needed
+import { useCreateRoomMutation } from "./services/roomApi";
+import { useSelector } from "react-redux";
+import { RootState } from "./store";
 
 const CreateGame = () => {
   const router = useRouter();
-  const [roomCode, setRoomCode] = useState<string | null>(null);
-  const [isLoading, setIsLoading] = useState(false);
-  const [error, setError] = useState<string | null>(null);
 
-  const handleCreateRoom = () => {
-    setIsLoading(true);
-    setError(null);
-
-    socket.emit("create_room");
-
-    socket.once("room_created", ({ roomCode }) => {
-      setRoomCode(roomCode);
-      setIsLoading(false);
-    });
-
-    // Optional: handle errors if server emits an error
-    socket.once("error", (err) => {
-      setError("Failed to create room");
-      setIsLoading(false);
-      console.error(err);
-    });
-  };
+  const [createRoom, { isLoading, error }] = useCreateRoomMutation();
+  const roomCode = useSelector((state: RootState) => state.room.roomCode);
 
   return (
     <PaperProvider theme={theme}>
@@ -40,7 +19,7 @@ const CreateGame = () => {
 
         <TouchableOpacity
           style={styles.button}
-          onPress={handleCreateRoom}
+          onPress={() => createRoom()}
           disabled={isLoading}
         >
           <Text style={{ color: "#fff", textAlign: "center" }}>
@@ -48,7 +27,9 @@ const CreateGame = () => {
           </Text>
         </TouchableOpacity>
 
-        {error && <Text style={styles.error}>{error}</Text>}
+        {error && (
+          <Text style={styles.error}>Failed to create room. Try again.</Text>
+        )}
 
         {roomCode && (
           <>

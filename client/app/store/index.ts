@@ -1,6 +1,7 @@
 import { configureStore } from "@reduxjs/toolkit";
 import { setupListeners } from "@reduxjs/toolkit/query";
 import { roomApi } from "../services/roomApi";
+import roomReducer from "../services/roomSlice";
 
 const createEnhancers = (getDefaultEnhancers: any) => {
   if (__DEV__) {
@@ -13,6 +14,7 @@ const createEnhancers = (getDefaultEnhancers: any) => {
 export const store = configureStore({
   reducer: {
     [roomApi.reducerPath]: roomApi.reducer,
+    room: roomReducer, // <-- ✅ add slice reducer
   },
   middleware: (getDefaultMiddleware) =>
     getDefaultMiddleware().concat(roomApi.middleware),
