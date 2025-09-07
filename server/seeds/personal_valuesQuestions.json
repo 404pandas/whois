@@ -1,0 +1,642 @@
+[
+    {
+        "question": "Who is more likely to volunteer for a cause?",
+        "answer": null,
+        "hasAnswered": false,
+        "hasSkipped": false,
+        "hasBlocked": false,
+        "personalityTraits": null
+    },
+    {
+        "question": "Who is more likely to stand up for their beliefs?",
+        "answer": null,
+        "hasAnswered": false,
+        "hasSkipped": false,
+        "hasBlocked": false,
+        "personalityTraits": null
+    },
+    {
+        "question": "Who is more likely to have a favorite charity?",
+        "answer": null,
+        "hasAnswered": false,
+        "hasSkipped": false,
+        "hasBlocked": false,
+        "personalityTraits": null
+    },
+    {
+        "question": "Who is more likely to prioritize family over work?",
+        "answer": null,
+        "hasAnswered": false,
+        "hasSkipped": false,
+        "hasBlocked": false,
+        "personalityTraits": null
+    },
+    {
+        "question": "Who is more likely to have a strong opinion on social issues?",
+        "answer": null,
+        "hasAnswered": false,
+        "hasSkipped": false,
+        "hasBlocked": false,
+        "personalityTraits": null
+    },
+    {
+        "question": "Who is more likely to practice mindfulness?",
+        "answer": null,
+        "hasAnswered": false,
+        "hasSkipped": false,
+        "hasBlocked": false,
+        "personalityTraits": null
+    },
+    {
+        "question": "Who is more likely to support local businesses?",
+        "answer": null,
+        "hasAnswered": false,
+        "hasSkipped": false,
+        "hasBlocked": false,
+        "personalityTraits": null
+    },
+    {
+        "question": "Who is more likely to have a favorite quote that inspires them?",
+        "answer": null,
+        "hasAnswered": false,
+        "hasSkipped": false,
+        "hasBlocked": false,
+        "personalityTraits": null
+    },
+    {
+        "question": "Who is more likely to advocate for environmental issues?",
+        "answer": null,
+        "hasAnswered": false,
+        "hasSkipped": false,
+        "hasBlocked": false,
+        "personalityTraits": null
+    },
+    {
+        "question": "Who is more likely to have a personal mantra?",
+        "answer": null,
+        "hasAnswered": false,
+        "hasSkipped": false,
+        "hasBlocked": false,
+        "personalityTraits": null
+    },
+    {
+        "question": "Who is more likely to engage in community service?",
+        "answer": null,
+        "hasAnswered": false,
+        "hasSkipped": false,
+        "hasBlocked": false,
+        "personalityTraits": null
+    },
+    {
+        "question": "Who is more likely to have a favorite book that shaped their beliefs?",
+        "answer": null,
+        "hasAnswered": false,
+        "hasSkipped": false,
+        "hasBlocked": false,
+        "personalityTraits": null
+    },
+    {
+        "question": "Who is more likely to mentor others?",
+        "answer": null,
+        "hasAnswered": false,
+        "hasSkipped": false,
+        "hasBlocked": false,
+        "personalityTraits": null
+    },
+    {
+        "question": "Who is more likely to participate in activism?",
+        "answer": null,
+        "hasAnswered": false,
+        "hasSkipped": false,
+        "hasBlocked": false,
+        "personalityTraits": null
+    },
+    {
+        "question": "Who is more likely to have a strong sense of justice?",
+        "answer": null,
+        "hasAnswered": false,
+        "hasSkipped": false,
+        "hasBlocked": false,
+        "personalityTraits": null
+    },
+    {
+        "question": "Who is more likely to practice gratitude?",
+        "answer": null,
+        "hasAnswered": false,
+        "hasSkipped": false,
+        "hasBlocked": false,
+        "personalityTraits": null
+    },
+    {
+        "question": "Who is more likely to have a favorite philosophy?",
+        "answer": null,
+        "hasAnswered": false,
+        "hasSkipped": false,
+        "hasBlocked": false,
+        "personalityTraits": null
+    },
+    {
+        "question": "Who is more likely to engage in discussions about ethics?",
+        "answer": null,
+        "hasAnswered": false,
+        "hasSkipped": false,
+        "hasBlocked": false,
+        "personalityTraits": null
+    },
+    {
+        "question": "Who is more likely to have a favorite documentary that influenced them?",
+        "answer": null,
+        "hasAnswered": false,
+        "hasSkipped": false,
+        "hasBlocked": false,
+        "personalityTraits": null
+    },
+    {
+        "question": "Who is more likely to support mental health awareness?",
+        "answer": null,
+        "hasAnswered": false,
+        "hasSkipped": false,
+        "hasBlocked": false,
+        "personalityTraits": null
+    },
+    {
+        "question": "Who is passionate about volunteering for causes?",
+        "answer": null,
+        "hasAnswered": false,
+        "hasSkipped": false,
+        "hasBlocked": false,
+        "personalityTraits": null
+    },
+    {
+        "question": "Who is known for standing up for their beliefs?",
+        "answer": null,
+        "hasAnswered": false,
+        "hasSkipped": false,
+        "hasBlocked": false,
+        "personalityTraits": null
+    },
+    {
+        "question": "Who is dedicated to supporting their favorite charity?",
+        "answer": null,
+        "hasAnswered": false,
+        "hasSkipped": false,
+        "hasBlocked": false,
+        "personalityTraits": null
+    },
+    {
+        "question": "Who is most likely to prioritize family over work?",
+        "answer": null,
+        "hasAnswered": false,
+        "hasSkipped": false,
+        "hasBlocked": false,
+        "personalityTraits": null
+    },
+    {
+        "question": "Who is vocal about their opinions on social issues?",
+        "answer": null,
+        "hasAnswered": false,
+        "hasSkipped": false,
+        "hasBlocked": false,
+        "personalityTraits": null
+    },
+    {
+        "question": "Who is focused on practicing mindfulness every day?",
+        "answer": null,
+        "hasAnswered": false,
+        "hasSkipped": false,
+        "hasBlocked": false,
+        "personalityTraits": null
+    },
+    {
+        "question": "Who is committed to supporting local businesses?",
+        "answer": null,
+        "hasAnswered": false,
+        "hasSkipped": false,
+        "hasBlocked": false,
+        "personalityTraits": null
+    },
+    {
+        "question": "Who is always quoting inspirational phrases?",
+        "answer": null,
+        "hasAnswered": false,
+        "hasSkipped": false,
+        "hasBlocked": false,
+        "personalityTraits": null
+    },
+    {
+        "question": "Who is an advocate for environmental issues?",
+        "answer": null,
+        "hasAnswered": false,
+        "hasSkipped": false,
+        "hasBlocked": false,
+        "personalityTraits": null
+    },
+    {
+        "question": "Who is known for having a personal mantra they live by?",
+        "answer": null,
+        "hasAnswered": false,
+        "hasSkipped": false,
+        "hasBlocked": false,
+        "personalityTraits": null
+    },
+    {
+        "question": "Who is involved in community service regularly?",
+        "answer": null,
+        "hasAnswered": false,
+        "hasSkipped": false,
+        "hasBlocked": false,
+        "personalityTraits": null
+    },
+    {
+        "question": "Who is influenced by a favorite book that shaped their beliefs?",
+        "answer": null,
+        "hasAnswered": false,
+        "hasSkipped": false,
+        "hasBlocked": false,
+        "personalityTraits": null
+    },
+    {
+        "question": "Who is always mentoring others?",
+        "answer": null,
+        "hasAnswered": false,
+        "hasSkipped": false,
+        "hasBlocked": false,
+        "personalityTraits": null
+    },
+    {
+        "question": "Who is involved in activism for social change?",
+        "answer": null,
+        "hasAnswered": false,
+        "hasSkipped": false,
+        "hasBlocked": false,
+        "personalityTraits": null
+    },
+    {
+        "question": "Who is strongly driven by a sense of justice?",
+        "answer": null,
+        "hasAnswered": false,
+        "hasSkipped": false,
+        "hasBlocked": false,
+        "personalityTraits": null
+    },
+    {
+        "question": "Who is known for practicing gratitude daily?",
+        "answer": null,
+        "hasAnswered": false,
+        "hasSkipped": false,
+        "hasBlocked": false,
+        "personalityTraits": null
+    },
+    {
+        "question": "Who is committed to a personal philosophy they follow?",
+        "answer": null,
+        "hasAnswered": false,
+        "hasSkipped": false,
+        "hasBlocked": false,
+        "personalityTraits": null
+    },
+    {
+        "question": "Who is always engaging in discussions about ethics?",
+        "answer": null,
+        "hasAnswered": false,
+        "hasSkipped": false,
+        "hasBlocked": false,
+        "personalityTraits": null
+    },
+    {
+        "question": "Who is influenced by a documentary that changed their perspective?",
+        "answer": null,
+        "hasAnswered": false,
+        "hasSkipped": false,
+        "hasBlocked": false,
+        "personalityTraits": null
+    },
+    {
+        "question": "Who is actively supporting mental health awareness?",
+        "answer": null,
+        "hasAnswered": false,
+        "hasSkipped": false,
+        "hasBlocked": false,
+        "personalityTraits": null
+    },
+    {
+        "question": "Who is passionate about equality for all?",
+        "answer": null,
+        "hasAnswered": false,
+        "hasSkipped": false,
+        "hasBlocked": false,
+        "personalityTraits": null
+    },
+    {
+        "question": "Who is likely to speak out against injustice?",
+        "answer": null,
+        "hasAnswered": false,
+        "hasSkipped": false,
+        "hasBlocked": false,
+        "personalityTraits": null
+    },
+    {
+        "question": "Who is the first to donate to charity anonymously?",
+        "answer": null,
+        "hasAnswered": false,
+        "hasSkipped": false,
+        "hasBlocked": false,
+        "personalityTraits": null
+    },
+    {
+        "question": "Who is always making decisions based on their values?",
+        "answer": null,
+        "hasAnswered": false,
+        "hasSkipped": false,
+        "hasBlocked": false,
+        "personalityTraits": null
+    },
+    {
+        "question": "Who is involved in charitable work in their community?",
+        "answer": null,
+        "hasAnswered": false,
+        "hasSkipped": false,
+        "hasBlocked": false,
+        "personalityTraits": null
+    },
+    {
+        "question": "Who is known for having a strong moral compass?",
+        "answer": null,
+        "hasAnswered": false,
+        "hasSkipped": false,
+        "hasBlocked": false,
+        "personalityTraits": null
+    },
+    {
+        "question": "Who is living a minimalist lifestyle by choice?",
+        "answer": null,
+        "hasAnswered": false,
+        "hasSkipped": false,
+        "hasBlocked": false,
+        "personalityTraits": null
+    },
+    {
+        "question": "Who is always emphasizing the importance of honesty?",
+        "answer": null,
+        "hasAnswered": false,
+        "hasSkipped": false,
+        "hasBlocked": false,
+        "personalityTraits": null
+    },
+    {
+        "question": "Who is dedicated to their personal growth and development?",
+        "answer": null,
+        "hasAnswered": false,
+        "hasSkipped": false,
+        "hasBlocked": false,
+        "personalityTraits": null
+    },
+    {
+        "question": "Who is involved in social movements that promote equality?",
+        "answer": null,
+        "hasAnswered": false,
+        "hasSkipped": false,
+        "hasBlocked": false,
+        "personalityTraits": null
+    },
+    {
+        "question": "Who is the first to defend the rights of others?",
+        "answer": null,
+        "hasAnswered": false,
+        "hasSkipped": false,
+        "hasBlocked": false,
+        "personalityTraits": null
+    },
+    {
+        "question": "Who is passionate about animal rights?",
+        "answer": null,
+        "hasAnswered": false,
+        "hasSkipped": false,
+        "hasBlocked": false,
+        "personalityTraits": null
+    },
+    {
+        "question": "Who is not afraid to challenge societal norms?",
+        "answer": null,
+        "hasAnswered": false,
+        "hasSkipped": false,
+        "hasBlocked": false,
+        "personalityTraits": null
+    },
+    {
+        "question": "Who is dedicated to keeping a gratitude journal?",
+        "answer": null,
+        "hasAnswered": false,
+        "hasSkipped": false,
+        "hasBlocked": false,
+        "personalityTraits": null
+    },
+    {
+        "question": "Who is committed to regular self-care rituals?",
+        "answer": null,
+        "hasAnswered": false,
+        "hasSkipped": false,
+        "hasBlocked": false,
+        "personalityTraits": null
+    },
+    {
+        "question": "Who is always willing to donate time to others?",
+        "answer": null,
+        "hasAnswered": false,
+        "hasSkipped": false,
+        "hasBlocked": false,
+        "personalityTraits": null
+    },
+    {
+        "question": "Who is driven by their conscience rather than popularity?",
+        "answer": null,
+        "hasAnswered": false,
+        "hasSkipped": false,
+        "hasBlocked": false,
+        "personalityTraits": null
+    },
+    {
+        "question": "Who is volunteering at food banks regularly?",
+        "answer": null,
+        "hasAnswered": false,
+        "hasSkipped": false,
+        "hasBlocked": false,
+        "personalityTraits": null
+    },
+    {
+        "question": "Who is deeply concerned about the environment?",
+        "answer": null,
+        "hasAnswered": false,
+        "hasSkipped": false,
+        "hasBlocked": false,
+        "personalityTraits": null
+    },
+    {
+        "question": "Who is actively supporting human rights organizations?",
+        "answer": null,
+        "hasAnswered": false,
+        "hasSkipped": false,
+        "hasBlocked": false,
+        "personalityTraits": null
+    },
+    {
+        "question": "Who is always trying to spend time meaningfully?",
+        "answer": null,
+        "hasAnswered": false,
+        "hasSkipped": false,
+        "hasBlocked": false,
+        "personalityTraits": null
+    },
+    {
+        "question": "Who is encouraging others to be their best selves?",
+        "answer": null,
+        "hasAnswered": false,
+        "hasSkipped": false,
+        "hasBlocked": false,
+        "personalityTraits": null
+    },
+    {
+        "question": "Who is known for following a personal code of ethics?",
+        "answer": null,
+        "hasAnswered": false,
+        "hasSkipped": false,
+        "hasBlocked": false,
+        "personalityTraits": null
+    },
+    {
+        "question": "Who is willing to donate their skills for free?",
+        "answer": null,
+        "hasAnswered": false,
+        "hasSkipped": false,
+        "hasBlocked": false,
+        "personalityTraits": null
+    },
+    {
+        "question": "Who is always helping others in their free time?",
+        "answer": null,
+        "hasAnswered": false,
+        "hasSkipped": false,
+        "hasBlocked": false,
+        "personalityTraits": null
+    },
+    {
+        "question": "Who is emotionally supportive when others need help?",
+        "answer": null,
+        "hasAnswered": false,
+        "hasSkipped": false,
+        "hasBlocked": false,
+        "personalityTraits": null
+    },
+    {
+        "question": "Who is always living by the motto 'treat others as you want to be treated'?",
+        "answer": null,
+        "hasAnswered": false,
+        "hasSkipped": false,
+        "hasBlocked": false,
+        "personalityTraits": null
+    },
+    {
+        "question": "Who is constantly seeking volunteer opportunities?",
+        "answer": null,
+        "hasAnswered": false,
+        "hasSkipped": false,
+        "hasBlocked": false,
+        "personalityTraits": null
+    },
+    {
+        "question": "Who is committed to regular meditation?",
+        "answer": null,
+        "hasAnswered": false,
+        "hasSkipped": false,
+        "hasBlocked": false,
+        "personalityTraits": null
+    },
+    {
+        "question": "Who is a strong advocate for causes related to equality?",
+        "answer": null,
+        "hasAnswered": false,
+        "hasSkipped": false,
+        "hasBlocked": false,
+        "personalityTraits": null
+    },
+    {
+        "question": "Who is always helping others find their purpose?",
+        "answer": null,
+        "hasAnswered": false,
+        "hasSkipped": false,
+        "hasBlocked": false,
+        "personalityTraits": null
+    },
+    {
+        "question": "Who is committed to making a difference in their local community?",
+        "answer": null,
+        "hasAnswered": false,
+        "hasSkipped": false,
+        "hasBlocked": false,
+        "personalityTraits": null
+    },
+    {
+        "question": "Who is the voice for those who don't have one?",
+        "answer": null,
+        "hasAnswered": false,
+        "hasSkipped": false,
+        "hasBlocked": false,
+        "personalityTraits": null
+    },
+    {
+        "question": "Who is using their platform to promote good?",
+        "answer": null,
+        "hasAnswered": false,
+        "hasSkipped": false,
+        "hasBlocked": false,
+        "personalityTraits": null
+    },
+    {
+        "question": "Who is known for listening to others with empathy?",
+        "answer": null,
+        "hasAnswered": false,
+        "hasSkipped": false,
+        "hasBlocked": false,
+        "personalityTraits": null
+    },
+    {
+        "question": "Who is always fighting for the underdog?",
+        "answer": null,
+        "hasAnswered": false,
+        "hasSkipped": false,
+        "hasBlocked": false,
+        "personalityTraits": null
+    },
+    {
+        "question": "Who is likely to start a fundraiser for a good cause?",
+        "answer": null,
+        "hasAnswered": false,
+        "hasSkipped": false,
+        "hasBlocked": false,
+        "personalityTraits": null
+    },
+    {
+        "question": "Who is dedicated to supporting charities for children?",
+        "answer": null,
+        "hasAnswered": false,
+        "hasSkipped": false,
+        "hasBlocked": false,
+        "personalityTraits": null
+    },
+    {
+        "question": "Who is always encouraging others to get involved in community service?",
+        "answer": null,
+        "hasAnswered": false,
+        "hasSkipped": false,
+        "hasBlocked": false,
+        "personalityTraits": null
+    },
+    {
+        "question": "Who is constantly practicing kindness and compassion?",
+        "answer": null,
+        "hasAnswered": false,
+        "hasSkipped": false,
+        "hasBlocked": false,
+        "personalityTraits": null
+    }
+]

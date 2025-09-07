@@ -18,11 +18,18 @@ export const useQuestionCycler = (
   const timerRef = useRef<number | null>(null);
 
   // Fetch questions
+  // Fetch questions
   useEffect(() => {
     const fetchQuestions = async () => {
       try {
         const res = await fetch("http://localhost:3001/questions");
+        if (!res.ok) {
+          const text = await res.text();
+          console.error("Failed to fetch questions:", text);
+          return;
+        }
         const data: Question[] = await res.json();
+        console.log(data);
         setQuestions(data);
         if (data.length > 0 && onQuestionChange) onQuestionChange(data[0]);
       } catch (err) {

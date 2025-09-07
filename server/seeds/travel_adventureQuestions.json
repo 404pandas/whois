@@ -1,0 +1,994 @@
+[
+    {
+        "question": "Who is more likely to travel to a new country every year?",
+        "answer": null,
+        "hasAnswered": false,
+        "hasSkipped": false,
+        "hasBlocked": false,
+        "personalityTraits": null
+    },
+    {
+        "question": "Who is more likely to go on a spontaneous trip?",
+        "answer": null,
+        "hasAnswered": false,
+        "hasSkipped": false,
+        "hasBlocked": false,
+        "personalityTraits": null
+    },
+    {
+        "question": "Who is more likely to try extreme sports while traveling?",
+        "answer": null,
+        "hasAnswered": false,
+        "hasSkipped": false,
+        "hasBlocked": false,
+        "personalityTraits": null
+    },
+    {
+        "question": "Who is more likely to travel solo?",
+        "answer": null,
+        "hasAnswered": false,
+        "hasSkipped": false,
+        "hasBlocked": false,
+        "personalityTraits": null
+    },
+    {
+        "question": "Who is more likely to visit every continent?",
+        "answer": null,
+        "hasAnswered": false,
+        "hasSkipped": false,
+        "hasBlocked": false,
+        "personalityTraits": null
+    },
+    {
+        "question": "Who is more likely to go backpacking?",
+        "answer": null,
+        "hasAnswered": false,
+        "hasSkipped": false,
+        "hasBlocked": false,
+        "personalityTraits": null
+    },
+    {
+        "question": "Who is more likely to take a road trip?",
+        "answer": null,
+        "hasAnswered": false,
+        "hasSkipped": false,
+        "hasBlocked": false,
+        "personalityTraits": null
+    },
+    {
+        "question": "Who is more likely to try local street food?",
+        "answer": null,
+        "hasAnswered": false,
+        "hasSkipped": false,
+        "hasBlocked": false,
+        "personalityTraits": null
+    },
+    {
+        "question": "Who is more likely to plan a trip around a festival?",
+        "answer": null,
+        "hasAnswered": false,
+        "hasSkipped": false,
+        "hasBlocked": false,
+        "personalityTraits": null
+    },
+    {
+        "question": "Who is more likely to stay in a hostel?",
+        "answer": null,
+        "hasAnswered": false,
+        "hasSkipped": false,
+        "hasBlocked": false,
+        "personalityTraits": null
+    },
+    {
+        "question": "Who is more likely to take a cruise?",
+        "answer": null,
+        "hasAnswered": false,
+        "hasSkipped": false,
+        "hasBlocked": false,
+        "personalityTraits": null
+    },
+    {
+        "question": "Who is more likely to go on a safari?",
+        "answer": null,
+        "hasAnswered": false,
+        "hasSkipped": false,
+        "hasBlocked": false,
+        "personalityTraits": null
+    },
+    {
+        "question": "Who is more likely to travel for work?",
+        "answer": null,
+        "hasAnswered": false,
+        "hasSkipped": false,
+        "hasBlocked": false,
+        "personalityTraits": null
+    },
+    {
+        "question": "Who is more likely to document their travels on social media?",
+        "answer": null,
+        "hasAnswered": false,
+        "hasSkipped": false,
+        "hasBlocked": false,
+        "personalityTraits": null
+    },
+    {
+        "question": "Who is more likely to visit historical landmarks?",
+        "answer": null,
+        "hasAnswered": false,
+        "hasSkipped": false,
+        "hasBlocked": false,
+        "personalityTraits": null
+    },
+    {
+        "question": "Who is more likely to go on a wellness retreat?",
+        "answer": null,
+        "hasAnswered": false,
+        "hasSkipped": false,
+        "hasBlocked": false,
+        "personalityTraits": null
+    },
+    {
+        "question": "Who is more likely to travel with a large group?",
+        "answer": null,
+        "hasAnswered": false,
+        "hasSkipped": false,
+        "hasBlocked": false,
+        "personalityTraits": null
+    },
+    {
+        "question": "Who is more likely to have a travel bucket list?",
+        "answer": null,
+        "hasAnswered": false,
+        "hasSkipped": false,
+        "hasBlocked": false,
+        "personalityTraits": null
+    },
+    {
+        "question": "Who is more likely to take a scenic train ride?",
+        "answer": null,
+        "hasAnswered": false,
+        "hasSkipped": false,
+        "hasBlocked": false,
+        "personalityTraits": null
+    },
+    {
+        "question": "Who is more likely to enjoy cultural experiences while traveling?",
+        "answer": null,
+        "hasAnswered": false,
+        "hasSkipped": false,
+        "hasBlocked": false,
+        "personalityTraits": null
+    },
+    {
+        "question": "Who is always looking for a new adventure?",
+        "answer": null,
+        "hasAnswered": false,
+        "hasSkipped": false,
+        "hasBlocked": false,
+        "personalityTraits": null
+    },
+    {
+        "question": "Who is constantly planning their next trip?",
+        "answer": null,
+        "hasAnswered": false,
+        "hasSkipped": false,
+        "hasBlocked": false,
+        "personalityTraits": null
+    },
+    {
+        "question": "Who is happiest when traveling?",
+        "answer": null,
+        "hasAnswered": false,
+        "hasSkipped": false,
+        "hasBlocked": false,
+        "personalityTraits": null
+    },
+    {
+        "question": "Who is the most likely to get lost in a new city?",
+        "answer": null,
+        "hasAnswered": false,
+        "hasSkipped": false,
+        "hasBlocked": false,
+        "personalityTraits": null
+    },
+    {
+        "question": "Who is always the first to suggest a vacation?",
+        "answer": null,
+        "hasAnswered": false,
+        "hasSkipped": false,
+        "hasBlocked": false,
+        "personalityTraits": null
+    },
+    {
+        "question": "Who is most likely to join a group tour?",
+        "answer": null,
+        "hasAnswered": false,
+        "hasSkipped": false,
+        "hasBlocked": false,
+        "personalityTraits": null
+    },
+    {
+        "question": "Who is always looking for a deal on flights?",
+        "answer": null,
+        "hasAnswered": false,
+        "hasSkipped": false,
+        "hasBlocked": false,
+        "personalityTraits": null
+    },
+    {
+        "question": "Who is always up for a road trip?",
+        "answer": null,
+        "hasAnswered": false,
+        "hasSkipped": false,
+        "hasBlocked": false,
+        "personalityTraits": null
+    },
+    {
+        "question": "Who is most likely to try skydiving?",
+        "answer": null,
+        "hasAnswered": false,
+        "hasSkipped": false,
+        "hasBlocked": false,
+        "personalityTraits": null
+    },
+    {
+        "question": "Who is always seeking out unique experiences abroad?",
+        "answer": null,
+        "hasAnswered": false,
+        "hasSkipped": false,
+        "hasBlocked": false,
+        "personalityTraits": null
+    },
+    {
+        "question": "Who is most likely to go on a spontaneous adventure?",
+        "answer": null,
+        "hasAnswered": false,
+        "hasSkipped": false,
+        "hasBlocked": false,
+        "personalityTraits": null
+    },
+    {
+        "question": "Who is known for traveling to places off the beaten path?",
+        "answer": null,
+        "hasAnswered": false,
+        "hasSkipped": false,
+        "hasBlocked": false,
+        "personalityTraits": null
+    },
+    {
+        "question": "Who is the best at finding hidden gems while traveling?",
+        "answer": null,
+        "hasAnswered": false,
+        "hasSkipped": false,
+        "hasBlocked": false,
+        "personalityTraits": null
+    },
+    {
+        "question": "Who is most likely to take a detour on the way to a destination?",
+        "answer": null,
+        "hasAnswered": false,
+        "hasSkipped": false,
+        "hasBlocked": false,
+        "personalityTraits": null
+    },
+    {
+        "question": "Who is always planning the next group trip?",
+        "answer": null,
+        "hasAnswered": false,
+        "hasSkipped": false,
+        "hasBlocked": false,
+        "personalityTraits": null
+    },
+    {
+        "question": "Who is most likely to document their travels?",
+        "answer": null,
+        "hasAnswered": false,
+        "hasSkipped": false,
+        "hasBlocked": false,
+        "personalityTraits": null
+    },
+    {
+        "question": "Who is the one who always packs light?",
+        "answer": null,
+        "hasAnswered": false,
+        "hasSkipped": false,
+        "hasBlocked": false,
+        "personalityTraits": null
+    },
+    {
+        "question": "Who is most likely to book last-minute trips?",
+        "answer": null,
+        "hasAnswered": false,
+        "hasSkipped": false,
+        "hasBlocked": false,
+        "personalityTraits": null
+    },
+    {
+        "question": "Who is known for their love of hiking during vacations?",
+        "answer": null,
+        "hasAnswered": false,
+        "hasSkipped": false,
+        "hasBlocked": false,
+        "personalityTraits": null
+    },
+    {
+        "question": "Who is most likely to visit a new country every year?",
+        "answer": null,
+        "hasAnswered": false,
+        "hasSkipped": false,
+        "hasBlocked": false,
+        "personalityTraits": null
+    },
+    {
+        "question": "Who is the best at making travel plans last minute?",
+        "answer": null,
+        "hasAnswered": false,
+        "hasSkipped": false,
+        "hasBlocked": false,
+        "personalityTraits": null
+    },
+    {
+        "question": "Who is most likely to visit every continent?",
+        "answer": null,
+        "hasAnswered": false,
+        "hasSkipped": false,
+        "hasBlocked": false,
+        "personalityTraits": null
+    },
+    {
+        "question": "Who is always searching for the next great adventure?",
+        "answer": null,
+        "hasAnswered": false,
+        "hasSkipped": false,
+        "hasBlocked": false,
+        "personalityTraits": null
+    },
+    {
+        "question": "Who is the first to suggest trying local foods?",
+        "answer": null,
+        "hasAnswered": false,
+        "hasSkipped": false,
+        "hasBlocked": false,
+        "personalityTraits": null
+    },
+    {
+        "question": "Who is most likely to visit all the world's wonders?",
+        "answer": null,
+        "hasAnswered": false,
+        "hasSkipped": false,
+        "hasBlocked": false,
+        "personalityTraits": null
+    },
+    {
+        "question": "Who is always looking for adventure on vacation?",
+        "answer": null,
+        "hasAnswered": false,
+        "hasSkipped": false,
+        "hasBlocked": false,
+        "personalityTraits": null
+    },
+    {
+        "question": "Who is most likely to stay in a hostel when traveling?",
+        "answer": null,
+        "hasAnswered": false,
+        "hasSkipped": false,
+        "hasBlocked": false,
+        "personalityTraits": null
+    },
+    {
+        "question": "Who is most likely to get up early to explore on vacation?",
+        "answer": null,
+        "hasAnswered": false,
+        "hasSkipped": false,
+        "hasBlocked": false,
+        "personalityTraits": null
+    },
+    {
+        "question": "Who is always talking about their bucket list destinations?",
+        "answer": null,
+        "hasAnswered": false,
+        "hasSkipped": false,
+        "hasBlocked": false,
+        "personalityTraits": null
+    },
+    {
+        "question": "Who is most likely to get travel inspiration from Instagram?",
+        "answer": null,
+        "hasAnswered": false,
+        "hasSkipped": false,
+        "hasBlocked": false,
+        "personalityTraits": null
+    },
+    {
+        "question": "Who is most likely to travel to exotic destinations?",
+        "answer": null,
+        "hasAnswered": false,
+        "hasSkipped": false,
+        "hasBlocked": false,
+        "personalityTraits": null
+    },
+    {
+        "question": "Who is the most adventurous when it comes to new cultures?",
+        "answer": null,
+        "hasAnswered": false,
+        "hasSkipped": false,
+        "hasBlocked": false,
+        "personalityTraits": null
+    },
+    {
+        "question": "Who is most likely to travel without a detailed plan?",
+        "answer": null,
+        "hasAnswered": false,
+        "hasSkipped": false,
+        "hasBlocked": false,
+        "personalityTraits": null
+    },
+    {
+        "question": "Who is happiest when exploring a new country?",
+        "answer": null,
+        "hasAnswered": false,
+        "hasSkipped": false,
+        "hasBlocked": false,
+        "personalityTraits": null
+    },
+    {
+        "question": "Who is most likely to spend hours looking for the perfect travel deal?",
+        "answer": null,
+        "hasAnswered": false,
+        "hasSkipped": false,
+        "hasBlocked": false,
+        "personalityTraits": null
+    },
+    {
+        "question": "Who is most likely to leave on a trip without much preparation?",
+        "answer": null,
+        "hasAnswered": false,
+        "hasSkipped": false,
+        "hasBlocked": false,
+        "personalityTraits": null
+    },
+    {
+        "question": "Who is always looking for local adventure when traveling?",
+        "answer": null,
+        "hasAnswered": false,
+        "hasSkipped": false,
+        "hasBlocked": false,
+        "personalityTraits": null
+    },
+    {
+        "question": "Who is the most likely to take a cruise to an unknown destination?",
+        "answer": null,
+        "hasAnswered": false,
+        "hasSkipped": false,
+        "hasBlocked": false,
+        "personalityTraits": null
+    },
+    {
+        "question": "Who is always the first to volunteer for an adventure trip?",
+        "answer": null,
+        "hasAnswered": false,
+        "hasSkipped": false,
+        "hasBlocked": false,
+        "personalityTraits": null
+    },
+    {
+        "question": "Who is the one to try every local delicacy while traveling?",
+        "answer": null,
+        "hasAnswered": false,
+        "hasSkipped": false,
+        "hasBlocked": false,
+        "personalityTraits": null
+    },
+    {
+        "question": "Who is most likely to get into a friendly debate about their favorite destination?",
+        "answer": null,
+        "hasAnswered": false,
+        "hasSkipped": false,
+        "hasBlocked": false,
+        "personalityTraits": null
+    },
+    {
+        "question": "Who is always looking for new places to visit?",
+        "answer": null,
+        "hasAnswered": false,
+        "hasSkipped": false,
+        "hasBlocked": false,
+        "personalityTraits": null
+    },
+    {
+        "question": "Who is known for having a travel journal full of experiences?",
+        "answer": null,
+        "hasAnswered": false,
+        "hasSkipped": false,
+        "hasBlocked": false,
+        "personalityTraits": null
+    },
+    {
+        "question": "Who is always finding unique accommodations?",
+        "answer": null,
+        "hasAnswered": false,
+        "hasSkipped": false,
+        "hasBlocked": false,
+        "personalityTraits": null
+    },
+    {
+        "question": "Who is the one who prefers outdoor adventures over sightseeing?",
+        "answer": null,
+        "hasAnswered": false,
+        "hasSkipped": false,
+        "hasBlocked": false,
+        "personalityTraits": null
+    },
+    {
+        "question": "Who is most likely to meet new people on their travels?",
+        "answer": null,
+        "hasAnswered": false,
+        "hasSkipped": false,
+        "hasBlocked": false,
+        "personalityTraits": null
+    },
+    {
+        "question": "Who is happiest when exploring historical landmarks?",
+        "answer": null,
+        "hasAnswered": false,
+        "hasSkipped": false,
+        "hasBlocked": false,
+        "personalityTraits": null
+    },
+    {
+        "question": "Who is the most likely to organize a surprise vacation?",
+        "answer": null,
+        "hasAnswered": false,
+        "hasSkipped": false,
+        "hasBlocked": false,
+        "personalityTraits": null
+    },
+    {
+        "question": "Who is always finding new places to explore in their own city?",
+        "answer": null,
+        "hasAnswered": false,
+        "hasSkipped": false,
+        "hasBlocked": false,
+        "personalityTraits": null
+    },
+    {
+        "question": "Who is the most likely to go on a wellness retreat?",
+        "answer": null,
+        "hasAnswered": false,
+        "hasSkipped": false,
+        "hasBlocked": false,
+        "personalityTraits": null
+    },
+    {
+        "question": "Who is most likely to go backpacking through a country?",
+        "answer": null,
+        "hasAnswered": false,
+        "hasSkipped": false,
+        "hasBlocked": false,
+        "personalityTraits": null
+    },
+    {
+        "question": "Who is the most likely to visit a country because of a movie?",
+        "answer": null,
+        "hasAnswered": false,
+        "hasSkipped": false,
+        "hasBlocked": false,
+        "personalityTraits": null
+    },
+    {
+        "question": "Who is happiest when surrounded by nature during their travels?",
+        "answer": null,
+        "hasAnswered": false,
+        "hasSkipped": false,
+        "hasBlocked": false,
+        "personalityTraits": null
+    },
+    {
+        "question": "Who is the most likely to want to live abroad for a year?",
+        "answer": null,
+        "hasAnswered": false,
+        "hasSkipped": false,
+        "hasBlocked": false,
+        "personalityTraits": null
+    },
+    {
+        "question": "Who is always up for a challenge when traveling?",
+        "answer": null,
+        "hasAnswered": false,
+        "hasSkipped": false,
+        "hasBlocked": false,
+        "personalityTraits": null
+    },
+    {
+        "question": "Who is the one who loves to try adventure sports while traveling?",
+        "answer": null,
+        "hasAnswered": false,
+        "hasSkipped": false,
+        "hasBlocked": false,
+        "personalityTraits": null
+    },
+    {
+        "question": "Who is the one to take every opportunity to travel for work?",
+        "answer": null,
+        "hasAnswered": false,
+        "hasSkipped": false,
+        "hasBlocked": false,
+        "personalityTraits": null
+    },
+    {
+        "question": "Who is the most likely to create a travel blog?",
+        "answer": null,
+        "hasAnswered": false,
+        "hasSkipped": false,
+        "hasBlocked": false,
+        "personalityTraits": null
+    },
+    {
+        "question": "Who is most likely to take a trip just for the food?",
+        "answer": null,
+        "hasAnswered": false,
+        "hasSkipped": false,
+        "hasBlocked": false,
+        "personalityTraits": null
+    },
+    {
+        "question": "Who is the one who loves to visit local markets while traveling?",
+        "answer": null,
+        "hasAnswered": false,
+        "hasSkipped": false,
+        "hasBlocked": false,
+        "personalityTraits": null
+    },
+    {
+        "question": "Who is always seeking out hidden spots in each city?",
+        "answer": null,
+        "hasAnswered": false,
+        "hasSkipped": false,
+        "hasBlocked": false,
+        "personalityTraits": null
+    },
+    {
+        "question": "Who is most likely to make friends while on a trip?",
+        "answer": null,
+        "hasAnswered": false,
+        "hasSkipped": false,
+        "hasBlocked": false,
+        "personalityTraits": null
+    },
+    {
+        "question": "Who is happiest when traveling with friends?",
+        "answer": null,
+        "hasAnswered": false,
+        "hasSkipped": false,
+        "hasBlocked": false,
+        "personalityTraits": null
+    },
+    {
+        "question": "Who is the most likely to try volunteering while abroad?",
+        "answer": null,
+        "hasAnswered": false,
+        "hasSkipped": false,
+        "hasBlocked": false,
+        "personalityTraits": null
+    },
+    {
+        "question": "Who is the one who loves a good staycation?",
+        "answer": null,
+        "hasAnswered": false,
+        "hasSkipped": false,
+        "hasBlocked": false,
+        "personalityTraits": null
+    },
+    {
+        "question": "Who is always looking for the best beach to relax on?",
+        "answer": null,
+        "hasAnswered": false,
+        "hasSkipped": false,
+        "hasBlocked": false,
+        "personalityTraits": null
+    },
+    {
+        "question": "Who is happiest when meeting locals during their travels?",
+        "answer": null,
+        "hasAnswered": false,
+        "hasSkipped": false,
+        "hasBlocked": false,
+        "personalityTraits": null
+    },
+    {
+        "question": "Who is most likely to be seen in every popular tourist spot?",
+        "answer": null,
+        "hasAnswered": false,
+        "hasSkipped": false,
+        "hasBlocked": false,
+        "personalityTraits": null
+    },
+    {
+        "question": "Who is most likely to visit a new place based on recommendations from others?",
+        "answer": null,
+        "hasAnswered": false,
+        "hasSkipped": false,
+        "hasBlocked": false,
+        "personalityTraits": null
+    },
+    {
+        "question": "Who is the one who loves taking photos of every experience?",
+        "answer": null,
+        "hasAnswered": false,
+        "hasSkipped": false,
+        "hasBlocked": false,
+        "personalityTraits": null
+    },
+    {
+        "question": "Who is always up for an international road trip?",
+        "answer": null,
+        "hasAnswered": false,
+        "hasSkipped": false,
+        "hasBlocked": false,
+        "personalityTraits": null
+    },
+    {
+        "question": "Who is the one who dreams of traveling the world non-stop?",
+        "answer": null,
+        "hasAnswered": false,
+        "hasSkipped": false,
+        "hasBlocked": false,
+        "personalityTraits": null
+    },
+    {
+        "question": "Who is most likely to get sidetracked and explore a random place?",
+        "answer": null,
+        "hasAnswered": false,
+        "hasSkipped": false,
+        "hasBlocked": false,
+        "personalityTraits": null
+    },
+    {
+        "question": "Who is most likely to choose a destination based on adventure?",
+        "answer": null,
+        "hasAnswered": false,
+        "hasSkipped": false,
+        "hasBlocked": false,
+        "personalityTraits": null
+    },
+    {
+        "question": "Who is the one who plans trips months in advance?",
+        "answer": null,
+        "hasAnswered": false,
+        "hasSkipped": false,
+        "hasBlocked": false,
+        "personalityTraits": null
+    },
+    {
+        "question": "Who is the one who enjoys slow traveling and savoring the experience?",
+        "answer": null,
+        "hasAnswered": false,
+        "hasSkipped": false,
+        "hasBlocked": false,
+        "personalityTraits": null
+    },
+    {
+        "question": "Who is most likely to get their passport stamped the most?",
+        "answer": null,
+        "hasAnswered": false,
+        "hasSkipped": false,
+        "hasBlocked": false,
+        "personalityTraits": null
+    },
+    {
+        "question": "Who is most likely to explore a destination by bike?",
+        "answer": null,
+        "hasAnswered": false,
+        "hasSkipped": false,
+        "hasBlocked": false,
+        "personalityTraits": null
+    },
+    {
+        "question": "Who is always up for a cultural exchange when traveling?",
+        "answer": null,
+        "hasAnswered": false,
+        "hasSkipped": false,
+        "hasBlocked": false,
+        "personalityTraits": null
+    },
+    {
+        "question": "Who is always taking a photo in front of a famous landmark?",
+        "answer": null,
+        "hasAnswered": false,
+        "hasSkipped": false,
+        "hasBlocked": false,
+        "personalityTraits": null
+    },
+    {
+        "question": "Who is happiest when traveling for an extended period?",
+        "answer": null,
+        "hasAnswered": false,
+        "hasSkipped": false,
+        "hasBlocked": false,
+        "personalityTraits": null
+    },
+    {
+        "question": "Who is most likely to research a destination for months before visiting?",
+        "answer": null,
+        "hasAnswered": false,
+        "hasSkipped": false,
+        "hasBlocked": false,
+        "personalityTraits": null
+    },
+    {
+        "question": "Who is the one who loves exploring famous film locations?",
+        "answer": null,
+        "hasAnswered": false,
+        "hasSkipped": false,
+        "hasBlocked": false,
+        "personalityTraits": null
+    },
+    {
+        "question": "Who is most likely to go on a multi-destination trip?",
+        "answer": null,
+        "hasAnswered": false,
+        "hasSkipped": false,
+        "hasBlocked": false,
+        "personalityTraits": null
+    },
+    {
+        "question": "Who is the one who prefers to travel off-season to avoid crowds?",
+        "answer": null,
+        "hasAnswered": false,
+        "hasSkipped": false,
+        "hasBlocked": false,
+        "personalityTraits": null
+    },
+    {
+        "question": "Who is the one who would drop everything for a last-minute trip?",
+        "answer": null,
+        "hasAnswered": false,
+        "hasSkipped": false,
+        "hasBlocked": false,
+        "personalityTraits": null
+    },
+    {
+        "question": "Who is always booking trips based on historical significance?",
+        "answer": null,
+        "hasAnswered": false,
+        "hasSkipped": false,
+        "hasBlocked": false,
+        "personalityTraits": null
+    },
+    {
+        "question": "Who is most likely to take a scenic route just to see the views?",
+        "answer": null,
+        "hasAnswered": false,
+        "hasSkipped": false,
+        "hasBlocked": false,
+        "personalityTraits": null
+    },
+    {
+        "question": "Who is the one who enjoys exploring different architectural styles?",
+        "answer": null,
+        "hasAnswered": false,
+        "hasSkipped": false,
+        "hasBlocked": false,
+        "personalityTraits": null
+    },
+    {
+        "question": "Who is happiest when attending a local festival abroad?",
+        "answer": null,
+        "hasAnswered": false,
+        "hasSkipped": false,
+        "hasBlocked": false,
+        "personalityTraits": null
+    },
+    {
+        "question": "Who is always reading about new travel trends?",
+        "answer": null,
+        "hasAnswered": false,
+        "hasSkipped": false,
+        "hasBlocked": false,
+        "personalityTraits": null
+    },
+    {
+        "question": "Who is most likely to book a trip that includes multiple countries?",
+        "answer": null,
+        "hasAnswered": false,
+        "hasSkipped": false,
+        "hasBlocked": false,
+        "personalityTraits": null
+    },
+    {
+        "question": "Who is the one who loves visiting world-famous landmarks?",
+        "answer": null,
+        "hasAnswered": false,
+        "hasSkipped": false,
+        "hasBlocked": false,
+        "personalityTraits": null
+    },
+    {
+        "question": "Who is happiest when surrounded by nature on their travels?",
+        "answer": null,
+        "hasAnswered": false,
+        "hasSkipped": false,
+        "hasBlocked": false,
+        "personalityTraits": null
+    },
+    {
+        "question": "Who is the most likely to go on a long hiking expedition?",
+        "answer": null,
+        "hasAnswered": false,
+        "hasSkipped": false,
+        "hasBlocked": false,
+        "personalityTraits": null
+    },
+    {
+        "question": "Who is the one who plans every detail of a trip before leaving?",
+        "answer": null,
+        "hasAnswered": false,
+        "hasSkipped": false,
+        "hasBlocked": false,
+        "personalityTraits": null
+    },
+    {
+        "question": "Who is always down for a beach vacation?",
+        "answer": null,
+        "hasAnswered": false,
+        "hasSkipped": false,
+        "hasBlocked": false,
+        "personalityTraits": null
+    },
+    {
+        "question": "Who is happiest when on a cultural adventure?",
+        "answer": null,
+        "hasAnswered": false,
+        "hasSkipped": false,
+        "hasBlocked": false,
+        "personalityTraits": null
+    },
+    {
+        "question": "Who is most likely to stay in eco-friendly accommodations?",
+        "answer": null,
+        "hasAnswered": false,
+        "hasSkipped": false,
+        "hasBlocked": false,
+        "personalityTraits": null
+    },
+    {
+        "question": "Who is always the first to suggest a vacation to a new country?",
+        "answer": null,
+        "hasAnswered": false,
+        "hasSkipped": false,
+        "hasBlocked": false,
+        "personalityTraits": null
+    },
+    {
+        "question": "Who is happiest when exploring nature and wildlife?",
+        "answer": null,
+        "hasAnswered": false,
+        "hasSkipped": false,
+        "hasBlocked": false,
+        "personalityTraits": null
+    },
+    {
+        "question": "Who is always looking for a new adventure in every country?",
+        "answer": null,
+        "hasAnswered": false,
+        "hasSkipped": false,
+        "hasBlocked": false,
+        "personalityTraits": null
+    },
+    {
+        "question": "Who is the most likely to go on a spontaneous weekend getaway?",
+        "answer": null,
+        "hasAnswered": false,
+        "hasSkipped": false,
+        "hasBlocked": false,
+        "personalityTraits": null
+    },
+    {
+        "question": "Who is happiest when surrounded by the sea while traveling?",
+        "answer": null,
+        "hasAnswered": false,
+        "hasSkipped": false,
+        "hasBlocked": false,
+        "personalityTraits": null
+    }
+]

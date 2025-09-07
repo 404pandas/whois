@@ -1349,7 +1349,7 @@ music_questions = [
     "Who is adding every remix to their favorites?",
     "Who is joining fan clubs for artists?",
     "Who is streaming niche genres just for curiosity?",
-    "Who is always hearing music where no one else does?""
+    "Who is always hearing music where no one else does?"
 ];
 
 fashion_questions = [
@@ -1503,7 +1503,7 @@ fashion_questions = [
     "Who is planning looks for future events months ahead?",
     "Who is designing outfits from scratch?",
     "Who is wearing color blocks with confidence?",
-    "Who is styling comfort and glam at the same time?""
+    "Who is styling comfort and glam at the same time?"
 ];
 
 technology_questions = [
@@ -2811,7 +2811,7 @@ for category, questions in categories.items():
             "personalityTraits": None
         })
     
-    with open(f'couples_game_{category}_questions.json', 'w') as json_file:
+    with open(f'{category}Questions.json', 'w') as json_file:
         json.dump(category_data, json_file, indent=4)
 
 print(f"Total questions: {len(unique_questions)}")

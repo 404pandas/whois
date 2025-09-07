@@ -1,0 +1,954 @@
+[
+    {
+        "question": "Who is more likely to pursue a higher degree?",
+        "answer": null,
+        "hasAnswered": false,
+        "hasSkipped": false,
+        "hasBlocked": false,
+        "personalityTraits": null
+    },
+    {
+        "question": "Who is more likely to change careers multiple times?",
+        "answer": null,
+        "hasAnswered": false,
+        "hasSkipped": false,
+        "hasBlocked": false,
+        "personalityTraits": null
+    },
+    {
+        "question": "Who is more likely to have a dream job?",
+        "answer": null,
+        "hasAnswered": false,
+        "hasSkipped": false,
+        "hasBlocked": false,
+        "personalityTraits": null
+    },
+    {
+        "question": "Who is more likely to excel in their profession?",
+        "answer": null,
+        "hasAnswered": false,
+        "hasSkipped": false,
+        "hasBlocked": false,
+        "personalityTraits": null
+    },
+    {
+        "question": "Who is more likely to take a gap year?",
+        "answer": null,
+        "hasAnswered": false,
+        "hasSkipped": false,
+        "hasBlocked": false,
+        "personalityTraits": null
+    },
+    {
+        "question": "Who is more likely to have a favorite subject in school?",
+        "answer": null,
+        "hasAnswered": false,
+        "hasSkipped": false,
+        "hasBlocked": false,
+        "personalityTraits": null
+    },
+    {
+        "question": "Who is more likely to start their own business?",
+        "answer": null,
+        "hasAnswered": false,
+        "hasSkipped": false,
+        "hasBlocked": false,
+        "personalityTraits": null
+    },
+    {
+        "question": "Who is more likely to attend a workshop or seminar?",
+        "answer": null,
+        "hasAnswered": false,
+        "hasSkipped": false,
+        "hasBlocked": false,
+        "personalityTraits": null
+    },
+    {
+        "question": "Who is more likely to have a mentor?",
+        "answer": null,
+        "hasAnswered": false,
+        "hasSkipped": false,
+        "hasBlocked": false,
+        "personalityTraits": null
+    },
+    {
+        "question": "Who is more likely to network at events?",
+        "answer": null,
+        "hasAnswered": false,
+        "hasSkipped": false,
+        "hasBlocked": false,
+        "personalityTraits": null
+    },
+    {
+        "question": "Who is more likely to have a unique career path?",
+        "answer": null,
+        "hasAnswered": false,
+        "hasSkipped": false,
+        "hasBlocked": false,
+        "personalityTraits": null
+    },
+    {
+        "question": "Who is more likely to work in a creative field?",
+        "answer": null,
+        "hasAnswered": false,
+        "hasSkipped": false,
+        "hasBlocked": false,
+        "personalityTraits": null
+    },
+    {
+        "question": "Who is more likely to have a favorite teacher?",
+        "answer": null,
+        "hasAnswered": false,
+        "hasSkipped": false,
+        "hasBlocked": false,
+        "personalityTraits": null
+    },
+    {
+        "question": "Who is more likely to participate in internships?",
+        "answer": null,
+        "hasAnswered": false,
+        "hasSkipped": false,
+        "hasBlocked": false,
+        "personalityTraits": null
+    },
+    {
+        "question": "Who is more likely to have a side hustle?",
+        "answer": null,
+        "hasAnswered": false,
+        "hasSkipped": false,
+        "hasBlocked": false,
+        "personalityTraits": null
+    },
+    {
+        "question": "Who is more likely to pursue a career in technology?",
+        "answer": null,
+        "hasAnswered": false,
+        "hasSkipped": false,
+        "hasBlocked": false,
+        "personalityTraits": null
+    },
+    {
+        "question": "Who is more likely to have a favorite project they worked on?",
+        "answer": null,
+        "hasAnswered": false,
+        "hasSkipped": false,
+        "hasBlocked": false,
+        "personalityTraits": null
+    },
+    {
+        "question": "Who is more likely to attend a professional conference?",
+        "answer": null,
+        "hasAnswered": false,
+        "hasSkipped": false,
+        "hasBlocked": false,
+        "personalityTraits": null
+    },
+    {
+        "question": "Who is more likely to have a career-related goal?",
+        "answer": null,
+        "hasAnswered": false,
+        "hasSkipped": false,
+        "hasBlocked": false,
+        "personalityTraits": null
+    },
+    {
+        "question": "Who is more likely to enjoy lifelong learning?",
+        "answer": null,
+        "hasAnswered": false,
+        "hasSkipped": false,
+        "hasBlocked": false,
+        "personalityTraits": null
+    },
+    {
+        "question": "Who is pursuing a higher degree?",
+        "answer": null,
+        "hasAnswered": false,
+        "hasSkipped": false,
+        "hasBlocked": false,
+        "personalityTraits": null
+    },
+    {
+        "question": "Who is changing careers frequently?",
+        "answer": null,
+        "hasAnswered": false,
+        "hasSkipped": false,
+        "hasBlocked": false,
+        "personalityTraits": null
+    },
+    {
+        "question": "Who is always thinking about their dream job?",
+        "answer": null,
+        "hasAnswered": false,
+        "hasSkipped": false,
+        "hasBlocked": false,
+        "personalityTraits": null
+    },
+    {
+        "question": "Who is excelling in their profession?",
+        "answer": null,
+        "hasAnswered": false,
+        "hasSkipped": false,
+        "hasBlocked": false,
+        "personalityTraits": null
+    },
+    {
+        "question": "Who is planning a gap year?",
+        "answer": null,
+        "hasAnswered": false,
+        "hasSkipped": false,
+        "hasBlocked": false,
+        "personalityTraits": null
+    },
+    {
+        "question": "Who is passionate about a favorite subject in school?",
+        "answer": null,
+        "hasAnswered": false,
+        "hasSkipped": false,
+        "hasBlocked": false,
+        "personalityTraits": null
+    },
+    {
+        "question": "Who is starting their own business?",
+        "answer": null,
+        "hasAnswered": false,
+        "hasSkipped": false,
+        "hasBlocked": false,
+        "personalityTraits": null
+    },
+    {
+        "question": "Who is attending workshops to learn new skills?",
+        "answer": null,
+        "hasAnswered": false,
+        "hasSkipped": false,
+        "hasBlocked": false,
+        "personalityTraits": null
+    },
+    {
+        "question": "Who is always seeking a mentor?",
+        "answer": null,
+        "hasAnswered": false,
+        "hasSkipped": false,
+        "hasBlocked": false,
+        "personalityTraits": null
+    },
+    {
+        "question": "Who is networking at every opportunity?",
+        "answer": null,
+        "hasAnswered": false,
+        "hasSkipped": false,
+        "hasBlocked": false,
+        "personalityTraits": null
+    },
+    {
+        "question": "Who is following an unconventional career path?",
+        "answer": null,
+        "hasAnswered": false,
+        "hasSkipped": false,
+        "hasBlocked": false,
+        "personalityTraits": null
+    },
+    {
+        "question": "Who is working in a creative field?",
+        "answer": null,
+        "hasAnswered": false,
+        "hasSkipped": false,
+        "hasBlocked": false,
+        "personalityTraits": null
+    },
+    {
+        "question": "Who is fond of a teacher that inspired them?",
+        "answer": null,
+        "hasAnswered": false,
+        "hasSkipped": false,
+        "hasBlocked": false,
+        "personalityTraits": null
+    },
+    {
+        "question": "Who is always participating in internships?",
+        "answer": null,
+        "hasAnswered": false,
+        "hasSkipped": false,
+        "hasBlocked": false,
+        "personalityTraits": null
+    },
+    {
+        "question": "Who is balancing a successful side hustle?",
+        "answer": null,
+        "hasAnswered": false,
+        "hasSkipped": false,
+        "hasBlocked": false,
+        "personalityTraits": null
+    },
+    {
+        "question": "Who is working in the technology industry?",
+        "answer": null,
+        "hasAnswered": false,
+        "hasSkipped": false,
+        "hasBlocked": false,
+        "personalityTraits": null
+    },
+    {
+        "question": "Who is proud of a particular project they\u2019ve worked on?",
+        "answer": null,
+        "hasAnswered": false,
+        "hasSkipped": false,
+        "hasBlocked": false,
+        "personalityTraits": null
+    },
+    {
+        "question": "Who is attending professional conferences to expand their network?",
+        "answer": null,
+        "hasAnswered": false,
+        "hasSkipped": false,
+        "hasBlocked": false,
+        "personalityTraits": null
+    },
+    {
+        "question": "Who is setting clear career-related goals?",
+        "answer": null,
+        "hasAnswered": false,
+        "hasSkipped": false,
+        "hasBlocked": false,
+        "personalityTraits": null
+    },
+    {
+        "question": "Who is focused on lifelong learning?",
+        "answer": null,
+        "hasAnswered": false,
+        "hasSkipped": false,
+        "hasBlocked": false,
+        "personalityTraits": null
+    },
+    {
+        "question": "Who is shifting industries often?",
+        "answer": null,
+        "hasAnswered": false,
+        "hasSkipped": false,
+        "hasBlocked": false,
+        "personalityTraits": null
+    },
+    {
+        "question": "Who is striving for a promotion?",
+        "answer": null,
+        "hasAnswered": false,
+        "hasSkipped": false,
+        "hasBlocked": false,
+        "personalityTraits": null
+    },
+    {
+        "question": "Who is following a non-traditional career path?",
+        "answer": null,
+        "hasAnswered": false,
+        "hasSkipped": false,
+        "hasBlocked": false,
+        "personalityTraits": null
+    },
+    {
+        "question": "Who is constantly seeking mentorship throughout their career?",
+        "answer": null,
+        "hasAnswered": false,
+        "hasSkipped": false,
+        "hasBlocked": false,
+        "personalityTraits": null
+    },
+    {
+        "question": "Who is focused on hands-on learning?",
+        "answer": null,
+        "hasAnswered": false,
+        "hasSkipped": false,
+        "hasBlocked": false,
+        "personalityTraits": null
+    },
+    {
+        "question": "Who is taking on leadership roles in their field?",
+        "answer": null,
+        "hasAnswered": false,
+        "hasSkipped": false,
+        "hasBlocked": false,
+        "personalityTraits": null
+    },
+    {
+        "question": "Who is eager to suggest professional development opportunities?",
+        "answer": null,
+        "hasAnswered": false,
+        "hasSkipped": false,
+        "hasBlocked": false,
+        "personalityTraits": null
+    },
+    {
+        "question": "Who is excelling in fields that require constant education?",
+        "answer": null,
+        "hasAnswered": false,
+        "hasSkipped": false,
+        "hasBlocked": false,
+        "personalityTraits": null
+    },
+    {
+        "question": "Who is prioritizing work-life balance?",
+        "answer": null,
+        "hasAnswered": false,
+        "hasSkipped": false,
+        "hasBlocked": false,
+        "personalityTraits": null
+    },
+    {
+        "question": "Who is pursuing their passion despite challenges?",
+        "answer": null,
+        "hasAnswered": false,
+        "hasSkipped": false,
+        "hasBlocked": false,
+        "personalityTraits": null
+    },
+    {
+        "question": "Who is creating an integrated work-life dynamic?",
+        "answer": null,
+        "hasAnswered": false,
+        "hasSkipped": false,
+        "hasBlocked": false,
+        "personalityTraits": null
+    },
+    {
+        "question": "Who is known for their strong work ethic?",
+        "answer": null,
+        "hasAnswered": false,
+        "hasSkipped": false,
+        "hasBlocked": false,
+        "personalityTraits": null
+    },
+    {
+        "question": "Who is curating a professional portfolio?",
+        "answer": null,
+        "hasAnswered": false,
+        "hasSkipped": false,
+        "hasBlocked": false,
+        "personalityTraits": null
+    },
+    {
+        "question": "Who is exploring new fields for career growth?",
+        "answer": null,
+        "hasAnswered": false,
+        "hasSkipped": false,
+        "hasBlocked": false,
+        "personalityTraits": null
+    },
+    {
+        "question": "Who is working in a job that involves international travel?",
+        "answer": null,
+        "hasAnswered": false,
+        "hasSkipped": false,
+        "hasBlocked": false,
+        "personalityTraits": null
+    },
+    {
+        "question": "Who is thriving in the gig economy?",
+        "answer": null,
+        "hasAnswered": false,
+        "hasSkipped": false,
+        "hasBlocked": false,
+        "personalityTraits": null
+    },
+    {
+        "question": "Who is constantly taking on new projects?",
+        "answer": null,
+        "hasAnswered": false,
+        "hasSkipped": false,
+        "hasBlocked": false,
+        "personalityTraits": null
+    },
+    {
+        "question": "Who is working at a startup company?",
+        "answer": null,
+        "hasAnswered": false,
+        "hasSkipped": false,
+        "hasBlocked": false,
+        "personalityTraits": null
+    },
+    {
+        "question": "Who is looking for ways to increase productivity?",
+        "answer": null,
+        "hasAnswered": false,
+        "hasSkipped": false,
+        "hasBlocked": false,
+        "personalityTraits": null
+    },
+    {
+        "question": "Who is speaking at industry conferences?",
+        "answer": null,
+        "hasAnswered": false,
+        "hasSkipped": false,
+        "hasBlocked": false,
+        "personalityTraits": null
+    },
+    {
+        "question": "Who is focused on self-improvement for their profession?",
+        "answer": null,
+        "hasAnswered": false,
+        "hasSkipped": false,
+        "hasBlocked": false,
+        "personalityTraits": null
+    },
+    {
+        "question": "Who is thriving in a team-oriented work environment?",
+        "answer": null,
+        "hasAnswered": false,
+        "hasSkipped": false,
+        "hasBlocked": false,
+        "personalityTraits": null
+    },
+    {
+        "question": "Who is working in a remote position?",
+        "answer": null,
+        "hasAnswered": false,
+        "hasSkipped": false,
+        "hasBlocked": false,
+        "personalityTraits": null
+    },
+    {
+        "question": "Who is learning new languages to advance their career?",
+        "answer": null,
+        "hasAnswered": false,
+        "hasSkipped": false,
+        "hasBlocked": false,
+        "personalityTraits": null
+    },
+    {
+        "question": "Who is considering a career change after burnout?",
+        "answer": null,
+        "hasAnswered": false,
+        "hasSkipped": false,
+        "hasBlocked": false,
+        "personalityTraits": null
+    },
+    {
+        "question": "Who is pursuing a career in healthcare?",
+        "answer": null,
+        "hasAnswered": false,
+        "hasSkipped": false,
+        "hasBlocked": false,
+        "personalityTraits": null
+    },
+    {
+        "question": "Who is focused on advancing their skills?",
+        "answer": null,
+        "hasAnswered": false,
+        "hasSkipped": false,
+        "hasBlocked": false,
+        "personalityTraits": null
+    },
+    {
+        "question": "Who is building a multi-disciplinary career?",
+        "answer": null,
+        "hasAnswered": false,
+        "hasSkipped": false,
+        "hasBlocked": false,
+        "personalityTraits": null
+    },
+    {
+        "question": "Who is developing into an industry leader?",
+        "answer": null,
+        "hasAnswered": false,
+        "hasSkipped": false,
+        "hasBlocked": false,
+        "personalityTraits": null
+    },
+    {
+        "question": "Who is reading self-help books for career advancement?",
+        "answer": null,
+        "hasAnswered": false,
+        "hasSkipped": false,
+        "hasBlocked": false,
+        "personalityTraits": null
+    },
+    {
+        "question": "Who is excelling in a creative career?",
+        "answer": null,
+        "hasAnswered": false,
+        "hasSkipped": false,
+        "hasBlocked": false,
+        "personalityTraits": null
+    },
+    {
+        "question": "Who is interested in education or teaching?",
+        "answer": null,
+        "hasAnswered": false,
+        "hasSkipped": false,
+        "hasBlocked": false,
+        "personalityTraits": null
+    },
+    {
+        "question": "Who is pursuing a career that involves traveling?",
+        "answer": null,
+        "hasAnswered": false,
+        "hasSkipped": false,
+        "hasBlocked": false,
+        "personalityTraits": null
+    },
+    {
+        "question": "Who is choosing a job that aligns with their values?",
+        "answer": null,
+        "hasAnswered": false,
+        "hasSkipped": false,
+        "hasBlocked": false,
+        "personalityTraits": null
+    },
+    {
+        "question": "Who is balancing entrepreneurial ventures with their day job?",
+        "answer": null,
+        "hasAnswered": false,
+        "hasSkipped": false,
+        "hasBlocked": false,
+        "personalityTraits": null
+    },
+    {
+        "question": "Who is transitioning from corporate work to freelancing?",
+        "answer": null,
+        "hasAnswered": false,
+        "hasSkipped": false,
+        "hasBlocked": false,
+        "personalityTraits": null
+    },
+    {
+        "question": "Who is always exploring new career paths?",
+        "answer": null,
+        "hasAnswered": false,
+        "hasSkipped": false,
+        "hasBlocked": false,
+        "personalityTraits": null
+    },
+    {
+        "question": "Who is pursuing a career in the arts?",
+        "answer": null,
+        "hasAnswered": false,
+        "hasSkipped": false,
+        "hasBlocked": false,
+        "personalityTraits": null
+    },
+    {
+        "question": "Who is motivated by recognition at work?",
+        "answer": null,
+        "hasAnswered": false,
+        "hasSkipped": false,
+        "hasBlocked": false,
+        "personalityTraits": null
+    },
+    {
+        "question": "Who is continuously engaging in online courses for career development?",
+        "answer": null,
+        "hasAnswered": false,
+        "hasSkipped": false,
+        "hasBlocked": false,
+        "personalityTraits": null
+    },
+    {
+        "question": "Who is changing careers later in life?",
+        "answer": null,
+        "hasAnswered": false,
+        "hasSkipped": false,
+        "hasBlocked": false,
+        "personalityTraits": null
+    },
+    {
+        "question": "Who is staying updated with the latest industry trends?",
+        "answer": null,
+        "hasAnswered": false,
+        "hasSkipped": false,
+        "hasBlocked": false,
+        "personalityTraits": null
+    },
+    {
+        "question": "Who is embracing the digital nomad lifestyle?",
+        "answer": null,
+        "hasAnswered": false,
+        "hasSkipped": false,
+        "hasBlocked": false,
+        "personalityTraits": null
+    },
+    {
+        "question": "Who is focusing on a niche career specialization?",
+        "answer": null,
+        "hasAnswered": false,
+        "hasSkipped": false,
+        "hasBlocked": false,
+        "personalityTraits": null
+    },
+    {
+        "question": "Who is juggling multiple jobs at once?",
+        "answer": null,
+        "hasAnswered": false,
+        "hasSkipped": false,
+        "hasBlocked": false,
+        "personalityTraits": null
+    },
+    {
+        "question": "Who is taking risks for career growth?",
+        "answer": null,
+        "hasAnswered": false,
+        "hasSkipped": false,
+        "hasBlocked": false,
+        "personalityTraits": null
+    },
+    {
+        "question": "Who is passionate about teaching others?",
+        "answer": null,
+        "hasAnswered": false,
+        "hasSkipped": false,
+        "hasBlocked": false,
+        "personalityTraits": null
+    },
+    {
+        "question": "Who is achieving their dream career?",
+        "answer": null,
+        "hasAnswered": false,
+        "hasSkipped": false,
+        "hasBlocked": false,
+        "personalityTraits": null
+    },
+    {
+        "question": "Who is looking for innovative ways to approach their job?",
+        "answer": null,
+        "hasAnswered": false,
+        "hasSkipped": false,
+        "hasBlocked": false,
+        "personalityTraits": null
+    },
+    {
+        "question": "Who is mentoring others in their profession?",
+        "answer": null,
+        "hasAnswered": false,
+        "hasSkipped": false,
+        "hasBlocked": false,
+        "personalityTraits": null
+    },
+    {
+        "question": "Who is learning new technologies to stay ahead?",
+        "answer": null,
+        "hasAnswered": false,
+        "hasSkipped": false,
+        "hasBlocked": false,
+        "personalityTraits": null
+    },
+    {
+        "question": "Who is pursuing a career in creative writing?",
+        "answer": null,
+        "hasAnswered": false,
+        "hasSkipped": false,
+        "hasBlocked": false,
+        "personalityTraits": null
+    },
+    {
+        "question": "Who is always looking to add value to their workplace?",
+        "answer": null,
+        "hasAnswered": false,
+        "hasSkipped": false,
+        "hasBlocked": false,
+        "personalityTraits": null
+    },
+    {
+        "question": "Who is planning to start their own consulting business?",
+        "answer": null,
+        "hasAnswered": false,
+        "hasSkipped": false,
+        "hasBlocked": false,
+        "personalityTraits": null
+    },
+    {
+        "question": "Who is working in a high-pressure career?",
+        "answer": null,
+        "hasAnswered": false,
+        "hasSkipped": false,
+        "hasBlocked": false,
+        "personalityTraits": null
+    },
+    {
+        "question": "Who is dedicated to lifelong education?",
+        "answer": null,
+        "hasAnswered": false,
+        "hasSkipped": false,
+        "hasBlocked": false,
+        "personalityTraits": null
+    },
+    {
+        "question": "Who is considering starting a podcast related to their career?",
+        "answer": null,
+        "hasAnswered": false,
+        "hasSkipped": false,
+        "hasBlocked": false,
+        "personalityTraits": null
+    },
+    {
+        "question": "Who is always seeking new business opportunities?",
+        "answer": null,
+        "hasAnswered": false,
+        "hasSkipped": false,
+        "hasBlocked": false,
+        "personalityTraits": null
+    },
+    {
+        "question": "Who is focused on making a social impact with their career?",
+        "answer": null,
+        "hasAnswered": false,
+        "hasSkipped": false,
+        "hasBlocked": false,
+        "personalityTraits": null
+    },
+    {
+        "question": "Who is solving complex problems in their job?",
+        "answer": null,
+        "hasAnswered": false,
+        "hasSkipped": false,
+        "hasBlocked": false,
+        "personalityTraits": null
+    },
+    {
+        "question": "Who is building new skills every chance they get?",
+        "answer": null,
+        "hasAnswered": false,
+        "hasSkipped": false,
+        "hasBlocked": false,
+        "personalityTraits": null
+    },
+    {
+        "question": "Who is becoming a well-known expert in their field?",
+        "answer": null,
+        "hasAnswered": false,
+        "hasSkipped": false,
+        "hasBlocked": false,
+        "personalityTraits": null
+    },
+    {
+        "question": "Who is embracing roles that require innovation?",
+        "answer": null,
+        "hasAnswered": false,
+        "hasSkipped": false,
+        "hasBlocked": false,
+        "personalityTraits": null
+    },
+    {
+        "question": "Who is mastering a new language for their career?",
+        "answer": null,
+        "hasAnswered": false,
+        "hasSkipped": false,
+        "hasBlocked": false,
+        "personalityTraits": null
+    },
+    {
+        "question": "Who is growing their professional network?",
+        "answer": null,
+        "hasAnswered": false,
+        "hasSkipped": false,
+        "hasBlocked": false,
+        "personalityTraits": null
+    },
+    {
+        "question": "Who is learning from their mistakes to improve at work?",
+        "answer": null,
+        "hasAnswered": false,
+        "hasSkipped": false,
+        "hasBlocked": false,
+        "personalityTraits": null
+    },
+    {
+        "question": "Who is combining their hobbies with their career?",
+        "answer": null,
+        "hasAnswered": false,
+        "hasSkipped": false,
+        "hasBlocked": false,
+        "personalityTraits": null
+    },
+    {
+        "question": "Who is dedicated to achieving success through self-improvement?",
+        "answer": null,
+        "hasAnswered": false,
+        "hasSkipped": false,
+        "hasBlocked": false,
+        "personalityTraits": null
+    },
+    {
+        "question": "Who is shifting industries frequently in their career?",
+        "answer": null,
+        "hasAnswered": false,
+        "hasSkipped": false,
+        "hasBlocked": false,
+        "personalityTraits": null
+    },
+    {
+        "question": "Who is stepping up to take leadership responsibilities?",
+        "answer": null,
+        "hasAnswered": false,
+        "hasSkipped": false,
+        "hasBlocked": false,
+        "personalityTraits": null
+    },
+    {
+        "question": "Who is planning to run their own nonprofit?",
+        "answer": null,
+        "hasAnswered": false,
+        "hasSkipped": false,
+        "hasBlocked": false,
+        "personalityTraits": null
+    },
+    {
+        "question": "Who is investing in their career through education?",
+        "answer": null,
+        "hasAnswered": false,
+        "hasSkipped": false,
+        "hasBlocked": false,
+        "personalityTraits": null
+    },
+    {
+        "question": "Who is pursuing a role in academia?",
+        "answer": null,
+        "hasAnswered": false,
+        "hasSkipped": false,
+        "hasBlocked": false,
+        "personalityTraits": null
+    },
+    {
+        "question": "Who is thriving in a high-risk, high-reward career?",
+        "answer": null,
+        "hasAnswered": false,
+        "hasSkipped": false,
+        "hasBlocked": false,
+        "personalityTraits": null
+    },
+    {
+        "question": "Who is blending passion with career growth?",
+        "answer": null,
+        "hasAnswered": false,
+        "hasSkipped": false,
+        "hasBlocked": false,
+        "personalityTraits": null
+    },
+    {
+        "question": "Who is developing a startup from the ground up?",
+        "answer": null,
+        "hasAnswered": false,
+        "hasSkipped": false,
+        "hasBlocked": false,
+        "personalityTraits": null
+    },
+    {
+        "question": "Who is focusing on career advancement through innovative strategies?",
+        "answer": null,
+        "hasAnswered": false,
+        "hasSkipped": false,
+        "hasBlocked": false,
+        "personalityTraits": null
+    },
+    {
+        "question": "Who is setting ambitious career goals?",
+        "answer": null,
+        "hasAnswered": false,
+        "hasSkipped": false,
+        "hasBlocked": false,
+        "personalityTraits": null
+    },
+    {
+        "question": "Who is gaining recognition for their career achievements?",
+        "answer": null,
+        "hasAnswered": false,
+        "hasSkipped": false,
+        "hasBlocked": false,
+        "personalityTraits": null
+    }
+]

@@ -1,5 +1,5 @@
 import { useEffect, useState } from "react";
-import { StyleSheet, View, TouchableOpacity } from "react-native";
+import { StyleSheet, View, TouchableOpacity, Clipboard } from "react-native";
 import {
   Text,
   ProgressBar,
@@ -11,21 +11,21 @@ import theme from "@/theme";
 import { router } from "expo-router";
 import io from "socket.io-client";
 import { useQuestionCycler } from "../components/QuestionsCycler";
+import { useAppSelector } from "./hooks/index";
 
 const TOTAL_TIME = 15;
-const socket = io("http://localhost:3001"); // make sure your socket import is here
+const socket = io("http://localhost:3001"); // your socket connection
 
 const Gameboard = () => {
+  const roomCode = useAppSelector((state) => state.room.roomCode);
   const [playerAPick, setPlayerAPick] = useState<string | null>(null);
   const [playerBPick, setPlayerBPick] = useState<string | null>(null);
-  const [players, setPlayers] = useState<string[]>([]); // track joined players
-  const { currentQuestion, timeLeft, nextQuestion } = useQuestionCycler(
-    15,
-    (q) => console.log("New question:", q.text)
-  );
+  const [players, setPlayers] = useState<string[]>([]);
+
+  const { currentQuestion, timeLeft, setTimeLeft, nextQuestion } =
+    useQuestionCycler(TOTAL_TIME, (q) => console.log("New question:", q.text));
 
   useEffect(() => {
-    // Timer
     const interval = setInterval(() => {
       setTimeLeft((prev) => {
         if (prev <= 1) {
@@ -36,15 +36,14 @@ const Gameboard = () => {
       });
     }, 1000);
 
-    // Socket listener
+    // Listen for new players joining
     socket.on("player_joined", ({ playerId }: { playerId: string }) => {
-      setPlayers((prev) => {
-        if (!prev.includes(playerId)) return [...prev, playerId];
-        return prev;
-      });
+      setPlayers((prev) =>
+        !prev.includes(playerId) ? [...prev, playerId] : prev
+      );
     });
 
-    // Optionally, add yourself as first player
+    // Add self as first player
     setPlayers([socket.id]);
 
     return () => {
@@ -54,7 +53,7 @@ const Gameboard = () => {
   }, []);
 
   const handlePick = (player: "Player A" | "Player B") => {
-    if (players.length < 2) return; // disable picks until both players joined
+    if (players.length < 2) return; // disable until both players joined
 
     if (player === "Player A" && !playerAPick) setPlayerAPick("picked");
     if (player === "Player B" && !playerBPick) setPlayerBPick("picked");
@@ -68,8 +67,24 @@ const Gameboard = () => {
     }
   };
 
+  const copyRoomCode = () => {
+    if (roomCode) {
+      Clipboard.setString(roomCode);
+      alert(`Room code ${roomCode} copied to clipboard!`);
+    }
+  };
+
   return (
     <Surface style={styles.container}>
+      {roomCode && (
+        <Surface style={styles.roomCodeSection}>
+          <Text style={styles.roomCodeText}>Room Code: {roomCode}</Text>
+          <Button mode='contained' onPress={copyRoomCode}>
+            Copy
+          </Button>
+        </Surface>
+      )}
+
       <View style={styles.playersSection}>
         <TouchableOpacity
           style={[styles.playerHalf, { backgroundColor: theme.colors.primary }]}
@@ -101,15 +116,18 @@ const Gameboard = () => {
         </TouchableOpacity>
       </View>
 
-      <View>
-        <Text>{currentQuestion?.text || "Loading question..."}</Text>
-        <ProgressBar progress={timeLeft / 15} />
+      <View style={styles.questionSection}>
+        <Text style={styles.questionText}>
+          {currentQuestion?.text || "Loading question..."}
+        </Text>
+        <ProgressBar
+          progress={timeLeft / TOTAL_TIME}
+          style={styles.progressBar}
+        />
         <Button onPress={nextQuestion}>Skip</Button>
       </View>
 
-      <Surface
-        style={{ padding: 16, backgroundColor: theme.colors.background }}
-      >
+      <Surface style={styles.timeSection}>
         <Text style={{ color: theme.colors.text, fontSize: 16 }}>
           Time left: {timeLeft} seconds
         </Text>
@@ -121,9 +139,7 @@ const Gameboard = () => {
         />
       </Surface>
 
-      <Surface
-        style={{ padding: 16, backgroundColor: theme.colors.background }}
-      >
+      <Surface style={styles.waitingSection}>
         <Text style={{ color: theme.colors.text, fontSize: 16 }}>
           {players.length < 2 ? "Waiting for another player..." : null}
         </Text>
@@ -136,6 +152,14 @@ export default Gameboard;
 
 const styles = StyleSheet.create({
   container: { flex: 1 },
+  roomCodeSection: {
+    padding: 16,
+    flexDirection: "row",
+    justifyContent: "space-between",
+    alignItems: "center",
+    backgroundColor: theme.colors.background,
+  },
+  roomCodeText: { fontSize: 20, fontWeight: "bold" },
   playersSection: { flex: 3, flexDirection: "row" },
   playerHalf: { flex: 1, justifyContent: "center", alignItems: "center" },
   playerText: { fontSize: 20, fontWeight: "bold", marginTop: 8 },
@@ -147,4 +171,6 @@ const styles = StyleSheet.create({
   },
   questionText: { fontSize: 18, textAlign: "center", marginBottom: 16 },
   progressBar: { height: 10, borderRadius: 5 },
+  timeSection: { padding: 16, backgroundColor: theme.colors.background },
+  waitingSection: { padding: 16, backgroundColor: theme.colors.background },
 });

@@ -1,0 +1,1202 @@
+[
+    {
+        "question": "Who is more likely to travel solo?",
+        "answer": null,
+        "hasAnswered": false,
+        "hasSkipped": false,
+        "hasBlocked": false,
+        "personalityTraits": null
+    },
+    {
+        "question": "Who is more likely to get lost in a new city?",
+        "answer": null,
+        "hasAnswered": false,
+        "hasSkipped": false,
+        "hasBlocked": false,
+        "personalityTraits": null
+    },
+    {
+        "question": "Who is more likely to try street food?",
+        "answer": null,
+        "hasAnswered": false,
+        "hasSkipped": false,
+        "hasBlocked": false,
+        "personalityTraits": null
+    },
+    {
+        "question": "Who is more likely to plan a spontaneous trip?",
+        "answer": null,
+        "hasAnswered": false,
+        "hasSkipped": false,
+        "hasBlocked": false,
+        "personalityTraits": null
+    },
+    {
+        "question": "Who is more likely to take a road trip?",
+        "answer": null,
+        "hasAnswered": false,
+        "hasSkipped": false,
+        "hasBlocked": false,
+        "personalityTraits": null
+    },
+    {
+        "question": "Who is more likely to visit every continent?",
+        "answer": null,
+        "hasAnswered": false,
+        "hasSkipped": false,
+        "hasBlocked": false,
+        "personalityTraits": null
+    },
+    {
+        "question": "Who is more likely to pack too much for a trip?",
+        "answer": null,
+        "hasAnswered": false,
+        "hasSkipped": false,
+        "hasBlocked": false,
+        "personalityTraits": null
+    },
+    {
+        "question": "Who is more likely to take the most photos while traveling?",
+        "answer": null,
+        "hasAnswered": false,
+        "hasSkipped": false,
+        "hasBlocked": false,
+        "personalityTraits": null
+    },
+    {
+        "question": "Who is more likely to forget their passport?",
+        "answer": null,
+        "hasAnswered": false,
+        "hasSkipped": false,
+        "hasBlocked": false,
+        "personalityTraits": null
+    },
+    {
+        "question": "Who is more likely to book a last-minute flight?",
+        "answer": null,
+        "hasAnswered": false,
+        "hasSkipped": false,
+        "hasBlocked": false,
+        "personalityTraits": null
+    },
+    {
+        "question": "Who is the better navigator?",
+        "answer": null,
+        "hasAnswered": false,
+        "hasSkipped": false,
+        "hasBlocked": false,
+        "personalityTraits": null
+    },
+    {
+        "question": "Who is the overpacker?",
+        "answer": null,
+        "hasAnswered": false,
+        "hasSkipped": false,
+        "hasBlocked": false,
+        "personalityTraits": null
+    },
+    {
+        "question": "Who is the one who speaks the local language when traveling?",
+        "answer": null,
+        "hasAnswered": false,
+        "hasSkipped": false,
+        "hasBlocked": false,
+        "personalityTraits": null
+    },
+    {
+        "question": "Who is the planner of travel itineraries?",
+        "answer": null,
+        "hasAnswered": false,
+        "hasSkipped": false,
+        "hasBlocked": false,
+        "personalityTraits": null
+    },
+    {
+        "question": "Who is the one who wants to visit tourist attractions?",
+        "answer": null,
+        "hasAnswered": false,
+        "hasSkipped": false,
+        "hasBlocked": false,
+        "personalityTraits": null
+    },
+    {
+        "question": "Who is the one who prefers off-the-beaten-path experiences?",
+        "answer": null,
+        "hasAnswered": false,
+        "hasSkipped": false,
+        "hasBlocked": false,
+        "personalityTraits": null
+    },
+    {
+        "question": "Who is the one who budgets for trips?",
+        "answer": null,
+        "hasAnswered": false,
+        "hasSkipped": false,
+        "hasBlocked": false,
+        "personalityTraits": null
+    },
+    {
+        "question": "Who is the one who splurges on vacation?",
+        "answer": null,
+        "hasAnswered": false,
+        "hasSkipped": false,
+        "hasBlocked": false,
+        "personalityTraits": null
+    },
+    {
+        "question": "Who is the one who tries local cuisine?",
+        "answer": null,
+        "hasAnswered": false,
+        "hasSkipped": false,
+        "hasBlocked": false,
+        "personalityTraits": null
+    },
+    {
+        "question": "Who is the one who takes travel photos?",
+        "answer": null,
+        "hasAnswered": false,
+        "hasSkipped": false,
+        "hasBlocked": false,
+        "personalityTraits": null
+    },
+    {
+        "question": "Who is the better photographer?",
+        "answer": null,
+        "hasAnswered": false,
+        "hasSkipped": false,
+        "hasBlocked": false,
+        "personalityTraits": null
+    },
+    {
+        "question": "Who is the one who makes friends with locals?",
+        "answer": null,
+        "hasAnswered": false,
+        "hasSkipped": false,
+        "hasBlocked": false,
+        "personalityTraits": null
+    },
+    {
+        "question": "Who is the one who gets homesick first?",
+        "answer": null,
+        "hasAnswered": false,
+        "hasSkipped": false,
+        "hasBlocked": false,
+        "personalityTraits": null
+    },
+    {
+        "question": "Who is the one who wants to extend the trip?",
+        "answer": null,
+        "hasAnswered": false,
+        "hasSkipped": false,
+        "hasBlocked": false,
+        "personalityTraits": null
+    },
+    {
+        "question": "Who is the one who keeps travel souvenirs?",
+        "answer": null,
+        "hasAnswered": false,
+        "hasSkipped": false,
+        "hasBlocked": false,
+        "personalityTraits": null
+    },
+    {
+        "question": "Who is the one who learns about local culture before traveling?",
+        "answer": null,
+        "hasAnswered": false,
+        "hasSkipped": false,
+        "hasBlocked": false,
+        "personalityTraits": null
+    },
+    {
+        "question": "Who is the one who wants to go sightseeing?",
+        "answer": null,
+        "hasAnswered": false,
+        "hasSkipped": false,
+        "hasBlocked": false,
+        "personalityTraits": null
+    },
+    {
+        "question": "Who is the one who prefers relaxation on vacation?",
+        "answer": null,
+        "hasAnswered": false,
+        "hasSkipped": false,
+        "hasBlocked": false,
+        "personalityTraits": null
+    },
+    {
+        "question": "Who is the one who wants to try adventure activities while traveling?",
+        "answer": null,
+        "hasAnswered": false,
+        "hasSkipped": false,
+        "hasBlocked": false,
+        "personalityTraits": null
+    },
+    {
+        "question": "Who is the better travel companion?",
+        "answer": null,
+        "hasAnswered": false,
+        "hasSkipped": false,
+        "hasBlocked": false,
+        "personalityTraits": null
+    },
+    {
+        "question": "Who is the one who gets excited about the hotel room?",
+        "answer": null,
+        "hasAnswered": false,
+        "hasSkipped": false,
+        "hasBlocked": false,
+        "personalityTraits": null
+    },
+    {
+        "question": "Who is the one who keeps the travel documents organized?",
+        "answer": null,
+        "hasAnswered": false,
+        "hasSkipped": false,
+        "hasBlocked": false,
+        "personalityTraits": null
+    },
+    {
+        "question": "Who is the one who makes restaurant reservations on trips?",
+        "answer": null,
+        "hasAnswered": false,
+        "hasSkipped": false,
+        "hasBlocked": false,
+        "personalityTraits": null
+    },
+    {
+        "question": "Who is the one who prefers mountains over beaches?",
+        "answer": null,
+        "hasAnswered": false,
+        "hasSkipped": false,
+        "hasBlocked": false,
+        "personalityTraits": null
+    },
+    {
+        "question": "Who is the one who prefers beaches over mountains?",
+        "answer": null,
+        "hasAnswered": false,
+        "hasSkipped": false,
+        "hasBlocked": false,
+        "personalityTraits": null
+    },
+    {
+        "question": "Who is the one who wants to visit historical sites?",
+        "answer": null,
+        "hasAnswered": false,
+        "hasSkipped": false,
+        "hasBlocked": false,
+        "personalityTraits": null
+    },
+    {
+        "question": "Who is the one who prefers cities over countryside?",
+        "answer": null,
+        "hasAnswered": false,
+        "hasSkipped": false,
+        "hasBlocked": false,
+        "personalityTraits": null
+    },
+    {
+        "question": "Who is the one who prefers countryside over cities?",
+        "answer": null,
+        "hasAnswered": false,
+        "hasSkipped": false,
+        "hasBlocked": false,
+        "personalityTraits": null
+    },
+    {
+        "question": "Who is the one who wants to take tours?",
+        "answer": null,
+        "hasAnswered": false,
+        "hasSkipped": false,
+        "hasBlocked": false,
+        "personalityTraits": null
+    },
+    {
+        "question": "Who is the one who prefers exploring independently?",
+        "answer": null,
+        "hasAnswered": false,
+        "hasSkipped": false,
+        "hasBlocked": false,
+        "personalityTraits": null
+    },
+    {
+        "question": "Who is the one who gets stressed during travel delays?",
+        "answer": null,
+        "hasAnswered": false,
+        "hasSkipped": false,
+        "hasBlocked": false,
+        "personalityTraits": null
+    },
+    {
+        "question": "Who is the one who stays calm during travel problems?",
+        "answer": null,
+        "hasAnswered": false,
+        "hasSkipped": false,
+        "hasBlocked": false,
+        "personalityTraits": null
+    },
+    {
+        "question": "Who is the one who wakes up early on vacation?",
+        "answer": null,
+        "hasAnswered": false,
+        "hasSkipped": false,
+        "hasBlocked": false,
+        "personalityTraits": null
+    },
+    {
+        "question": "Who is the one who wants to stay out late while traveling?",
+        "answer": null,
+        "hasAnswered": false,
+        "hasSkipped": false,
+        "hasBlocked": false,
+        "personalityTraits": null
+    },
+    {
+        "question": "Who is the one who plans travel budgets?",
+        "answer": null,
+        "hasAnswered": false,
+        "hasSkipped": false,
+        "hasBlocked": false,
+        "personalityTraits": null
+    },
+    {
+        "question": "Who is the one who collects magnets from different places?",
+        "answer": null,
+        "hasAnswered": false,
+        "hasSkipped": false,
+        "hasBlocked": false,
+        "personalityTraits": null
+    },
+    {
+        "question": "Who is the one who would enjoy a cruise?",
+        "answer": null,
+        "hasAnswered": false,
+        "hasSkipped": false,
+        "hasBlocked": false,
+        "personalityTraits": null
+    },
+    {
+        "question": "Who is the one who would enjoy backpacking?",
+        "answer": null,
+        "hasAnswered": false,
+        "hasSkipped": false,
+        "hasBlocked": false,
+        "personalityTraits": null
+    },
+    {
+        "question": "Who is the one who researches travel destinations?",
+        "answer": null,
+        "hasAnswered": false,
+        "hasSkipped": false,
+        "hasBlocked": false,
+        "personalityTraits": null
+    },
+    {
+        "question": "Who is the one who prefers international travel?",
+        "answer": null,
+        "hasAnswered": false,
+        "hasSkipped": false,
+        "hasBlocked": false,
+        "personalityTraits": null
+    },
+    {
+        "question": "Who is planning a trip at all times?",
+        "answer": null,
+        "hasAnswered": false,
+        "hasSkipped": false,
+        "hasBlocked": false,
+        "personalityTraits": null
+    },
+    {
+        "question": "Who is chasing sunsets in every country?",
+        "answer": null,
+        "hasAnswered": false,
+        "hasSkipped": false,
+        "hasBlocked": false,
+        "personalityTraits": null
+    },
+    {
+        "question": "Who is turning every weekend into a getaway?",
+        "answer": null,
+        "hasAnswered": false,
+        "hasSkipped": false,
+        "hasBlocked": false,
+        "personalityTraits": null
+    },
+    {
+        "question": "Who is always finding flight deals?",
+        "answer": null,
+        "hasAnswered": false,
+        "hasSkipped": false,
+        "hasBlocked": false,
+        "personalityTraits": null
+    },
+    {
+        "question": "Who is documenting their travels like a pro blogger?",
+        "answer": null,
+        "hasAnswered": false,
+        "hasSkipped": false,
+        "hasBlocked": false,
+        "personalityTraits": null
+    },
+    {
+        "question": "Who is catching every sunrise in a new place?",
+        "answer": null,
+        "hasAnswered": false,
+        "hasSkipped": false,
+        "hasBlocked": false,
+        "personalityTraits": null
+    },
+    {
+        "question": "Who is collecting stamps in their passport?",
+        "answer": null,
+        "hasAnswered": false,
+        "hasSkipped": false,
+        "hasBlocked": false,
+        "personalityTraits": null
+    },
+    {
+        "question": "Who is exploring alleyways instead of main streets?",
+        "answer": null,
+        "hasAnswered": false,
+        "hasSkipped": false,
+        "hasBlocked": false,
+        "personalityTraits": null
+    },
+    {
+        "question": "Who is trying to learn a phrase in every language?",
+        "answer": null,
+        "hasAnswered": false,
+        "hasSkipped": false,
+        "hasBlocked": false,
+        "personalityTraits": null
+    },
+    {
+        "question": "Who is sharing travel hacks with friends?",
+        "answer": null,
+        "hasAnswered": false,
+        "hasSkipped": false,
+        "hasBlocked": false,
+        "personalityTraits": null
+    },
+    {
+        "question": "Who is journaling every travel experience?",
+        "answer": null,
+        "hasAnswered": false,
+        "hasSkipped": false,
+        "hasBlocked": false,
+        "personalityTraits": null
+    },
+    {
+        "question": "Who is exploring airport lounges like they live there?",
+        "answer": null,
+        "hasAnswered": false,
+        "hasSkipped": false,
+        "hasBlocked": false,
+        "personalityTraits": null
+    },
+    {
+        "question": "Who is posting scenic views before boarding the plane?",
+        "answer": null,
+        "hasAnswered": false,
+        "hasSkipped": false,
+        "hasBlocked": false,
+        "personalityTraits": null
+    },
+    {
+        "question": "Who is joining walking tours everywhere they go?",
+        "answer": null,
+        "hasAnswered": false,
+        "hasSkipped": false,
+        "hasBlocked": false,
+        "personalityTraits": null
+    },
+    {
+        "question": "Who is navigating public transit in foreign cities with ease?",
+        "answer": null,
+        "hasAnswered": false,
+        "hasSkipped": false,
+        "hasBlocked": false,
+        "personalityTraits": null
+    },
+    {
+        "question": "Who is planning trips around food festivals?",
+        "answer": null,
+        "hasAnswered": false,
+        "hasSkipped": false,
+        "hasBlocked": false,
+        "personalityTraits": null
+    },
+    {
+        "question": "Who is always adding pins to their travel map?",
+        "answer": null,
+        "hasAnswered": false,
+        "hasSkipped": false,
+        "hasBlocked": false,
+        "personalityTraits": null
+    },
+    {
+        "question": "Who is picking random destinations just for fun?",
+        "answer": null,
+        "hasAnswered": false,
+        "hasSkipped": false,
+        "hasBlocked": false,
+        "personalityTraits": null
+    },
+    {
+        "question": "Who is staying in hostels just to meet people?",
+        "answer": null,
+        "hasAnswered": false,
+        "hasSkipped": false,
+        "hasBlocked": false,
+        "personalityTraits": null
+    },
+    {
+        "question": "Who is building itineraries with color-coded tabs?",
+        "answer": null,
+        "hasAnswered": false,
+        "hasSkipped": false,
+        "hasBlocked": false,
+        "personalityTraits": null
+    },
+    {
+        "question": "Who is chasing waterfalls instead of crowds?",
+        "answer": null,
+        "hasAnswered": false,
+        "hasSkipped": false,
+        "hasBlocked": false,
+        "personalityTraits": null
+    },
+    {
+        "question": "Who is trading in souvenirs for travel tattoos?",
+        "answer": null,
+        "hasAnswered": false,
+        "hasSkipped": false,
+        "hasBlocked": false,
+        "personalityTraits": null
+    },
+    {
+        "question": "Who is bringing film cameras on every trip?",
+        "answer": null,
+        "hasAnswered": false,
+        "hasSkipped": false,
+        "hasBlocked": false,
+        "personalityTraits": null
+    },
+    {
+        "question": "Who is staying in tiny homes and treehouses?",
+        "answer": null,
+        "hasAnswered": false,
+        "hasSkipped": false,
+        "hasBlocked": false,
+        "personalityTraits": null
+    },
+    {
+        "question": "Who is seeking out UNESCO World Heritage sites?",
+        "answer": null,
+        "hasAnswered": false,
+        "hasSkipped": false,
+        "hasBlocked": false,
+        "personalityTraits": null
+    },
+    {
+        "question": "Who is learning dances from every country visited?",
+        "answer": null,
+        "hasAnswered": false,
+        "hasSkipped": false,
+        "hasBlocked": false,
+        "personalityTraits": null
+    },
+    {
+        "question": "Who is getting inspired to move after every trip?",
+        "answer": null,
+        "hasAnswered": false,
+        "hasSkipped": false,
+        "hasBlocked": false,
+        "personalityTraits": null
+    },
+    {
+        "question": "Who is sleeping in airports like a pro traveler?",
+        "answer": null,
+        "hasAnswered": false,
+        "hasSkipped": false,
+        "hasBlocked": false,
+        "personalityTraits": null
+    },
+    {
+        "question": "Who is capturing drone footage of every location?",
+        "answer": null,
+        "hasAnswered": false,
+        "hasSkipped": false,
+        "hasBlocked": false,
+        "personalityTraits": null
+    },
+    {
+        "question": "Who is starting a travel blog?",
+        "answer": null,
+        "hasAnswered": false,
+        "hasSkipped": false,
+        "hasBlocked": false,
+        "personalityTraits": null
+    },
+    {
+        "question": "Who is booking trips based on vibes alone?",
+        "answer": null,
+        "hasAnswered": false,
+        "hasSkipped": false,
+        "hasBlocked": false,
+        "personalityTraits": null
+    },
+    {
+        "question": "Who is learning local customs ahead of time?",
+        "answer": null,
+        "hasAnswered": false,
+        "hasSkipped": false,
+        "hasBlocked": false,
+        "personalityTraits": null
+    },
+    {
+        "question": "Who is dressing like a local to blend in?",
+        "answer": null,
+        "hasAnswered": false,
+        "hasSkipped": false,
+        "hasBlocked": false,
+        "personalityTraits": null
+    },
+    {
+        "question": "Who is finding hidden rooftop views?",
+        "answer": null,
+        "hasAnswered": false,
+        "hasSkipped": false,
+        "hasBlocked": false,
+        "personalityTraits": null
+    },
+    {
+        "question": "Who is chasing the Northern Lights?",
+        "answer": null,
+        "hasAnswered": false,
+        "hasSkipped": false,
+        "hasBlocked": false,
+        "personalityTraits": null
+    },
+    {
+        "question": "Who is trying to visit every national park?",
+        "answer": null,
+        "hasAnswered": false,
+        "hasSkipped": false,
+        "hasBlocked": false,
+        "personalityTraits": null
+    },
+    {
+        "question": "Who is traveling with only a backpack?",
+        "answer": null,
+        "hasAnswered": false,
+        "hasSkipped": false,
+        "hasBlocked": false,
+        "personalityTraits": null
+    },
+    {
+        "question": "Who is learning regional dishes by cooking with locals?",
+        "answer": null,
+        "hasAnswered": false,
+        "hasSkipped": false,
+        "hasBlocked": false,
+        "personalityTraits": null
+    },
+    {
+        "question": "Who is choosing trains over planes for the experience?",
+        "answer": null,
+        "hasAnswered": false,
+        "hasSkipped": false,
+        "hasBlocked": false,
+        "personalityTraits": null
+    },
+    {
+        "question": "Who is prioritizing eco-tourism destinations?",
+        "answer": null,
+        "hasAnswered": false,
+        "hasSkipped": false,
+        "hasBlocked": false,
+        "personalityTraits": null
+    },
+    {
+        "question": "Who is traveling just for coffee culture?",
+        "answer": null,
+        "hasAnswered": false,
+        "hasSkipped": false,
+        "hasBlocked": false,
+        "personalityTraits": null
+    },
+    {
+        "question": "Who is sketching landscapes while traveling?",
+        "answer": null,
+        "hasAnswered": false,
+        "hasSkipped": false,
+        "hasBlocked": false,
+        "personalityTraits": null
+    },
+    {
+        "question": "Who is taking polaroids at every stop?",
+        "answer": null,
+        "hasAnswered": false,
+        "hasSkipped": false,
+        "hasBlocked": false,
+        "personalityTraits": null
+    },
+    {
+        "question": "Who is organizing group trips effortlessly?",
+        "answer": null,
+        "hasAnswered": false,
+        "hasSkipped": false,
+        "hasBlocked": false,
+        "personalityTraits": null
+    },
+    {
+        "question": "Who is embracing being a tourist unapologetically?",
+        "answer": null,
+        "hasAnswered": false,
+        "hasSkipped": false,
+        "hasBlocked": false,
+        "personalityTraits": null
+    },
+    {
+        "question": "Who is talking to strangers on every trip?",
+        "answer": null,
+        "hasAnswered": false,
+        "hasSkipped": false,
+        "hasBlocked": false,
+        "personalityTraits": null
+    },
+    {
+        "question": "Who is chasing the perfect beach sunrise?",
+        "answer": null,
+        "hasAnswered": false,
+        "hasSkipped": false,
+        "hasBlocked": false,
+        "personalityTraits": null
+    },
+    {
+        "question": "Who is getting lost and loving it?",
+        "answer": null,
+        "hasAnswered": false,
+        "hasSkipped": false,
+        "hasBlocked": false,
+        "personalityTraits": null
+    },
+    {
+        "question": "Who is learning dances from street performers?",
+        "answer": null,
+        "hasAnswered": false,
+        "hasSkipped": false,
+        "hasBlocked": false,
+        "personalityTraits": null
+    },
+    {
+        "question": "Who is building playlists for every journey?",
+        "answer": null,
+        "hasAnswered": false,
+        "hasSkipped": false,
+        "hasBlocked": false,
+        "personalityTraits": null
+    },
+    {
+        "question": "Who is choosing Airbnb over hotels every time?",
+        "answer": null,
+        "hasAnswered": false,
+        "hasSkipped": false,
+        "hasBlocked": false,
+        "personalityTraits": null
+    },
+    {
+        "question": "Who is flying with no checked baggage?",
+        "answer": null,
+        "hasAnswered": false,
+        "hasSkipped": false,
+        "hasBlocked": false,
+        "personalityTraits": null
+    },
+    {
+        "question": "Who is meditating on mountain tops?",
+        "answer": null,
+        "hasAnswered": false,
+        "hasSkipped": false,
+        "hasBlocked": false,
+        "personalityTraits": null
+    },
+    {
+        "question": "Who is reading travel books between trips?",
+        "answer": null,
+        "hasAnswered": false,
+        "hasSkipped": false,
+        "hasBlocked": false,
+        "personalityTraits": null
+    },
+    {
+        "question": "Who is always ready for a weekend road trip?",
+        "answer": null,
+        "hasAnswered": false,
+        "hasSkipped": false,
+        "hasBlocked": false,
+        "personalityTraits": null
+    },
+    {
+        "question": "Who is keeping every ticket stub and receipt?",
+        "answer": null,
+        "hasAnswered": false,
+        "hasSkipped": false,
+        "hasBlocked": false,
+        "personalityTraits": null
+    },
+    {
+        "question": "Who is walking 20,000 steps without realizing it?",
+        "answer": null,
+        "hasAnswered": false,
+        "hasSkipped": false,
+        "hasBlocked": false,
+        "personalityTraits": null
+    },
+    {
+        "question": "Who is planning surprise vacations for others?",
+        "answer": null,
+        "hasAnswered": false,
+        "hasSkipped": false,
+        "hasBlocked": false,
+        "personalityTraits": null
+    },
+    {
+        "question": "Who is speaking with hand gestures when words fail?",
+        "answer": null,
+        "hasAnswered": false,
+        "hasSkipped": false,
+        "hasBlocked": false,
+        "personalityTraits": null
+    },
+    {
+        "question": "Who is flying standby just for the adventure?",
+        "answer": null,
+        "hasAnswered": false,
+        "hasSkipped": false,
+        "hasBlocked": false,
+        "personalityTraits": null
+    },
+    {
+        "question": "Who is befriending taxi drivers in every city?",
+        "answer": null,
+        "hasAnswered": false,
+        "hasSkipped": false,
+        "hasBlocked": false,
+        "personalityTraits": null
+    },
+    {
+        "question": "Who is finding peace in solo hikes?",
+        "answer": null,
+        "hasAnswered": false,
+        "hasSkipped": false,
+        "hasBlocked": false,
+        "personalityTraits": null
+    },
+    {
+        "question": "Who is boarding the wrong train on purpose?",
+        "answer": null,
+        "hasAnswered": false,
+        "hasSkipped": false,
+        "hasBlocked": false,
+        "personalityTraits": null
+    },
+    {
+        "question": "Who is sleeping under the stars somewhere new?",
+        "answer": null,
+        "hasAnswered": false,
+        "hasSkipped": false,
+        "hasBlocked": false,
+        "personalityTraits": null
+    },
+    {
+        "question": "Who is catching local parades by accident?",
+        "answer": null,
+        "hasAnswered": false,
+        "hasSkipped": false,
+        "hasBlocked": false,
+        "personalityTraits": null
+    },
+    {
+        "question": "Who is making a bucket list for every country?",
+        "answer": null,
+        "hasAnswered": false,
+        "hasSkipped": false,
+        "hasBlocked": false,
+        "personalityTraits": null
+    },
+    {
+        "question": "Who is writing postcards to themselves?",
+        "answer": null,
+        "hasAnswered": false,
+        "hasSkipped": false,
+        "hasBlocked": false,
+        "personalityTraits": null
+    },
+    {
+        "question": "Who is hunting for unique local snacks?",
+        "answer": null,
+        "hasAnswered": false,
+        "hasSkipped": false,
+        "hasBlocked": false,
+        "personalityTraits": null
+    },
+    {
+        "question": "Who is riding scooters along coastlines?",
+        "answer": null,
+        "hasAnswered": false,
+        "hasSkipped": false,
+        "hasBlocked": false,
+        "personalityTraits": null
+    },
+    {
+        "question": "Who is visiting libraries in foreign cities?",
+        "answer": null,
+        "hasAnswered": false,
+        "hasSkipped": false,
+        "hasBlocked": false,
+        "personalityTraits": null
+    },
+    {
+        "question": "Who is joining cooking classes abroad?",
+        "answer": null,
+        "hasAnswered": false,
+        "hasSkipped": false,
+        "hasBlocked": false,
+        "personalityTraits": null
+    },
+    {
+        "question": "Who is spotting wildlife in new habitats?",
+        "answer": null,
+        "hasAnswered": false,
+        "hasSkipped": false,
+        "hasBlocked": false,
+        "personalityTraits": null
+    },
+    {
+        "question": "Who is discovering secret speakeasies?",
+        "answer": null,
+        "hasAnswered": false,
+        "hasSkipped": false,
+        "hasBlocked": false,
+        "personalityTraits": null
+    },
+    {
+        "question": "Who is carrying a travel journal everywhere?",
+        "answer": null,
+        "hasAnswered": false,
+        "hasSkipped": false,
+        "hasBlocked": false,
+        "personalityTraits": null
+    },
+    {
+        "question": "Who is capturing strangers in candid photos?",
+        "answer": null,
+        "hasAnswered": false,
+        "hasSkipped": false,
+        "hasBlocked": false,
+        "personalityTraits": null
+    },
+    {
+        "question": "Who is haggling in markets with charm?",
+        "answer": null,
+        "hasAnswered": false,
+        "hasSkipped": false,
+        "hasBlocked": false,
+        "personalityTraits": null
+    },
+    {
+        "question": "Who is hiking trails no one else knows about?",
+        "answer": null,
+        "hasAnswered": false,
+        "hasSkipped": false,
+        "hasBlocked": false,
+        "personalityTraits": null
+    },
+    {
+        "question": "Who is using paper maps for nostalgia?",
+        "answer": null,
+        "hasAnswered": false,
+        "hasSkipped": false,
+        "hasBlocked": false,
+        "personalityTraits": null
+    },
+    {
+        "question": "Who is waking up early just to explore in silence?",
+        "answer": null,
+        "hasAnswered": false,
+        "hasSkipped": false,
+        "hasBlocked": false,
+        "personalityTraits": null
+    },
+    {
+        "question": "Who is flying solo for the thrill?",
+        "answer": null,
+        "hasAnswered": false,
+        "hasSkipped": false,
+        "hasBlocked": false,
+        "personalityTraits": null
+    },
+    {
+        "question": "Who is sipping wine with strangers in the countryside?",
+        "answer": null,
+        "hasAnswered": false,
+        "hasSkipped": false,
+        "hasBlocked": false,
+        "personalityTraits": null
+    },
+    {
+        "question": "Who is curating custom Google Maps lists?",
+        "answer": null,
+        "hasAnswered": false,
+        "hasSkipped": false,
+        "hasBlocked": false,
+        "personalityTraits": null
+    },
+    {
+        "question": "Who is exchanging stories with fellow travelers?",
+        "answer": null,
+        "hasAnswered": false,
+        "hasSkipped": false,
+        "hasBlocked": false,
+        "personalityTraits": null
+    },
+    {
+        "question": "Who is planning layovers long enough to explore?",
+        "answer": null,
+        "hasAnswered": false,
+        "hasSkipped": false,
+        "hasBlocked": false,
+        "personalityTraits": null
+    },
+    {
+        "question": "Who is couchsurfing across continents?",
+        "answer": null,
+        "hasAnswered": false,
+        "hasSkipped": false,
+        "hasBlocked": false,
+        "personalityTraits": null
+    },
+    {
+        "question": "Who is learning history through travel instead of textbooks?",
+        "answer": null,
+        "hasAnswered": false,
+        "hasSkipped": false,
+        "hasBlocked": false,
+        "personalityTraits": null
+    },
+    {
+        "question": "Who is bringing home spices instead of souvenirs?",
+        "answer": null,
+        "hasAnswered": false,
+        "hasSkipped": false,
+        "hasBlocked": false,
+        "personalityTraits": null
+    },
+    {
+        "question": "Who is diving into local traditions wholeheartedly?",
+        "answer": null,
+        "hasAnswered": false,
+        "hasSkipped": false,
+        "hasBlocked": false,
+        "personalityTraits": null
+    },
+    {
+        "question": "Who is dancing at festivals with locals?",
+        "answer": null,
+        "hasAnswered": false,
+        "hasSkipped": false,
+        "hasBlocked": false,
+        "personalityTraits": null
+    },
+    {
+        "question": "Who is helping others navigate while abroad?",
+        "answer": null,
+        "hasAnswered": false,
+        "hasSkipped": false,
+        "hasBlocked": false,
+        "personalityTraits": null
+    },
+    {
+        "question": "Who is collecting sand from every beach?",
+        "answer": null,
+        "hasAnswered": false,
+        "hasSkipped": false,
+        "hasBlocked": false,
+        "personalityTraits": null
+    },
+    {
+        "question": "Who is picking up local slang effortlessly?",
+        "answer": null,
+        "hasAnswered": false,
+        "hasSkipped": false,
+        "hasBlocked": false,
+        "personalityTraits": null
+    },
+    {
+        "question": "Who is journaling travel dreams at night?",
+        "answer": null,
+        "hasAnswered": false,
+        "hasSkipped": false,
+        "hasBlocked": false,
+        "personalityTraits": null
+    },
+    {
+        "question": "Who is planning a digital detox in the mountains?",
+        "answer": null,
+        "hasAnswered": false,
+        "hasSkipped": false,
+        "hasBlocked": false,
+        "personalityTraits": null
+    },
+    {
+        "question": "Who is asking locals for the best food spots?",
+        "answer": null,
+        "hasAnswered": false,
+        "hasSkipped": false,
+        "hasBlocked": false,
+        "personalityTraits": null
+    },
+    {
+        "question": "Who is photographing textures, not just landmarks?",
+        "answer": null,
+        "hasAnswered": false,
+        "hasSkipped": false,
+        "hasBlocked": false,
+        "personalityTraits": null
+    },
+    {
+        "question": "Who is reflecting on life mid-flight?",
+        "answer": null,
+        "hasAnswered": false,
+        "hasSkipped": false,
+        "hasBlocked": false,
+        "personalityTraits": null
+    },
+    {
+        "question": "Who is choosing window seats for the view?",
+        "answer": null,
+        "hasAnswered": false,
+        "hasSkipped": false,
+        "hasBlocked": false,
+        "personalityTraits": null
+    },
+    {
+        "question": "Who is telling travel stories like myths?",
+        "answer": null,
+        "hasAnswered": false,
+        "hasSkipped": false,
+        "hasBlocked": false,
+        "personalityTraits": null
+    },
+    {
+        "question": "Who is traveling for love, not just adventure?",
+        "answer": null,
+        "hasAnswered": false,
+        "hasSkipped": false,
+        "hasBlocked": false,
+        "personalityTraits": null
+    }
+]

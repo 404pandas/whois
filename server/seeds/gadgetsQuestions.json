@@ -1,0 +1,898 @@
+[
+    {
+        "question": "Who is more likely to buy the latest smartphone?",
+        "answer": null,
+        "hasAnswered": false,
+        "hasSkipped": false,
+        "hasBlocked": false,
+        "personalityTraits": null
+    },
+    {
+        "question": "Who is more likely to build their own computer?",
+        "answer": null,
+        "hasAnswered": false,
+        "hasSkipped": false,
+        "hasBlocked": false,
+        "personalityTraits": null
+    },
+    {
+        "question": "Who is more likely to be a tech enthusiast?",
+        "answer": null,
+        "hasAnswered": false,
+        "hasSkipped": false,
+        "hasBlocked": false,
+        "personalityTraits": null
+    },
+    {
+        "question": "Who is more likely to have a favorite app?",
+        "answer": null,
+        "hasAnswered": false,
+        "hasSkipped": false,
+        "hasBlocked": false,
+        "personalityTraits": null
+    },
+    {
+        "question": "Who is more likely to follow tech news?",
+        "answer": null,
+        "hasAnswered": false,
+        "hasSkipped": false,
+        "hasBlocked": false,
+        "personalityTraits": null
+    },
+    {
+        "question": "Who is more likely to try virtual reality?",
+        "answer": null,
+        "hasAnswered": false,
+        "hasSkipped": false,
+        "hasBlocked": false,
+        "personalityTraits": null
+    },
+    {
+        "question": "Who is more likely to have a smart home device?",
+        "answer": null,
+        "hasAnswered": false,
+        "hasSkipped": false,
+        "hasBlocked": false,
+        "personalityTraits": null
+    },
+    {
+        "question": "Who is more likely to play video games?",
+        "answer": null,
+        "hasAnswered": false,
+        "hasSkipped": false,
+        "hasBlocked": false,
+        "personalityTraits": null
+    },
+    {
+        "question": "Who is more likely to use social media daily?",
+        "answer": null,
+        "hasAnswered": false,
+        "hasSkipped": false,
+        "hasBlocked": false,
+        "personalityTraits": null
+    },
+    {
+        "question": "Who is more likely to have a favorite gadget?",
+        "answer": null,
+        "hasAnswered": false,
+        "hasSkipped": false,
+        "hasBlocked": false,
+        "personalityTraits": null
+    },
+    {
+        "question": "Who is more likely to take online courses?",
+        "answer": null,
+        "hasAnswered": false,
+        "hasSkipped": false,
+        "hasBlocked": false,
+        "personalityTraits": null
+    },
+    {
+        "question": "Who is more likely to be an early adopter of technology?",
+        "answer": null,
+        "hasAnswered": false,
+        "hasSkipped": false,
+        "hasBlocked": false,
+        "personalityTraits": null
+    },
+    {
+        "question": "Who is more likely to have a favorite tech brand?",
+        "answer": null,
+        "hasAnswered": false,
+        "hasSkipped": false,
+        "hasBlocked": false,
+        "personalityTraits": null
+    },
+    {
+        "question": "Who is more likely to enjoy coding or programming?",
+        "answer": null,
+        "hasAnswered": false,
+        "hasSkipped": false,
+        "hasBlocked": false,
+        "personalityTraits": null
+    },
+    {
+        "question": "Who is more likely to have a tech-related hobby?",
+        "answer": null,
+        "hasAnswered": false,
+        "hasSkipped": false,
+        "hasBlocked": false,
+        "personalityTraits": null
+    },
+    {
+        "question": "Who is more likely to use a fitness tracker?",
+        "answer": null,
+        "hasAnswered": false,
+        "hasSkipped": false,
+        "hasBlocked": false,
+        "personalityTraits": null
+    },
+    {
+        "question": "Who is more likely to have a favorite video streaming service?",
+        "answer": null,
+        "hasAnswered": false,
+        "hasSkipped": false,
+        "hasBlocked": false,
+        "personalityTraits": null
+    },
+    {
+        "question": "Who is more likely to enjoy photography with a camera?",
+        "answer": null,
+        "hasAnswered": false,
+        "hasSkipped": false,
+        "hasBlocked": false,
+        "personalityTraits": null
+    },
+    {
+        "question": "Who is more likely to have a favorite tech podcast?",
+        "answer": null,
+        "hasAnswered": false,
+        "hasSkipped": false,
+        "hasBlocked": false,
+        "personalityTraits": null
+    },
+    {
+        "question": "Who is more likely to be interested in AI or robotics?",
+        "answer": null,
+        "hasAnswered": false,
+        "hasSkipped": false,
+        "hasBlocked": false,
+        "personalityTraits": null
+    },
+    {
+        "question": "Who is always up-to-date with the latest technology?",
+        "answer": null,
+        "hasAnswered": false,
+        "hasSkipped": false,
+        "hasBlocked": false,
+        "personalityTraits": null
+    },
+    {
+        "question": "Who is constantly trying out new apps?",
+        "answer": null,
+        "hasAnswered": false,
+        "hasSkipped": false,
+        "hasBlocked": false,
+        "personalityTraits": null
+    },
+    {
+        "question": "Who is a master at troubleshooting tech issues?",
+        "answer": null,
+        "hasAnswered": false,
+        "hasSkipped": false,
+        "hasBlocked": false,
+        "personalityTraits": null
+    },
+    {
+        "question": "Who is obsessed with gadgets?",
+        "answer": null,
+        "hasAnswered": false,
+        "hasSkipped": false,
+        "hasBlocked": false,
+        "personalityTraits": null
+    },
+    {
+        "question": "Who is always looking for the best deals on tech products?",
+        "answer": null,
+        "hasAnswered": false,
+        "hasSkipped": false,
+        "hasBlocked": false,
+        "personalityTraits": null
+    },
+    {
+        "question": "Who is always on the lookout for the next big thing in tech?",
+        "answer": null,
+        "hasAnswered": false,
+        "hasSkipped": false,
+        "hasBlocked": false,
+        "personalityTraits": null
+    },
+    {
+        "question": "Who is known for their extensive tech knowledge?",
+        "answer": null,
+        "hasAnswered": false,
+        "hasSkipped": false,
+        "hasBlocked": false,
+        "personalityTraits": null
+    },
+    {
+        "question": "Who is the first to get the latest smartphone?",
+        "answer": null,
+        "hasAnswered": false,
+        "hasSkipped": false,
+        "hasBlocked": false,
+        "personalityTraits": null
+    },
+    {
+        "question": "Who is the person who gets all their devices to work together seamlessly?",
+        "answer": null,
+        "hasAnswered": false,
+        "hasSkipped": false,
+        "hasBlocked": false,
+        "personalityTraits": null
+    },
+    {
+        "question": "Who is always upgrading their computer setup?",
+        "answer": null,
+        "hasAnswered": false,
+        "hasSkipped": false,
+        "hasBlocked": false,
+        "personalityTraits": null
+    },
+    {
+        "question": "Who is an expert at using social media?",
+        "answer": null,
+        "hasAnswered": false,
+        "hasSkipped": false,
+        "hasBlocked": false,
+        "personalityTraits": null
+    },
+    {
+        "question": "Who is always watching tech reviews before buying something?",
+        "answer": null,
+        "hasAnswered": false,
+        "hasSkipped": false,
+        "hasBlocked": false,
+        "personalityTraits": null
+    },
+    {
+        "question": "Who is the one who has a smart home full of devices?",
+        "answer": null,
+        "hasAnswered": false,
+        "hasSkipped": false,
+        "hasBlocked": false,
+        "personalityTraits": null
+    },
+    {
+        "question": "Who is the one who builds their own PC from scratch?",
+        "answer": null,
+        "hasAnswered": false,
+        "hasSkipped": false,
+        "hasBlocked": false,
+        "personalityTraits": null
+    },
+    {
+        "question": "Who is known for their love of gaming?",
+        "answer": null,
+        "hasAnswered": false,
+        "hasSkipped": false,
+        "hasBlocked": false,
+        "personalityTraits": null
+    },
+    {
+        "question": "Who is the one who tries every new tech gadget as soon as it comes out?",
+        "answer": null,
+        "hasAnswered": false,
+        "hasSkipped": false,
+        "hasBlocked": false,
+        "personalityTraits": null
+    },
+    {
+        "question": "Who is the person who can hack a problem with any tech device?",
+        "answer": null,
+        "hasAnswered": false,
+        "hasSkipped": false,
+        "hasBlocked": false,
+        "personalityTraits": null
+    },
+    {
+        "question": "Who is constantly organizing their apps and files?",
+        "answer": null,
+        "hasAnswered": false,
+        "hasSkipped": false,
+        "hasBlocked": false,
+        "personalityTraits": null
+    },
+    {
+        "question": "Who is the one who has a deep understanding of the latest tech trends?",
+        "answer": null,
+        "hasAnswered": false,
+        "hasSkipped": false,
+        "hasBlocked": false,
+        "personalityTraits": null
+    },
+    {
+        "question": "Who is the one who always has the newest tech accessories?",
+        "answer": null,
+        "hasAnswered": false,
+        "hasSkipped": false,
+        "hasBlocked": false,
+        "personalityTraits": null
+    },
+    {
+        "question": "Who is the one who spends the most time on tech forums?",
+        "answer": null,
+        "hasAnswered": false,
+        "hasSkipped": false,
+        "hasBlocked": false,
+        "personalityTraits": null
+    },
+    {
+        "question": "Who is the person who loves experimenting with new operating systems?",
+        "answer": null,
+        "hasAnswered": false,
+        "hasSkipped": false,
+        "hasBlocked": false,
+        "personalityTraits": null
+    },
+    {
+        "question": "Who is the one who prefers tech over fashion?",
+        "answer": null,
+        "hasAnswered": false,
+        "hasSkipped": false,
+        "hasBlocked": false,
+        "personalityTraits": null
+    },
+    {
+        "question": "Who is always discussing the latest tech in group chats?",
+        "answer": null,
+        "hasAnswered": false,
+        "hasSkipped": false,
+        "hasBlocked": false,
+        "personalityTraits": null
+    },
+    {
+        "question": "Who is the one who buys tech products that no one else has heard of?",
+        "answer": null,
+        "hasAnswered": false,
+        "hasSkipped": false,
+        "hasBlocked": false,
+        "personalityTraits": null
+    },
+    {
+        "question": "Who is the one who loves experimenting with virtual reality?",
+        "answer": null,
+        "hasAnswered": false,
+        "hasSkipped": false,
+        "hasBlocked": false,
+        "personalityTraits": null
+    },
+    {
+        "question": "Who is known for their extensive collection of video games?",
+        "answer": null,
+        "hasAnswered": false,
+        "hasSkipped": false,
+        "hasBlocked": false,
+        "personalityTraits": null
+    },
+    {
+        "question": "Who is the one who is always streaming or recording videos?",
+        "answer": null,
+        "hasAnswered": false,
+        "hasSkipped": false,
+        "hasBlocked": false,
+        "personalityTraits": null
+    },
+    {
+        "question": "Who is the one who can explain tech jargon like it\u2019s second nature?",
+        "answer": null,
+        "hasAnswered": false,
+        "hasSkipped": false,
+        "hasBlocked": false,
+        "personalityTraits": null
+    },
+    {
+        "question": "Who is the one who has a custom-built gaming rig?",
+        "answer": null,
+        "hasAnswered": false,
+        "hasSkipped": false,
+        "hasBlocked": false,
+        "personalityTraits": null
+    },
+    {
+        "question": "Who is the one who is constantly upgrading their smartphone?",
+        "answer": null,
+        "hasAnswered": false,
+        "hasSkipped": false,
+        "hasBlocked": false,
+        "personalityTraits": null
+    },
+    {
+        "question": "Who is the one who is a frequent contributor to tech blogs?",
+        "answer": null,
+        "hasAnswered": false,
+        "hasSkipped": false,
+        "hasBlocked": false,
+        "personalityTraits": null
+    },
+    {
+        "question": "Who is the one who always uses the latest tech software?",
+        "answer": null,
+        "hasAnswered": false,
+        "hasSkipped": false,
+        "hasBlocked": false,
+        "personalityTraits": null
+    },
+    {
+        "question": "Who is the one who loves trying out new video streaming services?",
+        "answer": null,
+        "hasAnswered": false,
+        "hasSkipped": false,
+        "hasBlocked": false,
+        "personalityTraits": null
+    },
+    {
+        "question": "Who is the person who always knows the latest tech news?",
+        "answer": null,
+        "hasAnswered": false,
+        "hasSkipped": false,
+        "hasBlocked": false,
+        "personalityTraits": null
+    },
+    {
+        "question": "Who is always experimenting with new gadgets and apps?",
+        "answer": null,
+        "hasAnswered": false,
+        "hasSkipped": false,
+        "hasBlocked": false,
+        "personalityTraits": null
+    },
+    {
+        "question": "Who is known for their love of photography and gadgets?",
+        "answer": null,
+        "hasAnswered": false,
+        "hasSkipped": false,
+        "hasBlocked": false,
+        "personalityTraits": null
+    },
+    {
+        "question": "Who is the one who always gives the best tech advice?",
+        "answer": null,
+        "hasAnswered": false,
+        "hasSkipped": false,
+        "hasBlocked": false,
+        "personalityTraits": null
+    },
+    {
+        "question": "Who is the one who spends hours perfecting their home network setup?",
+        "answer": null,
+        "hasAnswered": false,
+        "hasSkipped": false,
+        "hasBlocked": false,
+        "personalityTraits": null
+    },
+    {
+        "question": "Who is always creating and editing videos for fun?",
+        "answer": null,
+        "hasAnswered": false,
+        "hasSkipped": false,
+        "hasBlocked": false,
+        "personalityTraits": null
+    },
+    {
+        "question": "Who is the one who is constantly learning new tech skills?",
+        "answer": null,
+        "hasAnswered": false,
+        "hasSkipped": false,
+        "hasBlocked": false,
+        "personalityTraits": null
+    },
+    {
+        "question": "Who is the one who loves discussing AI and machine learning?",
+        "answer": null,
+        "hasAnswered": false,
+        "hasSkipped": false,
+        "hasBlocked": false,
+        "personalityTraits": null
+    },
+    {
+        "question": "Who is the one who has a passion for coding and programming?",
+        "answer": null,
+        "hasAnswered": false,
+        "hasSkipped": false,
+        "hasBlocked": false,
+        "personalityTraits": null
+    },
+    {
+        "question": "Who is always setting up and configuring new devices?",
+        "answer": null,
+        "hasAnswered": false,
+        "hasSkipped": false,
+        "hasBlocked": false,
+        "personalityTraits": null
+    },
+    {
+        "question": "Who is the one who loves collecting and testing new tech gadgets?",
+        "answer": null,
+        "hasAnswered": false,
+        "hasSkipped": false,
+        "hasBlocked": false,
+        "personalityTraits": null
+    },
+    {
+        "question": "Who is the one who prefers using digital tools for everything?",
+        "answer": null,
+        "hasAnswered": false,
+        "hasSkipped": false,
+        "hasBlocked": false,
+        "personalityTraits": null
+    },
+    {
+        "question": "Who is the one who is always ahead of the curve in tech?",
+        "answer": null,
+        "hasAnswered": false,
+        "hasSkipped": false,
+        "hasBlocked": false,
+        "personalityTraits": null
+    },
+    {
+        "question": "Who is known for their love of tech podcasts?",
+        "answer": null,
+        "hasAnswered": false,
+        "hasSkipped": false,
+        "hasBlocked": false,
+        "personalityTraits": null
+    },
+    {
+        "question": "Who is the one who loves customizing their tech devices?",
+        "answer": null,
+        "hasAnswered": false,
+        "hasSkipped": false,
+        "hasBlocked": false,
+        "personalityTraits": null
+    },
+    {
+        "question": "Who is the one who buys tech just to see how it works?",
+        "answer": null,
+        "hasAnswered": false,
+        "hasSkipped": false,
+        "hasBlocked": false,
+        "personalityTraits": null
+    },
+    {
+        "question": "Who is the one who is always optimizing their computer's performance?",
+        "answer": null,
+        "hasAnswered": false,
+        "hasSkipped": false,
+        "hasBlocked": false,
+        "personalityTraits": null
+    },
+    {
+        "question": "Who is always looking for new ways to improve their digital life?",
+        "answer": null,
+        "hasAnswered": false,
+        "hasSkipped": false,
+        "hasBlocked": false,
+        "personalityTraits": null
+    },
+    {
+        "question": "Who is the one who always finds shortcuts on their devices?",
+        "answer": null,
+        "hasAnswered": false,
+        "hasSkipped": false,
+        "hasBlocked": false,
+        "personalityTraits": null
+    },
+    {
+        "question": "Who is the one who loves learning about emerging technologies?",
+        "answer": null,
+        "hasAnswered": false,
+        "hasSkipped": false,
+        "hasBlocked": false,
+        "personalityTraits": null
+    },
+    {
+        "question": "Who is the one who enjoys solving tech challenges and puzzles?",
+        "answer": null,
+        "hasAnswered": false,
+        "hasSkipped": false,
+        "hasBlocked": false,
+        "personalityTraits": null
+    },
+    {
+        "question": "Who is always recommending new tech tools?",
+        "answer": null,
+        "hasAnswered": false,
+        "hasSkipped": false,
+        "hasBlocked": false,
+        "personalityTraits": null
+    },
+    {
+        "question": "Who is always researching the latest tech innovations?",
+        "answer": null,
+        "hasAnswered": false,
+        "hasSkipped": false,
+        "hasBlocked": false,
+        "personalityTraits": null
+    },
+    {
+        "question": "Who is the one who loves exploring new digital platforms?",
+        "answer": null,
+        "hasAnswered": false,
+        "hasSkipped": false,
+        "hasBlocked": false,
+        "personalityTraits": null
+    },
+    {
+        "question": "Who is the one who knows the most about online privacy?",
+        "answer": null,
+        "hasAnswered": false,
+        "hasSkipped": false,
+        "hasBlocked": false,
+        "personalityTraits": null
+    },
+    {
+        "question": "Who is always experimenting with different tech setups?",
+        "answer": null,
+        "hasAnswered": false,
+        "hasSkipped": false,
+        "hasBlocked": false,
+        "personalityTraits": null
+    },
+    {
+        "question": "Who is always configuring smart home devices?",
+        "answer": null,
+        "hasAnswered": false,
+        "hasSkipped": false,
+        "hasBlocked": false,
+        "personalityTraits": null
+    },
+    {
+        "question": "Who is the one who always uses tech for organizing life?",
+        "answer": null,
+        "hasAnswered": false,
+        "hasSkipped": false,
+        "hasBlocked": false,
+        "personalityTraits": null
+    },
+    {
+        "question": "Who is known for their tech-savvy skills at work?",
+        "answer": null,
+        "hasAnswered": false,
+        "hasSkipped": false,
+        "hasBlocked": false,
+        "personalityTraits": null
+    },
+    {
+        "question": "Who is the one who always has a tech project in the works?",
+        "answer": null,
+        "hasAnswered": false,
+        "hasSkipped": false,
+        "hasBlocked": false,
+        "personalityTraits": null
+    },
+    {
+        "question": "Who is the one who is always troubleshooting tech problems?",
+        "answer": null,
+        "hasAnswered": false,
+        "hasSkipped": false,
+        "hasBlocked": false,
+        "personalityTraits": null
+    },
+    {
+        "question": "Who is the one who has multiple streaming subscriptions?",
+        "answer": null,
+        "hasAnswered": false,
+        "hasSkipped": false,
+        "hasBlocked": false,
+        "personalityTraits": null
+    },
+    {
+        "question": "Who is always recommending the best tech gear?",
+        "answer": null,
+        "hasAnswered": false,
+        "hasSkipped": false,
+        "hasBlocked": false,
+        "personalityTraits": null
+    },
+    {
+        "question": "Who is the one who loves creating digital content?",
+        "answer": null,
+        "hasAnswered": false,
+        "hasSkipped": false,
+        "hasBlocked": false,
+        "personalityTraits": null
+    },
+    {
+        "question": "Who is always looking for the best tech deals online?",
+        "answer": null,
+        "hasAnswered": false,
+        "hasSkipped": false,
+        "hasBlocked": false,
+        "personalityTraits": null
+    },
+    {
+        "question": "Who is the one who prefers reading tech books and articles?",
+        "answer": null,
+        "hasAnswered": false,
+        "hasSkipped": false,
+        "hasBlocked": false,
+        "personalityTraits": null
+    },
+    {
+        "question": "Who is the one who has a knack for digital photography?",
+        "answer": null,
+        "hasAnswered": false,
+        "hasSkipped": false,
+        "hasBlocked": false,
+        "personalityTraits": null
+    },
+    {
+        "question": "Who is always testing out new gadgets?",
+        "answer": null,
+        "hasAnswered": false,
+        "hasSkipped": false,
+        "hasBlocked": false,
+        "personalityTraits": null
+    },
+    {
+        "question": "Who is the one who is constantly learning about new software?",
+        "answer": null,
+        "hasAnswered": false,
+        "hasSkipped": false,
+        "hasBlocked": false,
+        "personalityTraits": null
+    },
+    {
+        "question": "Who is the one who prefers working remotely with tech tools?",
+        "answer": null,
+        "hasAnswered": false,
+        "hasSkipped": false,
+        "hasBlocked": false,
+        "personalityTraits": null
+    },
+    {
+        "question": "Who is the one who can easily fix technical problems?",
+        "answer": null,
+        "hasAnswered": false,
+        "hasSkipped": false,
+        "hasBlocked": false,
+        "personalityTraits": null
+    },
+    {
+        "question": "Who is always working on coding projects in their spare time?",
+        "answer": null,
+        "hasAnswered": false,
+        "hasSkipped": false,
+        "hasBlocked": false,
+        "personalityTraits": null
+    },
+    {
+        "question": "Who is the one who has a digital device for every task?",
+        "answer": null,
+        "hasAnswered": false,
+        "hasSkipped": false,
+        "hasBlocked": false,
+        "personalityTraits": null
+    },
+    {
+        "question": "Who is the one who prefers virtual meetings over in-person ones?",
+        "answer": null,
+        "hasAnswered": false,
+        "hasSkipped": false,
+        "hasBlocked": false,
+        "personalityTraits": null
+    },
+    {
+        "question": "Who is always seeking the latest innovations in entertainment technology?",
+        "answer": null,
+        "hasAnswered": false,
+        "hasSkipped": false,
+        "hasBlocked": false,
+        "personalityTraits": null
+    },
+    {
+        "question": "Who is the one who has a deep understanding of cloud computing?",
+        "answer": null,
+        "hasAnswered": false,
+        "hasSkipped": false,
+        "hasBlocked": false,
+        "personalityTraits": null
+    },
+    {
+        "question": "Who is always looking for ways to optimize their tech?",
+        "answer": null,
+        "hasAnswered": false,
+        "hasSkipped": false,
+        "hasBlocked": false,
+        "personalityTraits": null
+    },
+    {
+        "question": "Who is the one who loves discussing the future of technology?",
+        "answer": null,
+        "hasAnswered": false,
+        "hasSkipped": false,
+        "hasBlocked": false,
+        "personalityTraits": null
+    },
+    {
+        "question": "Who is the one who loves trying out new tech for creative purposes?",
+        "answer": null,
+        "hasAnswered": false,
+        "hasSkipped": false,
+        "hasBlocked": false,
+        "personalityTraits": null
+    },
+    {
+        "question": "Who is always staying up late reading about tech?",
+        "answer": null,
+        "hasAnswered": false,
+        "hasSkipped": false,
+        "hasBlocked": false,
+        "personalityTraits": null
+    },
+    {
+        "question": "Who is the one who prefers a digital-first approach to everything?",
+        "answer": null,
+        "hasAnswered": false,
+        "hasSkipped": false,
+        "hasBlocked": false,
+        "personalityTraits": null
+    },
+    {
+        "question": "Who is the one who loves making tech tutorials?",
+        "answer": null,
+        "hasAnswered": false,
+        "hasSkipped": false,
+        "hasBlocked": false,
+        "personalityTraits": null
+    },
+    {
+        "question": "Who is always tinkering with new hardware?",
+        "answer": null,
+        "hasAnswered": false,
+        "hasSkipped": false,
+        "hasBlocked": false,
+        "personalityTraits": null
+    },
+    {
+        "question": "Who is the one who loves the idea of smart cities and IoT?",
+        "answer": null,
+        "hasAnswered": false,
+        "hasSkipped": false,
+        "hasBlocked": false,
+        "personalityTraits": null
+    },
+    {
+        "question": "Who is the one who is always testing the limits of their devices?",
+        "answer": null,
+        "hasAnswered": false,
+        "hasSkipped": false,
+        "hasBlocked": false,
+        "personalityTraits": null
+    },
+    {
+        "question": "Who is always optimizing their home network for speed?",
+        "answer": null,
+        "hasAnswered": false,
+        "hasSkipped": false,
+        "hasBlocked": false,
+        "personalityTraits": null
+    },
+    {
+        "question": "Who is the one who stays up-to-date on the latest video games?",
+        "answer": null,
+        "hasAnswered": false,
+        "hasSkipped": false,
+        "hasBlocked": false,
+        "personalityTraits": null
+    },
+    {
+        "question": "Who is always ahead of the game in terms of digital tools?",
+        "answer": null,
+        "hasAnswered": false,
+        "hasSkipped": false,
+        "hasBlocked": false,
+        "personalityTraits": null
+    }
+]

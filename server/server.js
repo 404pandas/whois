@@ -1,17 +1,36 @@
-// server.js
 import express from "express";
 import http from "http";
 import { Server } from "socket.io";
+import fs from "fs";
+import path from "path";
+import { fileURLToPath } from "url";
+
+const __filename = fileURLToPath(import.meta.url);
+const __dirname = path.dirname(__filename);
 
 const app = express();
 const server = http.createServer(app);
 const io = new Server(server, {
   cors: {
-    origin: "*", // In production, set this to your app's domain
+    origin: "*",
     methods: ["GET", "POST"],
   },
 });
 
+// Serve sorted questions
+app.get("/questions", (req, res) => {
+  const filePath = path.join(__dirname, "seeds/booksQuestions.json");
+  try {
+    const rawData = fs.readFileSync(filePath, "utf-8");
+    const questions = JSON.parse(rawData);
+    res.json(questions);
+  } catch (err) {
+    console.error("Error reading questions:", err);
+    res.status(500).json({ error: "Failed to load questions" });
+  }
+});
+
+// Socket.IO
 io.on("connection", (socket) => {
   console.log("New client connected:", socket.id);
 
@@ -26,15 +45,10 @@ io.on("connection", (socket) => {
     const room = io.sockets.adapter.rooms.get(roomCode);
     if (room) {
       socket.join(roomCode);
-      console.log(`Player ${socket.id} joined room ${roomCode}`); // <-- Added log
-
+      console.log(`Player ${socket.id} joined room ${roomCode}`);
       io.to(roomCode).emit("player_joined", { playerId: socket.id });
       socket.emit("join_success");
     } else {
-      console.log(
-        `Player ${socket.id} tried to join non-existent room ${roomCode}`
-      ); // Optional
-
       socket.emit("join_error", { error: "Room not found" });
     }
   });
