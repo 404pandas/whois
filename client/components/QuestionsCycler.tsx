@@ -1,24 +1,22 @@
 // components/useQuestionCycler.ts
 import { useEffect, useState, useRef } from "react";
-
-export interface Question {
-  id: number;
-  text: string;
-}
+import { useDispatch, useSelector } from "react-redux";
+import type { RootState, AppDispatch } from "../app/store";
+import { setQuestions, Question } from "../app/services/questionsSlice";
 
 export const useQuestionCycler = (
   totalTime = 15,
   onQuestionChange?: (q: Question) => void
 ) => {
-  const [questions, setQuestions] = useState<Question[]>([]);
+  const dispatch = useDispatch<AppDispatch>();
+  const questions = useSelector(
+    (state: RootState) => state.questions.questions
+  );
   const [currentIndex, setCurrentIndex] = useState(0);
   const [timeLeft, setTimeLeft] = useState(totalTime);
-
-  // Fix: use number | null for React Native / browser
   const timerRef = useRef<number | null>(null);
 
-  // Fetch questions
-  // Fetch questions
+  // Fetch questions once
   useEffect(() => {
     const fetchQuestions = async () => {
       try {
@@ -29,15 +27,15 @@ export const useQuestionCycler = (
           return;
         }
         const data: Question[] = await res.json();
-        console.log(data);
-        setQuestions(data);
+        dispatch(setQuestions(data));
         if (data.length > 0 && onQuestionChange) onQuestionChange(data[0]);
       } catch (err) {
         console.error(err);
       }
     };
-    fetchQuestions();
-  }, []);
+
+    if (questions.length === 0) fetchQuestions();
+  }, [dispatch, questions.length]);
 
   // Timer
   useEffect(() => {
