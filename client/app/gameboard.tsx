@@ -10,7 +10,7 @@ import {
 import theme from "@/theme";
 import { router } from "expo-router";
 import io from "socket.io-client";
-import { useQuestionCycler } from "../components/QuestionCycler";
+import { useQuestionCycler } from "../components/QuestionsCycler";
 
 const TOTAL_TIME = 15;
 const socket = io("http://localhost:3001"); // make sure your socket import is here
